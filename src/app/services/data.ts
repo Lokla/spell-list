@@ -94,7 +94,7 @@ export class Data {
       return of(this.classDataCache.get(cacheKey)!);
     }
     
-    return this.http.get<ClassSpells>(`/assets/${className.toLowerCase()}.json`).pipe(
+    return this.http.get<ClassSpells>(`assets/${className.toLowerCase()}.json`).pipe(
       tap((classData: ClassSpells) => {
         // Cache the loaded data
         this.classDataCache.set(cacheKey, classData);
