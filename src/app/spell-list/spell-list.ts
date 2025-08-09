@@ -28,7 +28,7 @@ export class SpellListComponent implements OnInit {
 
   // Filter options
   hiddenQualities: Set<string> = new Set();
-  hideSpellsAboveLevel70 = true;
+  hideSpellsAboveLevel70 = false;
   hideOutlevelledSpells = false;
   filteredSpells: SpellWithReplacement[] = [];
   showFilters = false;
@@ -239,11 +239,13 @@ export class SpellListComponent implements OnInit {
     this.dataService.getSpellsWithReplacementInfo(this.selectedClass).subscribe({
       next: (spells) => {
         this.spells = spells;
+        this.applyFilters();
         this.loading = false;
       },
       error: (error) => {
         console.error('Error loading spells:', error);
         this.spells = [];
+        this.filteredSpells = [];
         this.loading = false;
       }
     });
