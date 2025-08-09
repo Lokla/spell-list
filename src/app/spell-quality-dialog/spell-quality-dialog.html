@@ -1,0 +1,30 @@
+<div class="spell-quality-dialog-overlay" (click)="onCancel()">
+  <div class="spell-quality-dialog" (click)="$event.stopPropagation()">
+    <div class="dialog-header">
+      <h3>Set Spell Quality</h3>
+      <button class="close-btn" (click)="onCancel()">×</button>
+    </div>
+    
+    <div class="dialog-content">
+      <p class="spell-name">{{ data.spellName }}</p>
+      <p class="current-quality">Current: {{ data.currentQuality.displayName }}</p>
+      
+      <div class="quality-selector">
+        <label>Click a quality to select and save:</label>
+        <div class="quality-options">
+          <div 
+            *ngFor="let quality of availableQualities" 
+            class="quality-option"
+            [class.selected]="selectedQuality.name === quality.name"
+            (click)="onQualityChange(quality)">
+            <span class="quality-name">{{ quality.displayName }}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="dialog-actions">
+      <button class="close-btn-bottom" (click)="onCancel()">Close</button>
+    </div>
+  </div>
+</div>

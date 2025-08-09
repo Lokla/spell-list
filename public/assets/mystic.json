@@ -1,0 +1,785 @@
+{
+    "class": "Mystic",
+    "spells": [
+        {
+            "name": "Minor Aid",
+            "line": "Rejuvenation",
+            "level": "1"
+        },
+        {
+            "name": "Chilling Wind",
+            "line": "Velium Winds",
+            "level": "1"
+        },
+        {
+            "name": "Haze",
+            "line": "Haze",
+            "level": "2"
+        },
+        {
+            "name": "Fever",
+            "line": "Plague",
+            "level": "3"
+        },
+        {
+            "name": "Minor Ritual",
+            "line": "Ritual Healing",
+            "level": "3"
+        },
+        {
+            "name": "Minor Auspice",
+            "line": "Premonition",
+            "level": "4"
+        },
+        {
+            "name": "Runic Mark",
+            "line": "Runic Armor",
+            "level": "5"
+        },
+        {
+            "name": "Divine Providence",
+            "line": "Divine Providence",
+            "level": "5"
+        },
+        {
+            "name": "Summon Food and Water",
+            "line": "Summon Food and Water",
+            "level": "6"
+        },
+        {
+            "name": "Cure",
+            "line": "Cure",
+            "level": "6"
+        },
+        {
+            "name": "Aid",
+            "line": "Rejuvenation",
+            "level": "7"
+        },
+        {
+            "name": "Enfeeble",
+            "line": "Deteriorate",
+            "level": "7"
+        },
+        {
+            "name": "Revive",
+            "line": "Revive",
+            "level": "8"
+        },
+        {
+            "name": "Cold Wind",
+            "line": "Velium Winds",
+            "level": "9"
+        },
+        {
+            "name": "Enduring Breath",
+            "line": "Enduring Breath",
+            "level": "9"
+        },
+        {
+            "name": "Wailing Haze",
+            "line": "Haze",
+            "level": "10"
+        },
+        {
+            "name": "Ritual",
+            "line": "Ritual Healing",
+            "level": "10"
+        },
+        {
+            "name": "Sickness",
+            "line": "Plague",
+            "level": "11"
+        },
+        {
+            "name": "Spirit Guide",
+            "line": "Spirit Guide",
+            "level": "11"
+        },
+        {
+            "name": "Spectral Ward",
+            "line": "Ancestral Ward",
+            "level": "12"
+        },
+        {
+            "name": "Phantasmal Spirits",
+            "line": "Spirits",
+            "level": "13"
+        },
+        {
+            "name": "Spirit of the Wolf",
+            "line": "Spirit of the Wolf",
+            "level": "13"
+        },
+        {
+            "name": "Breath of Spirits",
+            "line": "Transcendence",
+            "level": "14"
+        },
+        {
+            "name": "Wards of Spirit",
+            "line": "Umbral Warding",
+            "level": "14"
+        },
+        {
+            "name": "Totemic Aid",
+            "line": "Rejuvenation",
+            "level": "15"
+        },
+        {
+            "name": "Eidolic Ward",
+            "line": "Eidolic Ward",
+            "level": "15"
+        },
+        {
+            "name": "Auspice",
+            "line": "Premonition",
+            "level": "16"
+        },
+        {
+            "name": "Spiritual Seal",
+            "line": "Ancestral Mettle",
+            "level": "16"
+        },
+        {
+            "name": "Grey Wind",
+            "line": "Velium Winds",
+            "level": "17"
+        },
+        {
+            "name": "Healing Ritual",
+            "line": "Ritual Healing",
+            "level": "18"
+        },
+        {
+            "name": "Spirit of the Bull",
+            "line": "Spirit of the Mammoth",
+            "level": "18"
+        },
+        {
+            "name": "Runic Symbol",
+            "line": "Runic Armor",
+            "level": "19"
+        },
+        {
+            "name": "Ghostly Ward",
+            "line": "Ancestral Ward",
+            "level": "19"
+        },
+        {
+            "name": "Ursine Elder",
+            "line": "Ursine Avatar",
+            "level": "20"
+        },
+        {
+            "name": "Delusion",
+            "line": "Deteriorate",
+            "level": "21"
+        },
+        {
+            "name": "Replenishment",
+            "line": "Rejuvenation",
+            "level": "22"
+        },
+        {
+            "name": "Path of the Grey",
+            "line": "Path of the Grey",
+            "level": "22"
+        },
+        {
+            "name": "Water Spirit",
+            "line": "Water Spirit",
+            "level": "23"
+        },
+        {
+            "name": "Cold Flame",
+            "line": "Glacial Flames",
+            "level": "23"
+        },
+        {
+            "name": "Keening Haze",
+            "line": "Haze",
+            "level": "24"
+        },
+        {
+            "name": "Miasma",
+            "line": "Plague",
+            "level": "25"
+        },
+        {
+            "name": "Ancestral Ward",
+            "line": "Ancestral Ward",
+            "level": "26"
+        },
+        {
+            "name": "Cry of the Ancients",
+            "line": "Echoes of the Ancients",
+            "level": "26"
+        },
+        {
+            "name": "Quelling Spirits",
+            "line": "Spirits",
+            "level": "27"
+        },
+        {
+            "name": "Spiritist's Salve",
+            "line": "Transcendence",
+            "level": "28"
+        },
+        {
+            "name": "Wards of Shadow",
+            "line": "Umbral Warding",
+            "level": "28"
+        },
+        {
+            "name": "Spiritual Replenishment",
+            "line": "Rejuvenation",
+            "level": "29"
+        },
+        {
+            "name": "Prophetic Guard",
+            "line": "Prophetic Ward",
+            "level": "29"
+        },
+        {
+            "name": "Omen",
+            "line": "Premonition",
+            "level": "30"
+        },
+        {
+            "name": "Umbral Fortitude",
+            "line": "Ancestral Mettle",
+            "level": "30"
+        },
+        {
+            "name": "Touch of the Grey",
+            "line": "Velium Winds",
+            "level": "31"
+        },
+        {
+            "name": "Spiritual Healing",
+            "line": "Ritual Healing",
+            "level": "32"
+        },
+        {
+            "name": "Spirit of the Rhino",
+            "line": "Spirit of the Mammoth",
+            "level": "32"
+        },
+        {
+            "name": "Anger of the Ancients",
+            "line": "Wrath of the Ancients",
+            "level": "32"
+        },
+        {
+            "name": "Runic Shield",
+            "line": "Runic Armor",
+            "level": "33"
+        },
+        {
+            "name": "Ursine Oracle",
+            "line": "Ursine Avatar",
+            "level": "34"
+        },
+        {
+            "name": "Fallacy",
+            "line": "Deteriorate",
+            "level": "35"
+        },
+        {
+            "name": "Grim Lethargy",
+            "line": "Lethargy",
+            "level": "35"
+        },
+        {
+            "name": "Umbral Trap",
+            "line": "Umbral Trap",
+            "level": "35"
+        },
+        {
+            "name": "Fields of the Grey",
+            "line": "Fields of the Grey",
+            "level": "36"
+        },
+        {
+            "name": "Icy Flames",
+            "line": "Glacial Flames",
+            "level": "37"
+        },
+        {
+            "name": "Howling Haze",
+            "line": "Haze",
+            "level": "38"
+        },
+        {
+            "name": "Pox",
+            "line": "Plague",
+            "level": "39"
+        },
+        {
+            "name": "Mourning Soul",
+            "line": "Lamenting Soul",
+            "level": "39"
+        },
+        {
+            "name": "Ancestral Aegis",
+            "line": "Ancestral Ward",
+            "level": "40"
+        },
+        {
+            "name": "Howl of the Ancients",
+            "line": "Echoes of the Ancients",
+            "level": "40"
+        },
+        {
+            "name": "Accordant Spirits",
+            "line": "Spirits",
+            "level": "41"
+        },
+        {
+            "name": "Eidolic Savior",
+            "line": "Ancestral Savior",
+            "level": "41"
+        },
+        {
+            "name": "Transcendent Blessing",
+            "line": "Transcendence",
+            "level": "42"
+        },
+        {
+            "name": "Umbral Ritual",
+            "line": "Umbral Warding",
+            "level": "42"
+        },
+        {
+            "name": "Fadingspirits",
+            "line": "Ebbing Spirit",
+            "level": "42"
+        },
+        {
+            "name": "Rejuvenating Chant",
+            "line": "Rejuvenation",
+            "level": "43"
+        },
+        {
+            "name": "Prophetic Shield",
+            "line": "Prophetic Ward",
+            "level": "43"
+        },
+        {
+            "name": "Prophecy",
+            "line": "Premonition",
+            "level": "44"
+        },
+        {
+            "name": "Eidolic Mettle",
+            "line": "Ancestral Mettle",
+            "level": "44"
+        },
+        {
+            "name": "Ire of the Grey",
+            "line": "Velium Winds",
+            "level": "45"
+        },
+        {
+            "name": "Aide",
+            "line": "Lunar Attendant",
+            "level": "45"
+        },
+        {
+            "name": "Enlightened Healing",
+            "line": "Ritual Healing",
+            "level": "46"
+        },
+        {
+            "name": "Spirit of the Elephant",
+            "line": "Spirit of the Mammoth",
+            "level": "46"
+        },
+        {
+            "name": "Fury of the Ancients",
+            "line": "Wrath of the Ancients",
+            "level": "46"
+        },
+        {
+            "name": "Runic Talisman",
+            "line": "Runic Armor",
+            "level": "47"
+        },
+        {
+            "name": "Avatar",
+            "line": "Ancestral Avatar",
+            "level": "47"
+        },
+        {
+            "name": "Ursine Prophet",
+            "line": "Ursine Avatar",
+            "level": "48"
+        },
+        {
+            "name": "Wards of the Eidolon",
+            "line": "Wards of the Eidolon",
+            "level": "48"
+        },
+        {
+            "name": "Chimerik",
+            "line": "Deteriorate",
+            "level": "49"
+        },
+        {
+            "name": "Dreadful Lethargy",
+            "line": "Lethargy",
+            "level": "49"
+        },
+        {
+            "name": "Recall of the Grey",
+            "line": "Recall of the Grey",
+            "level": "50"
+        },
+        {
+            "name": "Oberon",
+            "line": "Oberon",
+            "level": "50"
+        },
+        {
+            "name": "Arctic Flames",
+            "line": "Glacial Flames",
+            "level": "51"
+        },
+        {
+            "name": "Weeping Haze",
+            "line": "Haze",
+            "level": "52"
+        },
+        {
+            "name": "Torpor",
+            "line": "Torpor",
+            "level": "52"
+        },
+        {
+            "name": "Fevered Pox",
+            "line": "Plague",
+            "level": "53"
+        },
+        {
+            "name": "Grieving Soul",
+            "line": "Lamenting Soul",
+            "level": "53"
+        },
+        {
+            "name": "Sacred Aegis",
+            "line": "Ancestral Ward",
+            "level": "54"
+        },
+        {
+            "name": "Scream of the Ancients",
+            "line": "Echoes of the Ancients",
+            "level": "54"
+        },
+        {
+            "name": "Harmonious Spirits",
+            "line": "Spirits",
+            "level": "55"
+        },
+        {
+            "name": "Umbral Savior",
+            "line": "Ancestral Savior",
+            "level": "55"
+        },
+        {
+            "name": "Slothful Spirit",
+            "line": "Slothful Spirit",
+            "level": "55"
+        },
+        {
+            "name": "Transcendent Grace",
+            "line": "Transcendence",
+            "level": "56"
+        },
+        {
+            "name": "Umbral Sacrament",
+            "line": "Umbral Warding",
+            "level": "56"
+        },
+        {
+            "name": "Gasping Spirit",
+            "line": "Ebbing Spirit",
+            "level": "56"
+        },
+        {
+            "name": "Rejuvenating Rite",
+            "line": "Rejuvenation",
+            "level": "57"
+        },
+        {
+            "name": "Prophetic Aegis",
+            "line": "Prophetic Ward",
+            "level": "57"
+        },
+        {
+            "name": "Foretelling",
+            "line": "Premonition",
+            "level": "58"
+        },
+        {
+            "name": "Umbral Mettle",
+            "line": "Ancestral Mettle",
+            "level": "58"
+        },
+        {
+            "name": "Ancient Balm",
+            "line": "Ancestral Balm",
+            "level": "58"
+        },
+        {
+            "name": "Wrath of the Grey",
+            "line": "Velium Winds",
+            "level": "59"
+        },
+        {
+            "name": "Umbral Attendant",
+            "line": "Lunar Attendant",
+            "level": "59"
+        },
+        {
+            "name": "Learned Healing",
+            "line": "Ritual Healing",
+            "level": "60"
+        },
+        {
+            "name": "Spirit of the Mammoth",
+            "line": "Spirit of the Mammoth",
+            "level": "60"
+        },
+        {
+            "name": "Wrath of the Ancients",
+            "line": "Wrath of the Ancients",
+            "level": "60"
+        },
+        {
+            "name": "Runic Aegis",
+            "line": "Runic Armor",
+            "level": "61"
+        },
+        {
+            "name": "Ancient Avatar",
+            "line": "Ancestral Avatar",
+            "level": "61"
+        },
+        {
+            "name": "Ursine Augur",
+            "line": "Ursine Avatar",
+            "level": "62"
+        },
+        {
+            "name": "Lethargy",
+            "line": "Lethargy",
+            "level": "63"
+        },
+        {
+            "name": "Eidolon",
+            "line": "Deteriorate",
+            "level": "64"
+        },
+        {
+            "name": "Glacial Flames",
+            "line": "Glacial Flames",
+            "level": "65"
+        },
+        {
+            "name": "Bolster",
+            "line": "Bolster",
+            "level": "65"
+        },
+        {
+            "name": "Shrieking Haze",
+            "line": "Haze",
+            "level": "66"
+        },
+        {
+            "name": "Plague",
+            "line": "Plague",
+            "level": "67"
+        },
+        {
+            "name": "Lamenting Soul",
+            "line": "Lamenting Soul",
+            "level": "67"
+        },
+        {
+            "name": "Ethereal Aegis",
+            "line": "Ancestral Ward",
+            "level": "68"
+        },
+        {
+            "name": "Wail of the Ancients",
+            "line": "Echoes of the Ancients",
+            "level": "68"
+        },
+        {
+            "name": "Sonorus Spirits",
+            "line": "Spirits",
+            "level": "69"
+        },
+        {
+            "name": "Ghastly Savior",
+            "line": "Ancestral Savior",
+            "level": "69"
+        },
+        {
+            "name": "Transcendence",
+            "line": "Transcendence",
+            "level": "70"
+        },
+        {
+            "name": "Umbral Liturgy",
+            "line": "Umbral Warding",
+            "level": "70"
+        },
+        {
+            "name": "Ebbing Spirit",
+            "line": "Ebbing Spirit",
+            "level": "70"
+        },
+        {
+            "name": "Oberon Barrier",
+            "line": "Oberon",
+            "level": "70"
+        },
+        {
+            "name": "Rejuvenation",
+            "line": "Rejuvenation",
+            "level": "71"
+        },
+        {
+            "name": "Prophetic Ward",
+            "line": "Prophetic Ward",
+            "level": "71"
+        },
+        {
+            "name": "Velium Winds",
+            "line": "Velium Winds",
+            "level": "72"
+        },
+        {
+            "name": "Premonition",
+            "line": "Premonition",
+            "level": "72"
+        },
+        {
+            "name": "Ancestral Mettle",
+            "line": "Ancestral Mettle",
+            "level": "72"
+        },
+        {
+            "name": "Stoicism",
+            "line": "Torpor",
+            "level": "72"
+        },
+        {
+            "name": "Ritual Healing",
+            "line": "Ritual Healing",
+            "level": "73"
+        },
+        {
+            "name": "Spirit of the Mastodon",
+            "line": "Spirit of the Mammoth",
+            "level": "73"
+        },
+        {
+            "name": "Lunar Attendant",
+            "line": "Lunar Attendant",
+            "level": "73"
+        },
+        {
+            "name": "Runic Armor",
+            "line": "Runic Armor",
+            "level": "74"
+        },
+        {
+            "name": "Revenge of the Ancients",
+            "line": "Wrath of the Ancients",
+            "level": "74"
+        },
+        {
+            "name": "Slothiness",
+            "line": "Slothful Spirit",
+            "level": "74"
+        },
+        {
+            "name": "Ancestral Avatar",
+            "line": "Ancestral Avatar",
+            "level": "75"
+        },
+        {
+            "name": "Deteriorate",
+            "line": "Deteriorate",
+            "level": "76"
+        },
+        {
+            "name": "Ursine Avatar",
+            "line": "Ursine Avatar",
+            "level": "76"
+        },
+        {
+            "name": "Ancestral Balm",
+            "line": "Ancestral Balm",
+            "level": "76"
+        },
+        {
+            "name": "Ice Age",
+            "line": "Glacial Flames",
+            "level": "77"
+        },
+        {
+            "name": "Epidemic",
+            "line": "Plague",
+            "level": "78"
+        },
+        {
+            "name": "Ancient Aegis",
+            "line": "Ancestral Ward",
+            "level": "78"
+        },
+        {
+            "name": "Spirits",
+            "line": "Spirits",
+            "level": "79"
+        },
+        {
+            "name": "Umbral Warding",
+            "line": "Umbral Warding",
+            "level": "79"
+        },
+        {
+            "name": "Echoes of the Ancients",
+            "line": "Echoes of the Ancients",
+            "level": "79"
+        },
+        {
+            "name": "Transcendent Aid",
+            "line": "Transcendence",
+            "level": "80"
+        },
+        {
+            "name": "Ancestral Savior",
+            "line": "Ancestral Savior",
+            "level": "80"
+        },
+        {
+            "name": "Oberon Obstruction",
+            "line": "Oberon",
+            "level": "80"
+        },
+        {
+            "name": "Ancestral Sentry",
+            "line": "Ancestral Sentry",
+            "level": "80"
+        },
+        {
+            "name": "Cure Curse",
+            "line": "Cure Curse",
+            "level": "80"
+        }
+    ]
+}

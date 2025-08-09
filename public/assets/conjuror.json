@@ -1,0 +1,800 @@
+{
+    "class": "Conjuror",
+    "spells": [
+        {
+            "name": "Dust Blast",
+            "line": "Crystal Blast",
+            "level": "1"
+        },
+        {
+            "name": "Tellurian Recruit",
+            "line": "Earthen Avatar",
+            "level": "1"
+        },
+        {
+            "name": "Heal Servant",
+            "line": "Heal Servant",
+            "level": "2"
+        },
+        {
+            "name": "Ice Storm",
+            "line": "Ice Storm",
+            "level": "2"
+        },
+        {
+            "name": "Burn",
+            "line": "Fiery Annihilation",
+            "level": "3"
+        },
+        {
+            "name": "Magi's Shielding",
+            "line": "Magi's Shielding",
+            "level": "4"
+        },
+        {
+            "name": "Abate",
+            "line": "Quicksand",
+            "level": "5"
+        },
+        {
+            "name": "Arcane Augur",
+            "line": "Arcane Augur",
+            "level": "5"
+        },
+        {
+            "name": "Bind Sight",
+            "line": "Bind Sight",
+            "level": "5"
+        },
+        {
+            "name": "Sand Blast",
+            "line": "Crystal Blast",
+            "level": "6"
+        },
+        {
+            "name": "Cure Arcane",
+            "line": "Cure Arcane",
+            "level": "6"
+        },
+        {
+            "name": "Elemental Cover",
+            "line": "Elemental Aspect",
+            "level": "7"
+        },
+        {
+            "name": "Sleet",
+            "line": "Ice Storm",
+            "level": "8"
+        },
+        {
+            "name": "See Invisibility",
+            "line": "See Invisibility",
+            "level": "9"
+        },
+        {
+            "name": "Dispel Magic",
+            "line": "Dispel Magic",
+            "level": "9"
+        },
+        {
+            "name": "Greater Burn",
+            "line": "Fiery Annihilation",
+            "level": "10"
+        },
+        {
+            "name": "Shrink Servant",
+            "line": "Shrink Servant",
+            "level": "10"
+        },
+        {
+            "name": "Agitation",
+            "line": "Antagonize",
+            "level": "11"
+        },
+        {
+            "name": "Rock Blast",
+            "line": "Crystal Blast",
+            "level": "12"
+        },
+        {
+            "name": "Tellurian Follower",
+            "line": "Earthen Avatar",
+            "level": "12"
+        },
+        {
+            "name": "Earthly Brand",
+            "line": "Geotic Rune",
+            "level": "12"
+        },
+        {
+            "name": "Essence Shift",
+            "line": "Essence Shift",
+            "level": "13"
+        },
+        {
+            "name": "Aqueous Stone",
+            "line": "Aqueous Stone",
+            "level": "13"
+        },
+        {
+            "name": "Soothe Servant",
+            "line": "Heal Servant",
+            "level": "14"
+        },
+        {
+            "name": "Conjuror's Symbol",
+            "line": "Conjuror's Pact",
+            "level": "14"
+        },
+        {
+            "name": "Volatile Brace",
+            "line": "Defensive Haven",
+            "level": "14"
+        },
+        {
+            "name": "Call Servant",
+            "line": "Call Servant",
+            "level": "15"
+        },
+        {
+            "name": "Invisibility",
+            "line": "Invisibility",
+            "level": "15"
+        },
+        {
+            "name": "Petrify",
+            "line": "Petrify",
+            "level": "16"
+        },
+        {
+            "name": "Seism",
+            "line": "Earthquake",
+            "level": "16"
+        },
+        {
+            "name": "Burning Agony",
+            "line": "Fiery Annihilation",
+            "level": "17"
+        },
+        {
+            "name": "Shard of Essence",
+            "line": "Shard of Essence",
+            "level": "18"
+        },
+        {
+            "name": "Immobilize",
+            "line": "Quicksand",
+            "level": "19"
+        },
+        {
+            "name": "Spiked Earth",
+            "line": "Crystal Blast",
+            "level": "20"
+        },
+        {
+            "name": "Fireshield",
+            "line": "Flameshield",
+            "level": "20"
+        },
+        {
+            "name": "Igneous Apprentice",
+            "line": "Fiery Magician",
+            "level": "20"
+        },
+        {
+            "name": "Pullulation",
+            "line": "Elemental Aspect",
+            "level": "21"
+        },
+        {
+            "name": "Shards of Ice",
+            "line": "Ice Storm",
+            "level": "22"
+        },
+        {
+            "name": "Cat's Eye",
+            "line": "Cat's Eye",
+            "level": "23"
+        },
+        {
+            "name": "Fire Seed",
+            "line": "Fire Seed",
+            "level": "23"
+        },
+        {
+            "name": "Tellurian Soldier",
+            "line": "Earthen Avatar",
+            "level": "24"
+        },
+        {
+            "name": "Aqueous Stalkers",
+            "line": "Aqueous Swarm",
+            "level": "24"
+        },
+        {
+            "name": "Provocation",
+            "line": "Antagonize",
+            "level": "25"
+        },
+        {
+            "name": "Shattered Ground",
+            "line": "Shattered Earth",
+            "level": "25"
+        },
+        {
+            "name": "Alluvial Brand",
+            "line": "Geotic Rune",
+            "level": "26"
+        },
+        {
+            "name": "Instant Vim",
+            "line": "Essence Shift",
+            "level": "27"
+        },
+        {
+            "name": "Repair Servant",
+            "line": "Heal Servant",
+            "level": "28"
+        },
+        {
+            "name": "Conjuror's Mark",
+            "line": "Conjuror's Pact",
+            "level": "28"
+        },
+        {
+            "name": "Volatile Refuge",
+            "line": "Defensive Haven",
+            "level": "28"
+        },
+        {
+            "name": "Spiked Rain",
+            "line": "Crystal Blast",
+            "level": "29"
+        },
+        {
+            "name": "Frozen by Time",
+            "line": "Petrify",
+            "level": "30"
+        },
+        {
+            "name": "Tremor",
+            "line": "Earthquake",
+            "level": "30"
+        },
+        {
+            "name": "Flaming Agony",
+            "line": "Fiery Annihilation",
+            "level": "31"
+        },
+        {
+            "name": "Aery Outrider",
+            "line": "Aery Hunter",
+            "level": "32"
+        },
+        {
+            "name": "Quicksand",
+            "line": "Quicksand",
+            "level": "33"
+        },
+        {
+            "name": "Offering",
+            "line": "Sacrifice",
+            "level": "33"
+        },
+        {
+            "name": "Igneous Adept",
+            "line": "Fiery Magician",
+            "level": "34"
+        },
+        {
+            "name": "Embers",
+            "line": "Elemental Aspect",
+            "level": "35"
+        },
+        {
+            "name": "Scorchshield",
+            "line": "Flameshield",
+            "level": "35"
+        },
+        {
+            "name": "Roaring Flames",
+            "line": "Roaring Flames",
+            "level": "35"
+        },
+        {
+            "name": "Swarm of Bats",
+            "line": "Vampire Bats",
+            "level": "35"
+        },
+        {
+            "name": "Rockslide",
+            "line": "Ice Storm",
+            "level": "36"
+        },
+        {
+            "name": "Infernus Seed",
+            "line": "Fire Seed",
+            "level": "37"
+        },
+        {
+            "name": "Tellurian Veteran",
+            "line": "Earthen Avatar",
+            "level": "38"
+        },
+        {
+            "name": "Aqueous Hunters",
+            "line": "Aqueous Swarm",
+            "level": "38"
+        },
+        {
+            "name": "Vexation",
+            "line": "Antagonize",
+            "level": "39"
+        },
+        {
+            "name": "Shattered Earth",
+            "line": "Shattered Earth",
+            "level": "39"
+        },
+        {
+            "name": "Geotic Brand",
+            "line": "Geotic Rune",
+            "level": "40"
+        },
+        {
+            "name": "Vehement Stone",
+            "line": "Vehement Skin",
+            "level": "40"
+        },
+        {
+            "name": "Stoneskin",
+            "line": "Stoneskin",
+            "level": "40"
+        },
+        {
+            "name": "Instant Vigor",
+            "line": "Essence Shift",
+            "level": "41"
+        },
+        {
+            "name": "Renew Servant",
+            "line": "Heal Servant",
+            "level": "42"
+        },
+        {
+            "name": "Conjuror's Signet",
+            "line": "Conjuror's Pact",
+            "level": "42"
+        },
+        {
+            "name": "Volatile Haven",
+            "line": "Defensive Haven",
+            "level": "42"
+        },
+        {
+            "name": "Klicnik's Bite",
+            "line": "Crystal Blast",
+            "level": "43"
+        },
+        {
+            "name": "Heatwave",
+            "line": "Petrify",
+            "level": "44"
+        },
+        {
+            "name": "Quake",
+            "line": "Earthquake",
+            "level": "44"
+        },
+        {
+            "name": "Fiery Doom",
+            "line": "Fiery Annihilation",
+            "level": "45"
+        },
+        {
+            "name": "Aery Stalker",
+            "line": "Aery Hunter",
+            "level": "46"
+        },
+        {
+            "name": "Quagmire",
+            "line": "Quicksand",
+            "level": "47"
+        },
+        {
+            "name": "Sacrifice",
+            "line": "Sacrifice",
+            "level": "47"
+        },
+        {
+            "name": "Igneous Magi",
+            "line": "Fiery Magician",
+            "level": "48"
+        },
+        {
+            "name": "Minion's Intervention",
+            "line": "Master's Intervention",
+            "level": "48"
+        },
+        {
+            "name": "Phlogiston",
+            "line": "Elemental Aspect",
+            "level": "49"
+        },
+        {
+            "name": "Pyrotechnic",
+            "line": "Roaring Flames",
+            "level": "49"
+        },
+        {
+            "name": "Flash Flood",
+            "line": "Ice Storm",
+            "level": "50"
+        },
+        {
+            "name": "Flameshield",
+            "line": "Flameshield",
+            "level": "50"
+        },
+        {
+            "name": "Blazing Presence",
+            "line": "Blazing Avatar",
+            "level": "50"
+        },
+        {
+            "name": "Blazing Seed",
+            "line": "Fire Seed",
+            "level": "51"
+        },
+        {
+            "name": "Tellurian Myrmidon",
+            "line": "Earthen Avatar",
+            "level": "52"
+        },
+        {
+            "name": "Aqueous Swarm",
+            "line": "Aqueous Swarm",
+            "level": "52"
+        },
+        {
+            "name": "Call of The Hero",
+            "line": "Call of The Hero",
+            "level": "52"
+        },
+        {
+            "name": "Aggravate",
+            "line": "Antagonize",
+            "level": "53"
+        },
+        {
+            "name": "Shattered Land",
+            "line": "Shattered Earth",
+            "level": "53"
+        },
+        {
+            "name": "Horde of Bats",
+            "line": "Vampire Bats",
+            "level": "53"
+        },
+        {
+            "name": "Geotic Rune",
+            "line": "Geotic Rune",
+            "level": "54"
+        },
+        {
+            "name": "Vehement Rock",
+            "line": "Vehement Skin",
+            "level": "54"
+        },
+        {
+            "name": "Burning Vigor",
+            "line": "Essence Shift",
+            "level": "55"
+        },
+        {
+            "name": "Frigid Winds",
+            "line": "Winds of Velious",
+            "level": "55"
+        },
+        {
+            "name": "Rebuild Servant",
+            "line": "Heal Servant",
+            "level": "56"
+        },
+        {
+            "name": "Conjuror's Insignia",
+            "line": "Conjuror's Pact",
+            "level": "56"
+        },
+        {
+            "name": "Transient Haven",
+            "line": "Defensive Haven",
+            "level": "56"
+        },
+        {
+            "name": "Snapping Mandibles",
+            "line": "Crystal Blast",
+            "level": "57"
+        },
+        {
+            "name": "Calcify",
+            "line": "Petrify",
+            "level": "58"
+        },
+        {
+            "name": "Seismic Tremor",
+            "line": "Earthquake",
+            "level": "58"
+        },
+        {
+            "name": "Elemental Vestment",
+            "line": "Elemental Unity",
+            "level": "58"
+        },
+        {
+            "name": "Fiery Annihilation",
+            "line": "Fiery Annihilation",
+            "level": "59"
+        },
+        {
+            "name": "Aery Hunter",
+            "line": "Aery Hunter",
+            "level": "60"
+        },
+        {
+            "name": "Sandpool",
+            "line": "Quicksand",
+            "level": "61"
+        },
+        {
+            "name": "Expiation",
+            "line": "Sacrifice",
+            "level": "61"
+        },
+        {
+            "name": "Igneous Savant",
+            "line": "Fiery Magician",
+            "level": "62"
+        },
+        {
+            "name": "Intervention",
+            "line": "Master's Intervention",
+            "level": "62"
+        },
+        {
+            "name": "Escutcheon",
+            "line": "Elemental Aspect",
+            "level": "63"
+        },
+        {
+            "name": "Pyromancy",
+            "line": "Roaring Flames",
+            "level": "63"
+        },
+        {
+            "name": "Deluge",
+            "line": "Ice Storm",
+            "level": "64"
+        },
+        {
+            "name": "Pyreshield",
+            "line": "Flameshield",
+            "level": "64"
+        },
+        {
+            "name": "Ember Seed",
+            "line": "Fire Seed",
+            "level": "65"
+        },
+        {
+            "name": "Plane Shift",
+            "line": "Plane Shift",
+            "level": "65"
+        },
+        {
+            "name": "Tellurian Champion",
+            "line": "Earthen Avatar",
+            "level": "66"
+        },
+        {
+            "name": "Aqueous Horde",
+            "line": "Aqueous Swarm",
+            "level": "66"
+        },
+        {
+            "name": "Exasperate",
+            "line": "Antagonize",
+            "level": "67"
+        },
+        {
+            "name": "Shattered Terrain",
+            "line": "Shattered Earth",
+            "level": "67"
+        },
+        {
+            "name": "Geotic Seal",
+            "line": "Geotic Rune",
+            "level": "68"
+        },
+        {
+            "name": "Vehement Gem",
+            "line": "Vehement Skin",
+            "level": "68"
+        },
+        {
+            "name": "Blazing Vigor",
+            "line": "Essence Shift",
+            "level": "69"
+        },
+        {
+            "name": "Restore Servant",
+            "line": "Heal Servant",
+            "level": "70"
+        },
+        {
+            "name": "Conjuror's Brand",
+            "line": "Conjuror's Pact",
+            "level": "70"
+        },
+        {
+            "name": "Temporal Haven",
+            "line": "Defensive Haven",
+            "level": "70"
+        },
+        {
+            "name": "Blazing Avatar",
+            "line": "Blazing Avatar",
+            "level": "70"
+        },
+        {
+            "name": "Crystal Blast",
+            "line": "Crystal Blast",
+            "level": "71"
+        },
+        {
+            "name": "Earthquake",
+            "line": "Earthquake",
+            "level": "71"
+        },
+        {
+            "name": "Vampire Bats",
+            "line": "Vampire Bats",
+            "level": "71"
+        },
+        {
+            "name": "Effigy",
+            "line": "Fiery Annihilation",
+            "level": "72"
+        },
+        {
+            "name": "Solidify",
+            "line": "Petrify",
+            "level": "72"
+        },
+        {
+            "name": "Sediment",
+            "line": "Quicksand",
+            "level": "73"
+        },
+        {
+            "name": "Wind Sensei",
+            "line": "Aery Hunter",
+            "level": "73"
+        },
+        {
+            "name": "Najena's Essence Summoning",
+            "line": "Najena's Essence Summoning",
+            "level": "73"
+        },
+        {
+            "name": "Expire",
+            "line": "Sacrifice",
+            "level": "74"
+        },
+        {
+            "name": "Master's Intervention",
+            "line": "Master's Intervention",
+            "level": "74"
+        },
+        {
+            "name": "Winds of Velious",
+            "line": "Winds of Velious",
+            "level": "74"
+        },
+        {
+            "name": "Elemental Aspect",
+            "line": "Elemental Aspect",
+            "level": "75"
+        },
+        {
+            "name": "Inferno Golem",
+            "line": "Fiery Magician",
+            "level": "75"
+        },
+        {
+            "name": "Pyro",
+            "line": "Roaring Flames",
+            "level": "75"
+        },
+        {
+            "name": "Torrent",
+            "line": "Ice Storm",
+            "level": "76"
+        },
+        {
+            "name": "Infernoshield",
+            "line": "Flameshield",
+            "level": "76"
+        },
+        {
+            "name": "Elemental Unity",
+            "line": "Elemental Unity",
+            "level": "76"
+        },
+        {
+            "name": "Earthen Avatar",
+            "line": "Earthen Avatar",
+            "level": "77"
+        },
+        {
+            "name": "Magma Seed",
+            "line": "Fire Seed",
+            "level": "77"
+        },
+        {
+            "name": "Aqueous Serpents",
+            "line": "Aqueous Swarm",
+            "level": "77"
+        },
+        {
+            "name": "Antagonize",
+            "line": "Antagonize",
+            "level": "78"
+        },
+        {
+            "name": "Shattered Tectonics",
+            "line": "Shattered Earth",
+            "level": "78"
+        },
+        {
+            "name": "Vehement Skin",
+            "line": "Vehement Skin",
+            "level": "78"
+        },
+        {
+            "name": "Geoticism",
+            "line": "Geotic Rune",
+            "level": "79"
+        },
+        {
+            "name": "Capture Vigor",
+            "line": "Essence Shift",
+            "level": "79"
+        },
+        {
+            "name": "Reconstruct Servant",
+            "line": "Heal Servant",
+            "level": "80"
+        },
+        {
+            "name": "Conjuror's Pact",
+            "line": "Conjuror's Pact",
+            "level": "80"
+        },
+        {
+            "name": "Defensive Haven",
+            "line": "Defensive Haven",
+            "level": "80"
+        },
+        {
+            "name": "Blazing Manifestation",
+            "line": "Blazing Avatar",
+            "level": "80"
+        },
+        {
+            "name": "Communion",
+            "line": "Communion",
+            "level": "80"
+        }
+    ]
+}

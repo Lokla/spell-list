@@ -1,0 +1,775 @@
+{
+    "class": "Brigand",
+    "spells": [
+        {
+            "name": "Quick Thrust",
+            "line": "Puncture",
+            "level": "1"
+        },
+        {
+            "name": "Sneak",
+            "line": "Sneak",
+            "level": "1"
+        },
+        {
+            "name": "Tracking",
+            "line": "Tracking",
+            "level": "1"
+        },
+        {
+            "name": "Back Attack",
+            "line": "Backstab",
+            "level": "2"
+        },
+        {
+            "name": "Whack",
+            "line": "Rob",
+            "level": "2"
+        },
+        {
+            "name": "Double Dagger",
+            "line": "Battery and Assault",
+            "level": "3"
+        },
+        {
+            "name": "Pathfinding",
+            "line": "Pathfinding",
+            "level": "4"
+        },
+        {
+            "name": "Cheap Shot",
+            "line": "Cheap Shot",
+            "level": "4"
+        },
+        {
+            "name": "Diversion Blade",
+            "line": "Bum Rush",
+            "level": "5"
+        },
+        {
+            "name": "Lucky Break",
+            "line": "Lucky Break",
+            "level": "5"
+        },
+        {
+            "name": "Evade",
+            "line": "Evade",
+            "level": "6"
+        },
+        {
+            "name": "Tie",
+            "line": "Holdup",
+            "level": "7"
+        },
+        {
+            "name": "Thrust",
+            "line": "Puncture",
+            "level": "8"
+        },
+        {
+            "name": "Bruise",
+            "line": "Mug",
+            "level": "8"
+        },
+        {
+            "name": "Skew",
+            "line": "Rob",
+            "level": "9"
+        },
+        {
+            "name": "Backstab",
+            "line": "Backstab",
+            "level": "10"
+        },
+        {
+            "name": "Smuggle",
+            "line": "Smuggle",
+            "level": "11"
+        },
+        {
+            "name": "Flurry",
+            "line": "Battery and Assault",
+            "level": "12"
+        },
+        {
+            "name": "Street Smarts",
+            "line": "Street Smarts",
+            "level": "13"
+        },
+        {
+            "name": "Rash Advance",
+            "line": "Daring Advance",
+            "level": "13"
+        },
+        {
+            "name": "Circular Strike",
+            "line": "Barroom Negotiation",
+            "level": "14"
+        },
+        {
+            "name": "Puncture",
+            "line": "Puncture",
+            "level": "15"
+        },
+        {
+            "name": "Gouge",
+            "line": "Gouge",
+            "level": "15"
+        },
+        {
+            "name": "Stranging Throw",
+            "line": "Double Throw",
+            "level": "16"
+        },
+        {
+            "name": "Confound Adversaries",
+            "line": "Befuddle",
+            "level": "17"
+        },
+        {
+            "name": "Divert",
+            "line": "Evade",
+            "level": "18"
+        },
+        {
+            "name": "Dexterity",
+            "line": "Blackguard",
+            "level": "18"
+        },
+        {
+            "name": "Distracting Blade",
+            "line": "Bum Rush",
+            "level": "19"
+        },
+        {
+            "name": "Smugglers Talent",
+            "line": "Shadow Slip",
+            "level": "19"
+        },
+        {
+            "name": "Rake",
+            "line": "Murderous Rake",
+            "level": "20"
+        },
+        {
+            "name": "Ruse",
+            "line": "Shenanigans",
+            "level": "20"
+        },
+        {
+            "name": "Tangling Strike",
+            "line": "Rob",
+            "level": "21"
+        },
+        {
+            "name": "Knockaround",
+            "line": "Mug",
+            "level": "22"
+        },
+        {
+            "name": "Blackjack",
+            "line": "Black Jack",
+            "level": "22"
+        },
+        {
+            "name": "Tie Up",
+            "line": "Holdup",
+            "level": "23"
+        },
+        {
+            "name": "Hidden Shiv",
+            "line": "Backstab",
+            "level": "24"
+        },
+        {
+            "name": "Cuss",
+            "line": "Cuss",
+            "level": "24"
+        },
+        {
+            "name": "Escape",
+            "line": "Escape",
+            "level": "25"
+        },
+        {
+            "name": "Vicious Flurry",
+            "line": "Battery and Assault",
+            "level": "26"
+        },
+        {
+            "name": "Beg For Mercy",
+            "line": "Beg for Mercy",
+            "level": "26"
+        },
+        {
+            "name": "Rough Skin",
+            "line": "Street Smarts",
+            "level": "27"
+        },
+        {
+            "name": "Risky Advance",
+            "line": "Daring Advance",
+            "level": "27"
+        },
+        {
+            "name": "Restitution",
+            "line": "Barroom Negotiation",
+            "level": "28"
+        },
+        {
+            "name": "Snarl",
+            "line": "Entangle",
+            "level": "28"
+        },
+        {
+            "name": "Disarming Thrust",
+            "line": "Puncture",
+            "level": "29"
+        },
+        {
+            "name": "Vicious Stab",
+            "line": "Gouge",
+            "level": "29"
+        },
+        {
+            "name": "Maddening Shot",
+            "line": "Double Throw",
+            "level": "30"
+        },
+        {
+            "name": "Low Blow",
+            "line": "Stunning Blow",
+            "level": "30"
+        },
+        {
+            "name": "Baffle Adversaries",
+            "line": "Befuddle",
+            "level": "31"
+        },
+        {
+            "name": "Slip",
+            "line": "Evade",
+            "level": "32"
+        },
+        {
+            "name": "Knave",
+            "line": "Blackguard",
+            "level": "32"
+        },
+        {
+            "name": "Shank",
+            "line": "Shank",
+            "level": "32"
+        },
+        {
+            "name": "Bum Rush",
+            "line": "Bum Rush",
+            "level": "33"
+        },
+        {
+            "name": "Lie Low",
+            "line": "Shadow Slip",
+            "level": "33"
+        },
+        {
+            "name": "Vicious Rake",
+            "line": "Murderous Rake",
+            "level": "34"
+        },
+        {
+            "name": "Trickery",
+            "line": "Shenanigans",
+            "level": "34"
+        },
+        {
+            "name": "Bushwhack",
+            "line": "Rob",
+            "level": "35"
+        },
+        {
+            "name": "Ruthless Cunning",
+            "line": "Ruthless Cunning",
+            "level": "35"
+        },
+        {
+            "name": "Mug",
+            "line": "Mug",
+            "level": "36"
+        },
+        {
+            "name": "Sap",
+            "line": "Black Jack",
+            "level": "36"
+        },
+        {
+            "name": "Snag",
+            "line": "Holdup",
+            "level": "37"
+        },
+        {
+            "name": "Craven Delight",
+            "line": "Backstab",
+            "level": "38"
+        },
+        {
+            "name": "Upbraid",
+            "line": "Cuss",
+            "level": "38"
+        },
+        {
+            "name": "Deceit",
+            "line": "Deceit",
+            "level": "39"
+        },
+        {
+            "name": "Aggravated Assault",
+            "line": "Battery and Assault",
+            "level": "40"
+        },
+        {
+            "name": "Plead For Mercy",
+            "line": "Beg for Mercy",
+            "level": "40"
+        },
+        {
+            "name": "Aegis",
+            "line": "Street Smarts",
+            "level": "41"
+        },
+        {
+            "name": "Daring Advance",
+            "line": "Daring Advance",
+            "level": "41"
+        },
+        {
+            "name": "Forceful Negotiation",
+            "line": "Barroom Negotiation",
+            "level": "42"
+        },
+        {
+            "name": "Tangle",
+            "line": "Entangle",
+            "level": "42"
+        },
+        {
+            "name": "Concealed Blade",
+            "line": "Puncture",
+            "level": "43"
+        },
+        {
+            "name": "Waylay",
+            "line": "Gouge",
+            "level": "43"
+        },
+        {
+            "name": "Blunted Arrows",
+            "line": "Double Throw",
+            "level": "44"
+        },
+        {
+            "name": "Dirty Blow",
+            "line": "Stunning Blow",
+            "level": "44"
+        },
+        {
+            "name": "Desperate Thrust",
+            "line": "Desperate Thrust",
+            "level": "44"
+        },
+        {
+            "name": "Distract Adversaries",
+            "line": "Befuddle",
+            "level": "45"
+        },
+        {
+            "name": "Evasion",
+            "line": "Evade",
+            "level": "46"
+        },
+        {
+            "name": "Blackguard",
+            "line": "Blackguard",
+            "level": "46"
+        },
+        {
+            "name": "Shiv",
+            "line": "Shank",
+            "level": "46"
+        },
+        {
+            "name": "Gambit",
+            "line": "Bum Rush",
+            "level": "47"
+        },
+        {
+            "name": "Shadowslip",
+            "line": "Shadow Slip",
+            "level": "47"
+        },
+        {
+            "name": "Murderous Rake",
+            "line": "Murderous Rake",
+            "level": "48"
+        },
+        {
+            "name": "Deception",
+            "line": "Shenanigans",
+            "level": "48"
+        },
+        {
+            "name": "Run Through",
+            "line": "Rob",
+            "level": "49"
+        },
+        {
+            "name": "Wrangle",
+            "line": "Mug",
+            "level": "50"
+        },
+        {
+            "name": "Disable",
+            "line": "Black Jack",
+            "level": "50"
+        },
+        {
+            "name": "Debilitate",
+            "line": "Debilitate",
+            "level": "50"
+        },
+        {
+            "name": "Corral",
+            "line": "Holdup",
+            "level": "51"
+        },
+        {
+            "name": "Spineripper",
+            "line": "Backstab",
+            "level": "52"
+        },
+        {
+            "name": "Chasten",
+            "line": "Cuss",
+            "level": "52"
+        },
+        {
+            "name": "Amazing Reflexes",
+            "line": "Amazing Reflexes",
+            "level": "52"
+        },
+        {
+            "name": "Crafty Deceit",
+            "line": "Deceit",
+            "level": "53"
+        },
+        {
+            "name": "Vicious Assault",
+            "line": "Battery and Assault",
+            "level": "54"
+        },
+        {
+            "name": "Beseech For Mercy",
+            "line": "Beg for Mercy",
+            "level": "54"
+        },
+        {
+            "name": "Auspice",
+            "line": "Street Smarts",
+            "level": "55"
+        },
+        {
+            "name": "Audacious Advance",
+            "line": "Daring Advance",
+            "level": "55"
+        },
+        {
+            "name": "Dispatch",
+            "line": "Dispatch",
+            "level": "55"
+        },
+        {
+            "name": "Thuggish Negotiation",
+            "line": "Barroom Negotiation",
+            "level": "56"
+        },
+        {
+            "name": "Ensnarl",
+            "line": "Entangle",
+            "level": "56"
+        },
+        {
+            "name": "Shrouded Blade",
+            "line": "Puncture",
+            "level": "57"
+        },
+        {
+            "name": "Ambuscade",
+            "line": "Gouge",
+            "level": "57"
+        },
+        {
+            "name": "Flashy Throw",
+            "line": "Double Throw",
+            "level": "58"
+        },
+        {
+            "name": "Deceitful Blow",
+            "line": "Stunning Blow",
+            "level": "58"
+        },
+        {
+            "name": "Despairing Thrust",
+            "line": "Desperate Thrust",
+            "level": "58"
+        },
+        {
+            "name": "Double Up",
+            "line": "Double Up",
+            "level": "58"
+        },
+        {
+            "name": "Befuddle Adversaries",
+            "line": "Befuddle",
+            "level": "59"
+        },
+        {
+            "name": "Elude",
+            "line": "Evade",
+            "level": "60"
+        },
+        {
+            "name": "Ruffian",
+            "line": "Blackguard",
+            "level": "60"
+        },
+        {
+            "name": "Stab",
+            "line": "Shank",
+            "level": "60"
+        },
+        {
+            "name": "Sideswipe",
+            "line": "Bum Rush",
+            "level": "61"
+        },
+        {
+            "name": "Hideaway",
+            "line": "Shadow Slip",
+            "level": "61"
+        },
+        {
+            "name": "Ruinous Rake",
+            "line": "Murderous Rake",
+            "level": "62"
+        },
+        {
+            "name": "Subterfuge",
+            "line": "Shenanigans",
+            "level": "62"
+        },
+        {
+            "name": "Skewer",
+            "line": "Rob",
+            "level": "63"
+        },
+        {
+            "name": "Ruckus",
+            "line": "Mug",
+            "level": "64"
+        },
+        {
+            "name": "Restrain",
+            "line": "Black Jack",
+            "level": "64"
+        },
+        {
+            "name": "Secure",
+            "line": "Holdup",
+            "level": "65"
+        },
+        {
+            "name": "Band of Thugs",
+            "line": "Band of Thugs",
+            "level": "65"
+        },
+        {
+            "name": "Disembowel",
+            "line": "Backstab",
+            "level": "66"
+        },
+        {
+            "name": "Vaunt",
+            "line": "Cuss",
+            "level": "66"
+        },
+        {
+            "name": "Deceitfulness",
+            "line": "Deceit",
+            "level": "67"
+        },
+        {
+            "name": "Malicious Assault",
+            "line": "Battery and Assault",
+            "level": "68"
+        },
+        {
+            "name": "Appeal For Mercy",
+            "line": "Beg for Mercy",
+            "level": "68"
+        },
+        {
+            "name": "Hardened",
+            "line": "Street Smarts",
+            "level": "69"
+        },
+        {
+            "name": "Dauntless Advance",
+            "line": "Daring Advance",
+            "level": "69"
+        },
+        {
+            "name": "Underground Negotiation",
+            "line": "Barroom Negotiation",
+            "level": "70"
+        },
+        {
+            "name": "Entangle",
+            "line": "Entangle",
+            "level": "70"
+        },
+        {
+            "name": "Devitalize",
+            "line": "Debilitate",
+            "level": "70"
+        },
+        {
+            "name": "Jagged Blade",
+            "line": "Puncture",
+            "level": "71"
+        },
+        {
+            "name": "Remiss",
+            "line": "Gouge",
+            "level": "71"
+        },
+        {
+            "name": "Double Throw",
+            "line": "Double Throw",
+            "level": "71"
+        },
+        {
+            "name": "Befuddle",
+            "line": "Befuddle",
+            "level": "72"
+        },
+        {
+            "name": "Stunning Blow",
+            "line": "Stunning Blow",
+            "level": "72"
+        },
+        {
+            "name": "Compromising Thrust",
+            "line": "Desperate Thrust",
+            "level": "72"
+        },
+        {
+            "name": "Baffle",
+            "line": "Evade",
+            "level": "73"
+        },
+        {
+            "name": "Mercenary Stance",
+            "line": "Blackguard",
+            "level": "73"
+        },
+        {
+            "name": "Spew",
+            "line": "Shank",
+            "level": "73"
+        },
+        {
+            "name": "Sidestab",
+            "line": "Bum Rush",
+            "level": "74"
+        },
+        {
+            "name": "Blood Rake",
+            "line": "Murderous Rake",
+            "level": "74"
+        },
+        {
+            "name": "Shenanigans",
+            "line": "Shenanigans",
+            "level": "74"
+        },
+        {
+            "name": "Dispatched",
+            "line": "Dispatch",
+            "level": "74"
+        },
+        {
+            "name": "Rob",
+            "line": "Rob",
+            "level": "75"
+        },
+        {
+            "name": "Roughen",
+            "line": "Mug",
+            "level": "75"
+        },
+        {
+            "name": "Clock",
+            "line": "Black Jack",
+            "level": "75"
+        },
+        {
+            "name": "Holdup",
+            "line": "Holdup",
+            "level": "76"
+        },
+        {
+            "name": "Entrail",
+            "line": "Backstab",
+            "level": "77"
+        },
+        {
+            "name": "Snicker",
+            "line": "Cuss",
+            "level": "77"
+        },
+        {
+            "name": "Battery And Assault",
+            "line": "Battery and Assault",
+            "level": "78"
+        },
+        {
+            "name": "Hood of Thugs",
+            "line": "Band of Thugs",
+            "level": "78"
+        },
+        {
+            "name": "Savy",
+            "line": "Street Smarts",
+            "level": "79"
+        },
+        {
+            "name": "Adventurous Advance",
+            "line": "Daring Advance",
+            "level": "79"
+        },
+        {
+            "name": "Barroom Negotiation",
+            "line": "Barroom Negotiation",
+            "level": "80"
+        },
+        {
+            "name": "Enfeeblement",
+            "line": "Debilitate",
+            "level": "80"
+        },
+        {
+            "name": "Thieves Guild",
+            "line": "Thieves Guild",
+            "level": "80"
+        }
+    ]
+}

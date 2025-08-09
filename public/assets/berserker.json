@@ -1,0 +1,815 @@
+{
+    "class": "Berserker",
+    "spells": [
+        {
+            "name": "Taunt",
+            "line": "Mock",
+            "level": "1"
+        },
+        {
+            "name": "Wild Swing",
+            "line": "Rupture",
+            "level": "1"
+        },
+        {
+            "name": "Focus Anger",
+            "line": "Berserk Rage",
+            "level": "2"
+        },
+        {
+            "name": "Bullying Defense",
+            "line": "Aggressive Defense",
+            "level": "3"
+        },
+        {
+            "name": "Defensive Stance",
+            "line": "Unflinching Will",
+            "level": "4"
+        },
+        {
+            "name": "Uproar",
+            "line": "Abandoned Fury",
+            "level": "4"
+        },
+        {
+            "name": "Kick",
+            "line": "Knee Break",
+            "level": "5"
+        },
+        {
+            "name": "Fighting Chance",
+            "line": "Fighting Chance",
+            "level": "5"
+        },
+        {
+            "name": "Intervene",
+            "line": "Intercept",
+            "level": "6"
+        },
+        {
+            "name": "Whirl",
+            "line": "Bloodbath",
+            "level": "7"
+        },
+        {
+            "name": "Growl",
+            "line": "Enrage",
+            "level": "8"
+        },
+        {
+            "name": "Offend",
+            "line": "Mock",
+            "level": "9"
+        },
+        {
+            "name": "Bloodthirst",
+            "line": "Bloodlust",
+            "level": "9"
+        },
+        {
+            "name": "Focus Hate",
+            "line": "Berserk Rage",
+            "level": "10"
+        },
+        {
+            "name": "Raging Blow",
+            "line": "Raging Blow",
+            "level": "10"
+        },
+        {
+            "name": "Mangle",
+            "line": "Maul",
+            "level": "11"
+        },
+        {
+            "name": "Disorder",
+            "line": "Chaos",
+            "level": "12"
+        },
+        {
+            "name": "Hunker",
+            "line": "Wall of Rage",
+            "level": "13"
+        },
+        {
+            "name": "Tackle",
+            "line": "Body Check",
+            "level": "13"
+        },
+        {
+            "name": "Vicious Cut",
+            "line": "Mutilate",
+            "level": "14"
+        },
+        {
+            "name": "Wild Strike",
+            "line": "Rupture",
+            "level": "15"
+        },
+        {
+            "name": "Intimidating Defense",
+            "line": "Aggressive Defense",
+            "level": "15"
+        },
+        {
+            "name": "Mercenary Stance",
+            "line": "Unflinching Will",
+            "level": "16"
+        },
+        {
+            "name": "Insult",
+            "line": "Mock",
+            "level": "17"
+        },
+        {
+            "name": "Surround",
+            "line": "Head Crush",
+            "level": "17"
+        },
+        {
+            "name": "Reckless Aide",
+            "line": "Reckless Aide",
+            "level": "18"
+        },
+        {
+            "name": "Knee Break",
+            "line": "Knee Break",
+            "level": "19"
+        },
+        {
+            "name": "Screaming Rage",
+            "line": "Destructive Rage",
+            "level": "19"
+        },
+        {
+            "name": "Berserk",
+            "line": "Berserk Rage",
+            "level": "20"
+        },
+        {
+            "name": "Intercept",
+            "line": "Intercept",
+            "level": "20"
+        },
+        {
+            "name": "Furious Onslaught",
+            "line": "Bloodbath",
+            "level": "21"
+        },
+        {
+            "name": "Blood Rage",
+            "line": "Blood Rage",
+            "level": "21"
+        },
+        {
+            "name": "Fury",
+            "line": "Abandoned Fury",
+            "level": "22"
+        },
+        {
+            "name": "Enrage",
+            "line": "Enrage",
+            "level": "22"
+        },
+        {
+            "name": "Bloodlust",
+            "line": "Bloodlust",
+            "level": "23"
+        },
+        {
+            "name": "Raging Strike",
+            "line": "Raging Blow",
+            "level": "24"
+        },
+        {
+            "name": "Battle Chant",
+            "line": "War Cry",
+            "level": "24"
+        },
+        {
+            "name": "Maul",
+            "line": "Maul",
+            "level": "25"
+        },
+        {
+            "name": "Rescue",
+            "line": "Rescue",
+            "level": "25"
+        },
+        {
+            "name": "Havoc",
+            "line": "Chaos",
+            "level": "26"
+        },
+        {
+            "name": "Stifled Rage",
+            "line": "Controlled Rage",
+            "level": "26"
+        },
+        {
+            "name": "Wall of Fury",
+            "line": "Wall of Rage",
+            "level": "27"
+        },
+        {
+            "name": "Press",
+            "line": "Body Check",
+            "level": "27"
+        },
+        {
+            "name": "Vicious Blow",
+            "line": "Mutilate",
+            "level": "28"
+        },
+        {
+            "name": "Berserker Barrage",
+            "line": "Berserker Onslaught",
+            "level": "28"
+        },
+        {
+            "name": "Coup de Grace",
+            "line": "Rupture",
+            "level": "29"
+        },
+        {
+            "name": "Provoking Defense",
+            "line": "Aggressive Defense",
+            "level": "29"
+        },
+        {
+            "name": "Reckless Stance",
+            "line": "Unflinching Will",
+            "level": "30"
+        },
+        {
+            "name": "Weapon Shield",
+            "line": "Weapon Counter",
+            "level": "30"
+        },
+        {
+            "name": "Mad Cry",
+            "line": "Mock",
+            "level": "31"
+        },
+        {
+            "name": "Furious Rush",
+            "line": "Head Crush",
+            "level": "31"
+        },
+        {
+            "name": "Infuriation",
+            "line": "Reckless Aide",
+            "level": "32"
+        },
+        {
+            "name": "Stunning Cry",
+            "line": "Stunning Roar",
+            "level": "32"
+        },
+        {
+            "name": "Stomp",
+            "line": "Knee Break",
+            "level": "33"
+        },
+        {
+            "name": "Screaming Fury",
+            "line": "Destructive Rage",
+            "level": "33"
+        },
+        {
+            "name": "Rage",
+            "line": "Berserk Rage",
+            "level": "34"
+        },
+        {
+            "name": "Intercede",
+            "line": "Intercept",
+            "level": "34"
+        },
+        {
+            "name": "Whirlwind",
+            "line": "Bloodbath",
+            "level": "35"
+        },
+        {
+            "name": "Blood Flow",
+            "line": "Blood Rage",
+            "level": "35"
+        },
+        {
+            "name": "Unyielding Will",
+            "line": "Unyielding Will",
+            "level": "35"
+        },
+        {
+            "name": "Reckless Counter",
+            "line": "Abandoned Fury",
+            "level": "36"
+        },
+        {
+            "name": "Sunder",
+            "line": "Enrage",
+            "level": "36"
+        },
+        {
+            "name": "Tides of War",
+            "line": "Bloodlust",
+            "level": "37"
+        },
+        {
+            "name": "Violent Promise",
+            "line": "Raging Blow",
+            "level": "38"
+        },
+        {
+            "name": "War Chant",
+            "line": "War Cry",
+            "level": "38"
+        },
+        {
+            "name": "Relentless Battering",
+            "line": "Maul",
+            "level": "39"
+        },
+        {
+            "name": "Anarchy",
+            "line": "Chaos",
+            "level": "40"
+        },
+        {
+            "name": "Controlled Rage",
+            "line": "Controlled Rage",
+            "level": "40"
+        },
+        {
+            "name": "Vanquish",
+            "line": "Demolish",
+            "level": "40"
+        },
+        {
+            "name": "Wall of Wrath",
+            "line": "Wall of Rage",
+            "level": "41"
+        },
+        {
+            "name": "Raging Blows",
+            "line": "Body Check",
+            "level": "41"
+        },
+        {
+            "name": "Mutilate",
+            "line": "Mutilate",
+            "level": "42"
+        },
+        {
+            "name": "Berserker Assault",
+            "line": "Berserker Onslaught",
+            "level": "42"
+        },
+        {
+            "name": "Rupture",
+            "line": "Rupture",
+            "level": "43"
+        },
+        {
+            "name": "Offending Defense",
+            "line": "Aggressive Defense",
+            "level": "43"
+        },
+        {
+            "name": "Unflinching Will",
+            "line": "Unflinching Will",
+            "level": "44"
+        },
+        {
+            "name": "Weapon Guard",
+            "line": "Weapon Counter",
+            "level": "44"
+        },
+        {
+            "name": "Frenzy",
+            "line": "Frenzy",
+            "level": "44"
+        },
+        {
+            "name": "Bully",
+            "line": "Mock",
+            "level": "45"
+        },
+        {
+            "name": "No Quarter",
+            "line": "Head Crush",
+            "level": "45"
+        },
+        {
+            "name": "Vehemence",
+            "line": "Reckless Aide",
+            "level": "46"
+        },
+        {
+            "name": "Stunning Roar",
+            "line": "Stunning Roar",
+            "level": "46"
+        },
+        {
+            "name": "Wallop",
+            "line": "Knee Break",
+            "level": "47"
+        },
+        {
+            "name": "Destructive Rage",
+            "line": "Destructive Rage",
+            "level": "47"
+        },
+        {
+            "name": "Berserk Mastery",
+            "line": "Berserk Rage",
+            "level": "48"
+        },
+        {
+            "name": "Slaughter",
+            "line": "Bloodbath",
+            "level": "49"
+        },
+        {
+            "name": "Blood Boil",
+            "line": "Blood Rage",
+            "level": "49"
+        },
+        {
+            "name": "Furious Counter",
+            "line": "Abandoned Fury",
+            "level": "50"
+        },
+        {
+            "name": "Fearsome Shout",
+            "line": "Enrage",
+            "level": "50"
+        },
+        {
+            "name": "Rampage",
+            "line": "Rampage",
+            "level": "50"
+        },
+        {
+            "name": "Berserk Cry",
+            "line": "Bloodlust",
+            "level": "51"
+        },
+        {
+            "name": "Brutal Pledge",
+            "line": "Raging Blow",
+            "level": "52"
+        },
+        {
+            "name": "War Call",
+            "line": "War Cry",
+            "level": "52"
+        },
+        {
+            "name": "Insolent Gibe",
+            "line": "Insolence",
+            "level": "52"
+        },
+        {
+            "name": "Unyielding Battering",
+            "line": "Maul",
+            "level": "53"
+        },
+        {
+            "name": "Chaos",
+            "line": "Chaos",
+            "level": "54"
+        },
+        {
+            "name": "Subdued Rage",
+            "line": "Controlled Rage",
+            "level": "54"
+        },
+        {
+            "name": "Slay",
+            "line": "Demolish",
+            "level": "54"
+        },
+        {
+            "name": "Wall of Rage",
+            "line": "Wall of Rage",
+            "level": "55"
+        },
+        {
+            "name": "Devastating Blows",
+            "line": "Body Check",
+            "level": "55"
+        },
+        {
+            "name": "Vision of Madness",
+            "line": "Vision of Madness",
+            "level": "55"
+        },
+        {
+            "name": "Amputate",
+            "line": "Mutilate",
+            "level": "56"
+        },
+        {
+            "name": "Berserker Rush",
+            "line": "Berserker Onslaught",
+            "level": "56"
+        },
+        {
+            "name": "Breach",
+            "line": "Rupture",
+            "level": "57"
+        },
+        {
+            "name": "Taunting Defense",
+            "line": "Aggressive Defense",
+            "level": "57"
+        },
+        {
+            "name": "Courageous Will",
+            "line": "Unflinching Will",
+            "level": "58"
+        },
+        {
+            "name": "Weapon Aegis",
+            "line": "Weapon Counter",
+            "level": "58"
+        },
+        {
+            "name": "Frenzied Blows",
+            "line": "Frenzy",
+            "level": "58"
+        },
+        {
+            "name": "Open Wounds",
+            "line": "Open Wounds",
+            "level": "58"
+        },
+        {
+            "name": "Outrage",
+            "line": "Mock",
+            "level": "59"
+        },
+        {
+            "name": "Ruthless Strike",
+            "line": "Head Crush",
+            "level": "59"
+        },
+        {
+            "name": "Guarded Vehemence",
+            "line": "Reckless Aide",
+            "level": "60"
+        },
+        {
+            "name": "Stunning Howl",
+            "line": "Stunning Roar",
+            "level": "60"
+        },
+        {
+            "name": "Stampede",
+            "line": "Knee Break",
+            "level": "61"
+        },
+        {
+            "name": "Combative Rage",
+            "line": "Destructive Rage",
+            "level": "61"
+        },
+        {
+            "name": "Engulfing Rage",
+            "line": "Berserk Rage",
+            "level": "62"
+        },
+        {
+            "name": "Bloodbath",
+            "line": "Bloodbath",
+            "level": "63"
+        },
+        {
+            "name": "Blood Craze",
+            "line": "Blood Rage",
+            "level": "63"
+        },
+        {
+            "name": "Unrestrained Fury",
+            "line": "Abandoned Fury",
+            "level": "64"
+        },
+        {
+            "name": "Berate",
+            "line": "Enrage",
+            "level": "64"
+        },
+        {
+            "name": "Roar",
+            "line": "Bloodlust",
+            "level": "65"
+        },
+        {
+            "name": "Juggernaut",
+            "line": "Juggernaut",
+            "level": "65"
+        },
+        {
+            "name": "Violent Pledge",
+            "line": "Raging Blow",
+            "level": "66"
+        },
+        {
+            "name": "War Cry",
+            "line": "War Cry",
+            "level": "66"
+        },
+        {
+            "name": "Persistent Battering",
+            "line": "Maul",
+            "level": "67"
+        },
+        {
+            "name": "Mayhem",
+            "line": "Chaos",
+            "level": "68"
+        },
+        {
+            "name": "Suppressed Rage",
+            "line": "Controlled Rage",
+            "level": "68"
+        },
+        {
+            "name": "Demolish",
+            "line": "Demolish",
+            "level": "68"
+        },
+        {
+            "name": "Wall of Ferocity",
+            "line": "Wall of Rage",
+            "level": "69"
+        },
+        {
+            "name": "Agonizing Press",
+            "line": "Body Check",
+            "level": "69"
+        },
+        {
+            "name": "Disfigure",
+            "line": "Mutilate",
+            "level": "70"
+        },
+        {
+            "name": "Berserker Onslaught",
+            "line": "Berserker Onslaught",
+            "level": "70"
+        },
+        {
+            "name": "Destruction",
+            "line": "Rampage",
+            "level": "70"
+        },
+        {
+            "name": "Tresspass",
+            "line": "Rupture",
+            "level": "71"
+        },
+        {
+            "name": "Aggressive Defense",
+            "line": "Aggressive Defense",
+            "level": "71"
+        },
+        {
+            "name": "Frenzied Hits",
+            "line": "Frenzy",
+            "level": "71"
+        },
+        {
+            "name": "Mock",
+            "line": "Mock",
+            "level": "72"
+        },
+        {
+            "name": "Unlinching Stance",
+            "line": "Unflinching Will",
+            "level": "72"
+        },
+        {
+            "name": "Weapon Counter",
+            "line": "Weapon Counter",
+            "level": "72"
+        },
+        {
+            "name": "Insolence",
+            "line": "Insolence",
+            "level": "72"
+        },
+        {
+            "name": "Head Crush",
+            "line": "Head Crush",
+            "level": "73"
+        },
+        {
+            "name": "Relentless Rage",
+            "line": "Destructive Rage",
+            "level": "73"
+        },
+        {
+            "name": "Stunning Bellow",
+            "line": "Stunning Roar",
+            "level": "73"
+        },
+        {
+            "name": "Berserk Rage",
+            "line": "Berserk Rage",
+            "level": "74"
+        },
+        {
+            "name": "Trample",
+            "line": "Knee Break",
+            "level": "74"
+        },
+        {
+            "name": "Bloodshower",
+            "line": "Bloodbath",
+            "level": "75"
+        },
+        {
+            "name": "Blood Regeneration",
+            "line": "Blood Rage",
+            "level": "75"
+        },
+        {
+            "name": "Fury Stance",
+            "line": "Abandoned Fury",
+            "level": "76"
+        },
+        {
+            "name": "Bellow",
+            "line": "Enrage",
+            "level": "76"
+        },
+        {
+            "name": "Rouse",
+            "line": "Bloodlust",
+            "level": "76"
+        },
+        {
+            "name": "War Pledge",
+            "line": "Raging Blow",
+            "level": "77"
+        },
+        {
+            "name": "Invasion",
+            "line": "Maul",
+            "level": "77"
+        },
+        {
+            "name": "War Fury",
+            "line": "War Cry",
+            "level": "77"
+        },
+        {
+            "name": "New Rage without Name",
+            "line": "Controlled Rage",
+            "level": "78"
+        },
+        {
+            "name": "Ram",
+            "line": "Demolish",
+            "level": "78"
+        },
+        {
+            "name": "Anarchism",
+            "line": "Chaos",
+            "level": "79"
+        },
+        {
+            "name": "Wall of Madness",
+            "line": "Wall of Rage",
+            "level": "79"
+        },
+        {
+            "name": "Body Check",
+            "line": "Body Check",
+            "level": "79"
+        },
+        {
+            "name": "Dismember",
+            "line": "Mutilate",
+            "level": "80"
+        },
+        {
+            "name": "Intrusion",
+            "line": "Berserker Onslaught",
+            "level": "80"
+        },
+        {
+            "name": "Rage",
+            "line": "Rampage",
+            "level": "80"
+        },
+        {
+            "name": "Adrenaline",
+            "line": "Adrenaline",
+            "level": "80"
+        }
+    ]
+}

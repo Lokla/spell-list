@@ -1,0 +1,52 @@
+    <app-header (spellDatabaseClicked)="navigateToSpells()" (characterClicked)="navigateToCharacters()"></app-header>
+<main class="main-content">
+  <div class="container">
+    <section class="welcome-section" *ngIf="!showCharacterManagement && !showSpellViewer && !showSpellList">
+      <h2>Welcome to EQ2 Spell Planner</h2>
+      <p class="subtitle">Organize and plan your EverQuest II spells and abilities with ease</p>
+    </section>
+    
+    <section class="quick-actions" *ngIf="!showCharacterManagement && !showSpellViewer && !showSpellList">
+    <!-- Spell List Section -->
+    <section class="spell-list-section" *ngIf="showSpellList">
+      <div class="back-navigation">
+        <button class="back-btn" (click)="goBackToMain()">← Back to Main</button>
+      </div>
+      <app-spell-list></app-spell-list>
+    </section>
+      <div class="action-card">
+        <h3>Manage Characters</h3>
+        <p>Create and manage your EQ2 characters</p>
+        <button class="action-btn" (click)="navigateToCharacters()">Manage Characters</button>
+      </div>
+      
+      <div class="action-card">
+        <h3>View Spell Books</h3>
+        <p>Browse your characters' spells and abilities</p>
+        <button class="action-btn" (click)="navigateToSpells()">View Spell Books</button>
+      </div>
+      
+      <div class="action-card">
+        <h3>Quick Stats</h3>
+        <p>{{ characterCount }} character(s) created</p>
+        <button class="action-btn" (click)="showStats()">View Details</button>
+      </div>
+    </section>
+
+    <!-- Character Management Section -->
+    <section class="character-management-section" *ngIf="showCharacterManagement">
+      <div class="back-navigation">
+        <button class="back-btn" (click)="goBackToMain()">← Back to Main</button>
+      </div>
+      <app-character-management></app-character-management>
+    </section>
+
+    <!-- Spell Viewer Section -->
+    <section class="spell-viewer-section" *ngIf="showSpellViewer">
+      <div class="back-navigation">
+        <button class="back-btn" (click)="goBackToMain()">← Back to Main</button>
+      </div>
+      <app-spell-viewer></app-spell-viewer>
+    </section>
+  </div>
+</main>

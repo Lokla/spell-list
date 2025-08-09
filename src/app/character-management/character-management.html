@@ -1,0 +1,140 @@
+<div class="character-management">
+  <div class="container">
+    <h2>Character Management</h2>
+    
+    <div class="character-actions">
+      <button class="primary-btn" (click)="showCreateForm = !showCreateForm">
+        {{ showCreateForm ? 'Cancel' : 'Create New Character' }}
+      </button>
+      <button class="secondary-btn" (click)="showImportForm = !showImportForm">
+        {{ showImportForm ? 'Cancel' : 'Import Character' }}
+      </button>
+    </div>
+
+    <!-- Create Character Form -->
+    <div class="create-form" *ngIf="showCreateForm">
+      <h3>Create New Character</h3>
+      <form (ngSubmit)="createCharacter()" #characterForm="ngForm">
+        <div class="form-group">
+          <label for="characterName">Character Name:</label>
+          <input 
+            type="text" 
+            id="characterName" 
+            [(ngModel)]="newCharacter.name" 
+            name="characterName"
+            required>
+        </div>
+        
+        <div class="form-group">
+          <label for="characterClass">Class:</label>
+          <select 
+            id="characterClass" 
+            [(ngModel)]="newCharacter.class" 
+            name="characterClass"
+            required>
+            <option value="">Select a class</option>
+            <option value="Berserker">Berserker</option>
+            <option value="Guardian">Guardian</option>
+            <option value="Paladin">Paladin</option>
+            <option value="Shadowknight">Shadowknight</option>
+            <option value="Monk">Monk</option>
+            <option value="Bruiser">Bruiser</option>
+            <option value="Assassin">Assassin</option>
+            <option value="Ranger">Ranger</option>
+            <option value="Brigand">Brigand</option>
+            <option value="Swashbuckler">Swashbuckler</option>
+            <option value="Wizard">Wizard</option>
+            <option value="Warlock">Warlock</option>
+            <option value="Conjuror">Conjuror</option>
+            <option value="Necromancer">Necromancer</option>
+            <option value="Illusionist">Illusionist</option>
+            <option value="Coercer">Coercer</option>
+            <option value="Templar">Templar</option>
+            <option value="Inquisitor">Inquisitor</option>
+            <option value="Defiler">Defiler</option>
+            <option value="Mystic">Mystic</option>
+            <option value="Fury">Fury</option>
+            <option value="Warden">Warden</option>
+            <option value="Troubador">Troubador</option>
+            <option value="Dirge">Dirge</option>
+          </select>
+        </div>
+        
+        <div class="form-group">
+          <label for="characterLevel">Level:</label>
+          <input 
+            type="number" 
+            id="characterLevel" 
+            [(ngModel)]="newCharacter.level" 
+            name="characterLevel"
+            min="1" 
+            max="125"
+            required>
+        </div>
+        
+        <div class="form-actions">
+          <button type="submit" class="primary-btn" [disabled]="!characterForm.form.valid">
+            Create Character
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <!-- Import Character Form -->
+    <div class="import-form" *ngIf="showImportForm">
+      <h3>Import Character</h3>
+      <div class="import-content">
+        <p>Select a character JSON file to import:</p>
+        <div class="file-input-container">
+          <input 
+            type="file" 
+            id="characterFile" 
+            accept=".json"
+            (change)="onFileSelected($event)"
+            class="file-input">
+          <label for="characterFile" class="file-input-label">
+            📁 Choose File
+          </label>
+        </div>
+        <div class="import-notes">
+          <p><strong>Note:</strong> If a character with the same name already exists, you will be asked if you want to overwrite it.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Character List -->
+    <div class="character-list">
+      <h3>Your Characters</h3>
+      <div class="characters-grid" *ngIf="characters.length > 0">
+        <div class="character-card" *ngFor="let character of characters">
+          <div class="character-actions-icons">
+            <button class="icon-btn edit-icon" (click)="editCharacter(character)" title="Edit Character">
+              ✏️
+            </button>
+            <button class="icon-btn apply-noquality-icon" (click)="applyNoQualitySettings(character)" title="Apply No Quality Settings">
+              🔄
+            </button>
+            <button class="icon-btn export-icon" (click)="exportCharacter(character)" title="Export Character as JSON">
+              📤
+            </button>
+            <button class="icon-btn delete-icon" (click)="deleteCharacter(character.id)" title="Delete Character">
+              🗑️
+            </button>
+          </div>
+          <div class="character-info">
+            <h4>{{ character.name }}</h4>
+            <p class="character-class">{{ character.class }}</p>
+            <p class="character-level">Level {{ character.level }}</p>
+            <p class="spell-count">{{ character.spells.length }} spells</p>
+          </div>
+          <div class="character-main-actions">
+            <button class="spell-list-btn" (click)="viewCharacterSpells(character)">View Spells</button>
+          </div>
+        </div>
+      </div>
+      <div class="no-characters" *ngIf="characters.length === 0">
+        <p>No characters created yet. Create your first character above!</p>
+      </div>
+    </div>
+  </div>
+</div>

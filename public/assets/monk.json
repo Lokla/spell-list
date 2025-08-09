@@ -1,0 +1,810 @@
+{
+    "class": "Monk",
+    "spells": [
+        {
+            "name": "Forward Strike",
+            "line": "Waking Dragon",
+            "level": "1"
+        },
+        {
+            "name": "Taunt",
+            "line": "Silent Threat",
+            "level": "1"
+        },
+        {
+            "name": "Cold Fist",
+            "line": "Frozen Palm",
+            "level": "2"
+        },
+        {
+            "name": "Focus",
+            "line": "Mend",
+            "level": "3"
+        },
+        {
+            "name": "Dodging Monkey",
+            "line": "Crouching Tiger",
+            "level": "4"
+        },
+        {
+            "name": "Trainees Blessing",
+            "line": "Flow Like Wind",
+            "level": "4"
+        },
+        {
+            "name": "Kick",
+            "line": "Roundhouse Kick",
+            "level": "5"
+        },
+        {
+            "name": "Fighting Chance",
+            "line": "Fighting Chance",
+            "level": "5"
+        },
+        {
+            "name": "Intervene",
+            "line": "Intercept",
+            "level": "6"
+        },
+        {
+            "name": "Cobra Circle",
+            "line": "Crescent Strike",
+            "level": "7"
+        },
+        {
+            "name": "Beckon",
+            "line": "Challenge",
+            "level": "8"
+        },
+        {
+            "name": "Stare",
+            "line": "Silent Threat",
+            "level": "9"
+        },
+        {
+            "name": "Swiftness",
+            "line": "Calm Tranquility",
+            "level": "9"
+        },
+        {
+            "name": "Patch",
+            "line": "Mend",
+            "level": "10"
+        },
+        {
+            "name": "Power Strike",
+            "line": "Striking Cobra",
+            "level": "10"
+        },
+        {
+            "name": "Thrust Kick",
+            "line": "Rising Phoenix",
+            "level": "11"
+        },
+        {
+            "name": "Martial Focus",
+            "line": "Inner Calm",
+            "level": "12"
+        },
+        {
+            "name": "Pouncing Leopard",
+            "line": "Charging Tiger",
+            "level": "13"
+        },
+        {
+            "name": "Will of the Void",
+            "line": "Will of the Heavens",
+            "level": "13"
+        },
+        {
+            "name": "Feign Death",
+            "line": "Feign Death",
+            "level": "14"
+        },
+        {
+            "name": "Focused Strike",
+            "line": "Waking Dragon",
+            "level": "15"
+        },
+        {
+            "name": "Thundering Hand",
+            "line": "Lightning Palm",
+            "level": "15"
+        },
+        {
+            "name": "Body Like Water",
+            "line": "Crouching Tiger",
+            "level": "16"
+        },
+        {
+            "name": "Staring Threat",
+            "line": "Silent Threat",
+            "level": "17"
+        },
+        {
+            "name": "Freezing Fist",
+            "line": "Frozen Palm",
+            "level": "17"
+        },
+        {
+            "name": "Martial Order",
+            "line": "Tranquil Vision",
+            "level": "18"
+        },
+        {
+            "name": "Roundhouse Kick",
+            "line": "Roundhouse Kick",
+            "level": "19"
+        },
+        {
+            "name": "Mantis Jabs",
+            "line": "Five Rings",
+            "level": "19"
+        },
+        {
+            "name": "Mend",
+            "line": "Mend",
+            "level": "20"
+        },
+        {
+            "name": "Intercept",
+            "line": "Intercept",
+            "level": "20"
+        },
+        {
+            "name": "Tranquil Blessing",
+            "line": "Flow Like Wind",
+            "level": "21"
+        },
+        {
+            "name": "Sparking Cobra",
+            "line": "Crescent Strike",
+            "level": "21"
+        },
+        {
+            "name": "Hand Clap",
+            "line": "Challenge",
+            "level": "22"
+        },
+        {
+            "name": "Swooping Dragon",
+            "line": "Rising Dragon",
+            "level": "22"
+        },
+        {
+            "name": "Wisdom of Zephyl",
+            "line": "Calm Tranquility",
+            "level": "23"
+        },
+        {
+            "name": "Grappling Bear",
+            "line": "Striking Cobra",
+            "level": "24"
+        },
+        {
+            "name": "Wind Walk",
+            "line": "Wind Walk",
+            "level": "24"
+        },
+        {
+            "name": "Plodding Tortoise",
+            "line": "Rising Phoenix",
+            "level": "25"
+        },
+        {
+            "name": "Rescue",
+            "line": "Rescue",
+            "level": "25"
+        },
+        {
+            "name": "Karmic Focus",
+            "line": "Inner Calm",
+            "level": "26"
+        },
+        {
+            "name": "Mountain's Face",
+            "line": "Body Like Mountain",
+            "level": "26"
+        },
+        {
+            "name": "Rushing Bear",
+            "line": "Charging Tiger",
+            "level": "27"
+        },
+        {
+            "name": "Will of the Serpent",
+            "line": "Will of the Heavens",
+            "level": "27"
+        },
+        {
+            "name": "Torpor",
+            "line": "Feign Death",
+            "level": "28"
+        },
+        {
+            "name": "Dragon Stance",
+            "line": "Dragon Rage",
+            "level": "28"
+        },
+        {
+            "name": "Pouncing Tiger",
+            "line": "Waking Dragon",
+            "level": "29"
+        },
+        {
+            "name": "Jolting Hand",
+            "line": "Lightning Palm",
+            "level": "29"
+        },
+        {
+            "name": "Sweeping Crane",
+            "line": "Crouching Tiger",
+            "level": "30"
+        },
+        {
+            "name": "Winter Eagle",
+            "line": "Arctic Talon",
+            "level": "30"
+        },
+        {
+            "name": "Instill Doubt",
+            "line": "Instill Panic",
+            "level": "30"
+        },
+        {
+            "name": "Silent Threat",
+            "line": "Silent Threat",
+            "level": "31"
+        },
+        {
+            "name": "Stumbling Boar",
+            "line": "Frozen Palm",
+            "level": "31"
+        },
+        {
+            "name": "Martial Discipline",
+            "line": "Tranquil Vision",
+            "level": "32"
+        },
+        {
+            "name": "Everburning Flame",
+            "line": "Everburning Flame",
+            "level": "32"
+        },
+        {
+            "name": "Swooping Hawk",
+            "line": "Roundhouse Kick",
+            "level": "33"
+        },
+        {
+            "name": "Darting Sparrow",
+            "line": "Five Rings",
+            "level": "33"
+        },
+        {
+            "name": "Compress",
+            "line": "Mend",
+            "level": "34"
+        },
+        {
+            "name": "Intercede",
+            "line": "Intercept",
+            "level": "34"
+        },
+        {
+            "name": "Whispering Blessing",
+            "line": "Flow Like Wind",
+            "level": "35"
+        },
+        {
+            "name": "Swooping Eagle",
+            "line": "Crescent Strike",
+            "level": "35"
+        },
+        {
+            "name": "Devastation Fist",
+            "line": "Devastation Fist",
+            "level": "35"
+        },
+        {
+            "name": "Focus Energy",
+            "line": "Challenge",
+            "level": "36"
+        },
+        {
+            "name": "Diving Dragon",
+            "line": "Rising Dragon",
+            "level": "36"
+        },
+        {
+            "name": "Quiet Purity",
+            "line": "Calm Tranquility",
+            "level": "37"
+        },
+        {
+            "name": "Striking Cobra",
+            "line": "Striking Cobra",
+            "level": "38"
+        },
+        {
+            "name": "Biting Mantis",
+            "line": "Rising Phoenix",
+            "level": "39"
+        },
+        {
+            "name": "Control Breathing",
+            "line": "Inner Calm",
+            "level": "40"
+        },
+        {
+            "name": "Walk Like Mountain",
+            "line": "Body Like Mountain",
+            "level": "40"
+        },
+        {
+            "name": "Stone Stance",
+            "line": "Mountain Stance",
+            "level": "40"
+        },
+        {
+            "name": "Charging Tiger",
+            "line": "Charging Tiger",
+            "level": "41"
+        },
+        {
+            "name": "Will of the Wind",
+            "line": "Will of the Heavens",
+            "level": "41"
+        },
+        {
+            "name": "Stop Heart",
+            "line": "Feign Death",
+            "level": "42"
+        },
+        {
+            "name": "Titan Stance",
+            "line": "Dragon Rage",
+            "level": "42"
+        },
+        {
+            "name": "Waking Dragon",
+            "line": "Waking Dragon",
+            "level": "43"
+        },
+        {
+            "name": "Shocking Hand",
+            "line": "Lightning Palm",
+            "level": "43"
+        },
+        {
+            "name": "Winding Dragon",
+            "line": "Crouching Tiger",
+            "level": "44"
+        },
+        {
+            "name": "Icy Talon",
+            "line": "Arctic Talon",
+            "level": "44"
+        },
+        {
+            "name": "Spider Stance",
+            "line": "Black Widow Stance",
+            "level": "44"
+        },
+        {
+            "name": "Infuriating Calm",
+            "line": "Silent Threat",
+            "level": "45"
+        },
+        {
+            "name": "Freezing Palm",
+            "line": "Frozen Palm",
+            "level": "45"
+        },
+        {
+            "name": "Transcendent Vision",
+            "line": "Tranquil Vision",
+            "level": "46"
+        },
+        {
+            "name": "Everburning Fire",
+            "line": "Everburning Flame",
+            "level": "46"
+        },
+        {
+            "name": "Diving Phoenix",
+            "line": "Roundhouse Kick",
+            "level": "47"
+        },
+        {
+            "name": "Lunging Mongoose",
+            "line": "Five Rings",
+            "level": "47"
+        },
+        {
+            "name": "Heal",
+            "line": "Mend",
+            "level": "48"
+        },
+        {
+            "name": "Halcyon Blessing",
+            "line": "Flow Like Wind",
+            "level": "49"
+        },
+        {
+            "name": "Storming Hydra",
+            "line": "Crescent Strike",
+            "level": "49"
+        },
+        {
+            "name": "Devastating Fist",
+            "line": "Devastation Fist",
+            "level": "49"
+        },
+        {
+            "name": "Agitate Spirit",
+            "line": "Challenge",
+            "level": "50"
+        },
+        {
+            "name": "Flying Dragon",
+            "line": "Rising Dragon",
+            "level": "50"
+        },
+        {
+            "name": "Instill Panic",
+            "line": "Instill Panic",
+            "level": "50"
+        },
+        {
+            "name": "Silent Palm",
+            "line": "Silent Palm",
+            "level": "50"
+        },
+        {
+            "name": "Calm Tranquility",
+            "line": "Calm Tranquility",
+            "level": "51"
+        },
+        {
+            "name": "Lunging Cobra",
+            "line": "Striking Cobra",
+            "level": "52"
+        },
+        {
+            "name": "Outward Calm",
+            "line": "Outward Calm",
+            "level": "52"
+        },
+        {
+            "name": "Swooping Crane",
+            "line": "Rising Phoenix",
+            "level": "53"
+        },
+        {
+            "name": "Inner Calm",
+            "line": "Inner Calm",
+            "level": "54"
+        },
+        {
+            "name": "Skin Like Mountain",
+            "line": "Body Like Mountain",
+            "level": "54"
+        },
+        {
+            "name": "Boulder Stance",
+            "line": "Mountain Stance",
+            "level": "54"
+        },
+        {
+            "name": "Stalking Leopard",
+            "line": "Charging Tiger",
+            "level": "55"
+        },
+        {
+            "name": "Will of the Sky",
+            "line": "Will of the Heavens",
+            "level": "55"
+        },
+        {
+            "name": "Whirlwind",
+            "line": "Tsunami",
+            "level": "55"
+        },
+        {
+            "name": "Stilled Life",
+            "line": "Feign Death",
+            "level": "56"
+        },
+        {
+            "name": "Storm Stance",
+            "line": "Dragon Rage",
+            "level": "56"
+        },
+        {
+            "name": "Rumbling Wyrm",
+            "line": "Waking Dragon",
+            "level": "57"
+        },
+        {
+            "name": "Storming Palm",
+            "line": "Lightning Palm",
+            "level": "57"
+        },
+        {
+            "name": "Coiling Serpent",
+            "line": "Crouching Tiger",
+            "level": "58"
+        },
+        {
+            "name": "Arctic Talon",
+            "line": "Arctic Talon",
+            "level": "58"
+        },
+        {
+            "name": "Black Widow Stance",
+            "line": "Black Widow Stance",
+            "level": "58"
+        },
+        {
+            "name": "Fall of the Phoenix",
+            "line": "Fall of the Phoenix",
+            "level": "58"
+        },
+        {
+            "name": "Infuriating Tranquility",
+            "line": "Silent Threat",
+            "level": "59"
+        },
+        {
+            "name": "Frozen Palm",
+            "line": "Frozen Palm",
+            "level": "59"
+        },
+        {
+            "name": "Tranquil Vision",
+            "line": "Tranquil Vision",
+            "level": "60"
+        },
+        {
+            "name": "Everburning Blaze",
+            "line": "Everburning Flame",
+            "level": "60"
+        },
+        {
+            "name": "Leaping Tiger",
+            "line": "Roundhouse Kick",
+            "level": "61"
+        },
+        {
+            "name": "Flailing Centipede",
+            "line": "Five Rings",
+            "level": "62"
+        },
+        {
+            "name": "Quiescent Blessing",
+            "line": "Flow Like Wind",
+            "level": "63"
+        },
+        {
+            "name": "Crescent Strike",
+            "line": "Crescent Strike",
+            "level": "63"
+        },
+        {
+            "name": "Ravaging Fist",
+            "line": "Devastation Fist",
+            "level": "63"
+        },
+        {
+            "name": "Challenge",
+            "line": "Challenge",
+            "level": "64"
+        },
+        {
+            "name": "Soaring Dragon",
+            "line": "Rising Dragon",
+            "level": "64"
+        },
+        {
+            "name": "Swift Calm",
+            "line": "Calm Tranquility",
+            "level": "65"
+        },
+        {
+            "name": "Dragonbreath",
+            "line": "Dragonfire",
+            "level": "65"
+        },
+        {
+            "name": "Punishing Cobra",
+            "line": "Striking Cobra",
+            "level": "66"
+        },
+        {
+            "name": "Soaring Eagle",
+            "line": "Rising Phoenix",
+            "level": "67"
+        },
+        {
+            "name": "Focal Serenity",
+            "line": "Inner Calm",
+            "level": "68"
+        },
+        {
+            "name": "Spirit Like Mountain",
+            "line": "Body Like Mountain",
+            "level": "68"
+        },
+        {
+            "name": "Mountain Stance",
+            "line": "Mountain Stance",
+            "level": "68"
+        },
+        {
+            "name": "Assailing Jaguar",
+            "line": "Charging Tiger",
+            "level": "69"
+        },
+        {
+            "name": "Will of the Heavens",
+            "line": "Will of the Heavens",
+            "level": "69"
+        },
+        {
+            "name": "Last Breath",
+            "line": "Feign Death",
+            "level": "70"
+        },
+        {
+            "name": "Storm Advance",
+            "line": "Dragon Rage",
+            "level": "70"
+        },
+        {
+            "name": "Silencing Palm",
+            "line": "Silent Palm",
+            "level": "70"
+        },
+        {
+            "name": "Morning Star",
+            "line": "Waking Dragon",
+            "level": "71"
+        },
+        {
+            "name": "Lightning Palm",
+            "line": "Lightning Palm",
+            "level": "71"
+        },
+        {
+            "name": "Arachnid Stance",
+            "line": "Black Widow Stance",
+            "level": "71"
+        },
+        {
+            "name": "Infuriation",
+            "line": "Silent Threat",
+            "level": "72"
+        },
+        {
+            "name": "Crouching Tiger",
+            "line": "Crouching Tiger",
+            "level": "72"
+        },
+        {
+            "name": "Velium Talon",
+            "line": "Arctic Talon",
+            "level": "72"
+        },
+        {
+            "name": "External Calm",
+            "line": "Outward Calm",
+            "level": "72"
+        },
+        {
+            "name": "Velium Palm",
+            "line": "Frozen Palm",
+            "level": "73"
+        },
+        {
+            "name": "Everburning",
+            "line": "Everburning Flame",
+            "level": "73"
+        },
+        {
+            "name": "Desolating Fist",
+            "line": "Devastation Fist",
+            "level": "73"
+        },
+        {
+            "name": "Horse Kick",
+            "line": "Roundhouse Kick",
+            "level": "74"
+        },
+        {
+            "name": "Five Rings",
+            "line": "Five Rings",
+            "level": "74"
+        },
+        {
+            "name": "Flow Like Wind",
+            "line": "Flow Like Wind",
+            "level": "75"
+        },
+        {
+            "name": "Full Moon",
+            "line": "Crescent Strike",
+            "level": "75"
+        },
+        {
+            "name": "Scowl",
+            "line": "Challenge",
+            "level": "76"
+        },
+        {
+            "name": "Mindful",
+            "line": "Calm Tranquility",
+            "level": "76"
+        },
+        {
+            "name": "Rising Dragon",
+            "line": "Rising Dragon",
+            "level": "76"
+        },
+        {
+            "name": "Biting Cobra",
+            "line": "Striking Cobra",
+            "level": "77"
+        },
+        {
+            "name": "Rising Phoenix",
+            "line": "Rising Phoenix",
+            "level": "77"
+        },
+        {
+            "name": "Body Like Mountain",
+            "line": "Body Like Mountain",
+            "level": "78"
+        },
+        {
+            "name": "Iron Stance",
+            "line": "Mountain Stance",
+            "level": "78"
+        },
+        {
+            "name": "Dragonfire",
+            "line": "Dragonfire",
+            "level": "78"
+        },
+        {
+            "name": "Chakra",
+            "line": "Inner Calm",
+            "level": "79"
+        },
+        {
+            "name": "Tackling Cougar",
+            "line": "Charging Tiger",
+            "level": "79"
+        },
+        {
+            "name": "Will of the Wise",
+            "line": "Will of the Heavens",
+            "level": "79"
+        },
+        {
+            "name": "Dragon Rage",
+            "line": "Dragon Rage",
+            "level": "80"
+        },
+        {
+            "name": "Stifiling Palm",
+            "line": "Silent Palm",
+            "level": "80"
+        },
+        {
+            "name": "Peel",
+            "line": "Peel",
+            "level": "80"
+        }
+    ]
+}

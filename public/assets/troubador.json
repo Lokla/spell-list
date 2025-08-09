@@ -1,0 +1,845 @@
+{
+    "class": "Troubador",
+    "spells": [
+        {
+            "name": "Shroud",
+            "line": "Shroud",
+            "level": "1"
+        },
+        {
+            "name": "Tracking",
+            "line": "Tracking",
+            "level": "1"
+        },
+        {
+            "name": "Deafening Strike",
+            "line": "Sandra's Deafening Strike",
+            "level": "1"
+        },
+        {
+            "name": "Night Blade",
+            "line": "Night Strike",
+            "level": "2"
+        },
+        {
+            "name": "Raxxyl's Fortitude Song",
+            "line": "Raxxyl's Rousing Tune",
+            "level": "2"
+        },
+        {
+            "name": "Magical Boon",
+            "line": "Song of Magic",
+            "level": "3"
+        },
+        {
+            "name": "Shrill",
+            "line": "Perfect Shrill",
+            "level": "3"
+        },
+        {
+            "name": "Pathfinding",
+            "line": "Pathfinding",
+            "level": "4"
+        },
+        {
+            "name": "Cheap Shot",
+            "line": "Cheap Shot",
+            "level": "4"
+        },
+        {
+            "name": "Lucky Break",
+            "line": "Lucky Break",
+            "level": "5"
+        },
+        {
+            "name": "Brilliant Blade",
+            "line": "Dancing Blade",
+            "level": "5"
+        },
+        {
+            "name": "Evade",
+            "line": "Evade",
+            "level": "6"
+        },
+        {
+            "name": "Sybil's Slowing Chant",
+            "line": "Depressing Chant",
+            "level": "7"
+        },
+        {
+            "name": "Deafening Blade",
+            "line": "Sandra's Deafening Strike",
+            "level": "8"
+        },
+        {
+            "name": "Lore's Shuddering Song",
+            "line": "Vexing Verses",
+            "level": "8"
+        },
+        {
+            "name": "Midnight Blade",
+            "line": "Night Strike",
+            "level": "9"
+        },
+        {
+            "name": "Raxxyl's Rousing Tune",
+            "line": "Raxxyl's Rousing Tune",
+            "level": "10"
+        },
+        {
+            "name": "Sparkling Blade",
+            "line": "Ceremonial Blade",
+            "level": "11"
+        },
+        {
+            "name": "Piercing Shrill",
+            "line": "Perfect Shrill",
+            "level": "12"
+        },
+        {
+            "name": "Bria's Stirring Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "13"
+        },
+        {
+            "name": "Selo's Accelerando",
+            "line": "Selo's Accelerando",
+            "level": "13"
+        },
+        {
+            "name": "Performer's Talent",
+            "line": "Daelis' Dance of Blades",
+            "level": "13"
+        },
+        {
+            "name": "Merciless Melody",
+            "line": "Allegretto",
+            "level": "14"
+        },
+        {
+            "name": "Deafening Thrust",
+            "line": "Sandra's Deafening Strike",
+            "level": "15"
+        },
+        {
+            "name": "Alin's Keening Lamentation",
+            "line": "Painful Lamentations",
+            "level": "15"
+        },
+        {
+            "name": "Singing Shot",
+            "line": "Singing Shot",
+            "level": "16"
+        },
+        {
+            "name": "Minstrel's Luck",
+            "line": "Song of Magic",
+            "level": "17"
+        },
+        {
+            "name": "Divert",
+            "line": "Evade",
+            "level": "18"
+        },
+        {
+            "name": "Insatiable Ardor",
+            "line": "Graceful Avoidance",
+            "level": "18"
+        },
+        {
+            "name": "Taffo's Brilliant Blade",
+            "line": "Dancing Blade",
+            "level": "19"
+        },
+        {
+            "name": "Reproaching Discante",
+            "line": "Disheartening Descant",
+            "level": "19"
+        },
+        {
+            "name": "Arcane Chorus",
+            "line": "Arcane Symphony",
+            "level": "20"
+        },
+        {
+            "name": "Bria's Entrancing Sonnet",
+            "line": "Bria's Entrancing Sonnet",
+            "level": "20"
+        },
+        {
+            "name": "Luckblade",
+            "line": "Night Strike",
+            "level": "21"
+        },
+        {
+            "name": "Lore's Snapping Sonnet",
+            "line": "Vexing Verses",
+            "level": "22"
+        },
+        {
+            "name": "Aria of Excitement",
+            "line": "Aria of Magic",
+            "level": "22"
+        },
+        {
+            "name": "Sybil's Shuddering Sonnet",
+            "line": "Depressing Chant",
+            "level": "23"
+        },
+        {
+            "name": "Raxxyl's Energizing Harmony",
+            "line": "Raxxyl's Rousing Tune",
+            "level": "24"
+        },
+        {
+            "name": "Alin's Soothing Serenade",
+            "line": "Alin's Serene Serenade",
+            "level": "24"
+        },
+        {
+            "name": "Fulgent Blade",
+            "line": "Ceremonial Blade",
+            "level": "25"
+        },
+        {
+            "name": "Escape",
+            "line": "Escape",
+            "level": "25"
+        },
+        {
+            "name": "Dissenting Cantata",
+            "line": "Perfect Shrill",
+            "level": "26"
+        },
+        {
+            "name": "Eli's Thunderous Hymn",
+            "line": "Thunderous Overture",
+            "level": "26"
+        },
+        {
+            "name": "Bria's Thrilling Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "27"
+        },
+        {
+            "name": "Selo's Rhythm of Speed",
+            "line": "Selo's Accelerando",
+            "level": "27"
+        },
+        {
+            "name": "Elise's Ditty",
+            "line": "Daelis' Dance of Blades",
+            "level": "27"
+        },
+        {
+            "name": "Luda's Resonant Sonata",
+            "line": "Allegretto",
+            "level": "28"
+        },
+        {
+            "name": "Swindle Essence",
+            "line": "Tap Essence",
+            "level": "28"
+        },
+        {
+            "name": "Sandra's Deafening Strike",
+            "line": "Sandra's Deafening Strike",
+            "level": "29"
+        },
+        {
+            "name": "Alin's Melodic Refrain",
+            "line": "Painful Lamentations",
+            "level": "29"
+        },
+        {
+            "name": "Deafening Missile",
+            "line": "Singing Shot",
+            "level": "30"
+        },
+        {
+            "name": "Quiron's Joyous Celebration",
+            "line": "Rejuvenating Celebration",
+            "level": "30"
+        },
+        {
+            "name": "Minstrels Fortune",
+            "line": "Song of Magic",
+            "level": "31"
+        },
+        {
+            "name": "Slip",
+            "line": "Evade",
+            "level": "32"
+        },
+        {
+            "name": "Daelor's Luminary Ballad",
+            "line": "Graceful Avoidance",
+            "level": "32"
+        },
+        {
+            "name": "Kian's Destructive Anthem",
+            "line": "Chaos Anthem",
+            "level": "32"
+        },
+        {
+            "name": "Walt's Thirsting Thrust",
+            "line": "Dancing Blade",
+            "level": "33"
+        },
+        {
+            "name": "Discouraging Discante",
+            "line": "Disheartening Descant",
+            "level": "33"
+        },
+        {
+            "name": "Arcane Symphony",
+            "line": "Arcane Symphony",
+            "level": "34"
+        },
+        {
+            "name": "Bria's Charming Sonnet",
+            "line": "Bria's Entrancing Sonnet",
+            "level": "34"
+        },
+        {
+            "name": "Clara's Midnight Cadence",
+            "line": "Night Strike",
+            "level": "35"
+        },
+        {
+            "name": "Zander's Choral Rebuff",
+            "line": "Zander's Choral Rebuff",
+            "level": "35"
+        },
+        {
+            "name": "Lore's Lurching Limerick",
+            "line": "Vexing Verses",
+            "level": "36"
+        },
+        {
+            "name": "Aria of Inspiration",
+            "line": "Aria of Magic",
+            "level": "36"
+        },
+        {
+            "name": "Guvienas Disparate Chant",
+            "line": "Depressing Chant",
+            "level": "37"
+        },
+        {
+            "name": "Raxxyl's Vivacious Descant",
+            "line": "Raxxyl's Rousing Tune",
+            "level": "38"
+        },
+        {
+            "name": "Alin's Calming Serenade",
+            "line": "Alin's Serene Serenade",
+            "level": "38"
+        },
+        {
+            "name": "Elegant Blade",
+            "line": "Ceremonial Blade",
+            "level": "39"
+        },
+        {
+            "name": "Exquisite Shrill",
+            "line": "Perfect Shrill",
+            "level": "40"
+        },
+        {
+            "name": "Eli's Thunderous Anthem",
+            "line": "Thunderous Overture",
+            "level": "40"
+        },
+        {
+            "name": "Breathtaking Bellow",
+            "line": "Breathtaking Bellow",
+            "level": "40"
+        },
+        {
+            "name": "Bria's Exalting Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "41"
+        },
+        {
+            "name": "Selo's Accelerating Chorus",
+            "line": "Selo's Accelerando",
+            "level": "41"
+        },
+        {
+            "name": "Daeli's Dance of Blades",
+            "line": "Daelis' Dance of Blades",
+            "level": "41"
+        },
+        {
+            "name": "Invigorating Opus",
+            "line": "Allegretto",
+            "level": "42"
+        },
+        {
+            "name": "Purloin Essence",
+            "line": "Tap Essence",
+            "level": "42"
+        },
+        {
+            "name": "Sandra's Befuddling Incursion",
+            "line": "Sandra's Deafening Strike",
+            "level": "43"
+        },
+        {
+            "name": "Alin's Coruscating Concord",
+            "line": "Painful Lamentations",
+            "level": "43"
+        },
+        {
+            "name": "Guviena's Osmotic Ovation",
+            "line": "Singing Shot",
+            "level": "44"
+        },
+        {
+            "name": "Quiron's Ecstatic Celebration",
+            "line": "Rejuvenating Celebration",
+            "level": "44"
+        },
+        {
+            "name": "Elemental Chorus",
+            "line": "Elemental Concerto",
+            "level": "44"
+        },
+        {
+            "name": "Swan Song",
+            "line": "Song of Magic",
+            "level": "45"
+        },
+        {
+            "name": "Evasion",
+            "line": "Evade",
+            "level": "46"
+        },
+        {
+            "name": "Graceful Avoidance",
+            "line": "Graceful Avoidance",
+            "level": "46"
+        },
+        {
+            "name": "Kian's Devastating Anthem",
+            "line": "Chaos Anthem",
+            "level": "46"
+        },
+        {
+            "name": "Taffo's Dazzling Ditty",
+            "line": "Dancing Blade",
+            "level": "47"
+        },
+        {
+            "name": "Oppressive Discante",
+            "line": "Disheartening Descant",
+            "level": "47"
+        },
+        {
+            "name": "Arcane Concerto",
+            "line": "Arcane Symphony",
+            "level": "48"
+        },
+        {
+            "name": "Bria's Rapturing Sonnet",
+            "line": "Bria's Entrancing Sonnet",
+            "level": "48"
+        },
+        {
+            "name": "Startling Shriek",
+            "line": "Night Strike",
+            "level": "49"
+        },
+        {
+            "name": "Lore's Magniloquent Roust",
+            "line": "Vexing Verses",
+            "level": "50"
+        },
+        {
+            "name": "Aria of Exaltation",
+            "line": "Aria of Magic",
+            "level": "50"
+        },
+        {
+            "name": "Lullaby",
+            "line": "Lullaby",
+            "level": "50"
+        },
+        {
+            "name": "Guvienas Slothful Chant",
+            "line": "Depressing Chant",
+            "level": "51"
+        },
+        {
+            "name": "Raxxyl's Brash Descant",
+            "line": "Raxxyl's Rousing Tune",
+            "level": "52"
+        },
+        {
+            "name": "Alin's Tranquil Serenade",
+            "line": "Alin's Serene Serenade",
+            "level": "52"
+        },
+        {
+            "name": "Requiem of Reflection",
+            "line": "Requiem of Reflection",
+            "level": "52"
+        },
+        {
+            "name": "Courtly Blade",
+            "line": "Ceremonial Blade",
+            "level": "53"
+        },
+        {
+            "name": "Magic Rebuff",
+            "line": "Zander's Choral Rebuff",
+            "level": "53"
+        },
+        {
+            "name": "Flawless Shrill",
+            "line": "Perfect Shrill",
+            "level": "54"
+        },
+        {
+            "name": "Eli's Thunderous Chorus",
+            "line": "Thunderous Overture",
+            "level": "54"
+        },
+        {
+            "name": "Awesome Bellow",
+            "line": "Breathtaking Bellow",
+            "level": "54"
+        },
+        {
+            "name": "Bria's Glorifying Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "55"
+        },
+        {
+            "name": "Selo's Speed of Sound",
+            "line": "Selo's Accelerando",
+            "level": "55"
+        },
+        {
+            "name": "Daeli's Jig of Blades",
+            "line": "Daelis' Dance of Blades",
+            "level": "55"
+        },
+        {
+            "name": "Demoralizing Processional",
+            "line": "Demoralizing Processional",
+            "level": "55"
+        },
+        {
+            "name": "Exhilirating Opus",
+            "line": "Allegretto",
+            "level": "56"
+        },
+        {
+            "name": "Pilfer Essence",
+            "line": "Tap Essence",
+            "level": "56"
+        },
+        {
+            "name": "Sandras Bewildering Incursion",
+            "line": "Sandra's Deafening Strike",
+            "level": "57"
+        },
+        {
+            "name": "Alin's Incandescent Concord",
+            "line": "Painful Lamentations",
+            "level": "57"
+        },
+        {
+            "name": "Guviena's Overpowering Ovation",
+            "line": "Singing Shot",
+            "level": "58"
+        },
+        {
+            "name": "Quiron's Blissful Celebration",
+            "line": "Rejuvenating Celebration",
+            "level": "58"
+        },
+        {
+            "name": "Elemental Concerto",
+            "line": "Elemental Concerto",
+            "level": "58"
+        },
+        {
+            "name": "Precision of the Maestro",
+            "line": "Perfection of the Maestro",
+            "level": "58"
+        },
+        {
+            "name": "Guvienna's Fortuitous Song",
+            "line": "Song of Magic",
+            "level": "59"
+        },
+        {
+            "name": "Elude",
+            "line": "Evade",
+            "level": "60"
+        },
+        {
+            "name": "Balletic Avoidance",
+            "line": "Graceful Avoidance",
+            "level": "60"
+        },
+        {
+            "name": "Kian's Catastrophic Anthem",
+            "line": "Chaos Anthem",
+            "level": "60"
+        },
+        {
+            "name": "Dancing Blade",
+            "line": "Dancing Blade",
+            "level": "61"
+        },
+        {
+            "name": "Disheartening Discante",
+            "line": "Disheartening Descant",
+            "level": "61"
+        },
+        {
+            "name": "Arcane Dissertation",
+            "line": "Arcane Symphony",
+            "level": "62"
+        },
+        {
+            "name": "Bria's Infatuating Sonnet",
+            "line": "Bria's Entrancing Sonnet",
+            "level": "62"
+        },
+        {
+            "name": "Clara's Midnight Tempo",
+            "line": "Night Strike",
+            "level": "63"
+        },
+        {
+            "name": "Lore's Euphuistic Romp",
+            "line": "Vexing Verses",
+            "level": "64"
+        },
+        {
+            "name": "Aria of Acclamation",
+            "line": "Aria of Magic",
+            "level": "64"
+        },
+        {
+            "name": "Guvienas Apathetic Chant",
+            "line": "Depressing Chant",
+            "level": "65"
+        },
+        {
+            "name": "Jester's Cap",
+            "line": "Jester's Cap",
+            "level": "65"
+        },
+        {
+            "name": "Raxxyl's Brazen Descant",
+            "line": "Raxxyl's Rousing Tune",
+            "level": "66"
+        },
+        {
+            "name": "Alin's Serene Serenade",
+            "line": "Alin's Serene Serenade",
+            "level": "66"
+        },
+        {
+            "name": "Noble Blade",
+            "line": "Ceremonial Blade",
+            "level": "67"
+        },
+        {
+            "name": "Perfect Shrill",
+            "line": "Perfect Shrill",
+            "level": "68"
+        },
+        {
+            "name": "Eli's Thunderous Drumming",
+            "line": "Thunderous Overture",
+            "level": "68"
+        },
+        {
+            "name": "Mighty Bellow",
+            "line": "Breathtaking Bellow",
+            "level": "68"
+        },
+        {
+            "name": "Bria's Inspiring Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "69"
+        },
+        {
+            "name": "Daeli's Frolicking of Blades",
+            "line": "Daelis' Dance of Blades",
+            "level": "69"
+        },
+        {
+            "name": "Rousing Opus",
+            "line": "Allegretto",
+            "level": "70"
+        },
+        {
+            "name": "Steal Essence",
+            "line": "Tap Essence",
+            "level": "70"
+        },
+        {
+            "name": "Reverie",
+            "line": "Lullaby",
+            "level": "70"
+        },
+        {
+            "name": "Draining Incursion",
+            "line": "Sandra's Deafening Strike",
+            "level": "71"
+        },
+        {
+            "name": "Painful Lamentations",
+            "line": "Painful Lamentations",
+            "level": "71"
+        },
+        {
+            "name": "Stifling Missile",
+            "line": "Singing Shot",
+            "level": "71"
+        },
+        {
+            "name": "Spell Rebuff",
+            "line": "Zander's Choral Rebuff",
+            "level": "71"
+        },
+        {
+            "name": "Song of Magic",
+            "line": "Song of Magic",
+            "level": "72"
+        },
+        {
+            "name": "Rejuvenating Celebration",
+            "line": "Rejuvenating Celebration",
+            "level": "72"
+        },
+        {
+            "name": "Elemental Tempo",
+            "line": "Elemental Concerto",
+            "level": "72"
+        },
+        {
+            "name": "Baffle",
+            "line": "Evade",
+            "level": "73"
+        },
+        {
+            "name": "Performer Avoidance",
+            "line": "Graceful Avoidance",
+            "level": "73"
+        },
+        {
+            "name": "Devigorating Discante",
+            "line": "Disheartening Descant",
+            "level": "73"
+        },
+        {
+            "name": "Chaos Anthem",
+            "line": "Chaos Anthem",
+            "level": "73"
+        },
+        {
+            "name": "Bright Blade",
+            "line": "Dancing Blade",
+            "level": "74"
+        },
+        {
+            "name": "Arcane Tempo",
+            "line": "Arcane Symphony",
+            "level": "74"
+        },
+        {
+            "name": "Sonnet",
+            "line": "Bria's Entrancing Sonnet",
+            "level": "74"
+        },
+        {
+            "name": "Dispirited Processional",
+            "line": "Demoralizing Processional",
+            "level": "74"
+        },
+        {
+            "name": "Night Strike",
+            "line": "Night Strike",
+            "level": "75"
+        },
+        {
+            "name": "Vexing Verses",
+            "line": "Vexing Verses",
+            "level": "75"
+        },
+        {
+            "name": "Aria of Magic",
+            "line": "Aria of Magic",
+            "level": "75"
+        },
+        {
+            "name": "Depressing Chant",
+            "line": "Depressing Chant",
+            "level": "76"
+        },
+        {
+            "name": "Ceremonial Blade",
+            "line": "Ceremonial Blade",
+            "level": "76"
+        },
+        {
+            "name": "Perfection of the Maestro",
+            "line": "Perfection of the Maestro",
+            "level": "76"
+        },
+        {
+            "name": "Fortifying Song",
+            "line": "Raxxyl's Rousing Tune",
+            "level": "77"
+        },
+        {
+            "name": "Reverberating Shrill",
+            "line": "Perfect Shrill",
+            "level": "78"
+        },
+        {
+            "name": "Thunderous Overture",
+            "line": "Thunderous Overture",
+            "level": "78"
+        },
+        {
+            "name": "Power Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "79"
+        },
+        {
+            "name": "March of Blades",
+            "line": "Daelis' Dance of Blades",
+            "level": "79"
+        },
+        {
+            "name": "Allegretto",
+            "line": "Allegretto",
+            "level": "80"
+        },
+        {
+            "name": "Tap Essence",
+            "line": "Tap Essence",
+            "level": "80"
+        },
+        {
+            "name": "Peaceful Melody",
+            "line": "Lullaby",
+            "level": "80"
+        },
+        {
+            "name": "Countersong",
+            "line": "Countersong",
+            "level": "80"
+        }
+    ]
+}

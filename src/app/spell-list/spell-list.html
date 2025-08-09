@@ -1,0 +1,163 @@
+<div class="spell-list-container">
+  <div class="header-section">
+    <!-- Character context header -->
+    <div *ngIf="characterName && characterLevel" class="character-context">
+      <h3>Viewing spells for {{ characterName }} (Level {{ characterLevel }} {{ formatClassName(selectedClass) }})</h3>
+    </div>
+    
+    <div class="class-selector">
+      <label for="classSelect">Select Class:</label>
+      <select 
+        id="classSelect" 
+        [(ngModel)]="selectedClass" 
+        (change)="onClassChange()"
+        class="class-dropdown">
+        <option value="">-- Choose a Class --</option>
+        <option *ngFor="let className of availableClasses" [value]="className">
+          {{ formatClassName(className) }}
+        </option>
+      </select>
+    </div>
+
+    <!-- Filter Toggle Button -->
+    <div *ngIf="selectedClass && spells.length > 0" class="filter-toggle-section">
+      <button 
+        class="filter-toggle-btn"
+        (click)="toggleFilters()"
+        [class.active]="showFilters"
+        title="Toggle filter options">
+        🔧 {{ showFilters ? 'Hide' : 'Show' }} Filters
+      </button>
+    </div>
+
+    <!-- Filter Controls -->
+    <div *ngIf="selectedClass && spells.length > 0 && showFilters" class="filter-section">      
+      <!-- Level and Outlevelled Filters (same line) -->
+      <div class="filter-group filter-row">
+        <label class="filter-checkbox">
+          <input 
+            type="checkbox" 
+            [checked]="hideSpellsAboveLevel70"
+            (change)="toggleLevel70Filter()">
+          Hide spells above level 70
+        </label>
+        
+        <label *ngIf="isCharacterView" class="filter-checkbox">
+          <input 
+            type="checkbox" 
+            [checked]="hideOutlevelledSpells"
+            (change)="toggleOutlevelledFilter()">
+          Hide outlevelled spells
+        </label>
+      </div>
+
+      <!-- Quality Filters (only in character view) -->
+      <div *ngIf="isCharacterView" class="filter-group">
+        <div class="filter-header">
+          <span class="filter-label">Hide by Quality:</span>
+          <button 
+            class="copy-none-btn"
+            (click)="copyNoneQualitySpells()"
+            title="Copy spell names with 'None' quality to clipboard"
+            type="button">
+            📋
+          </button>
+        </div>
+        <div class="quality-filters">
+          <label *ngFor="let quality of spellQualities" class="quality-checkbox">
+            <input 
+              type="checkbox" 
+              [checked]="isQualityHidden(quality.name)"
+              (change)="toggleQualityFilter(quality.name)">
+            <span class="quality-color-indicator" [style.background-color]="quality.color"></span>
+            {{ quality.displayName }}
+          </label>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="content-section">
+    <div *ngIf="loading" class="loading">
+      <div class="spinner"></div>
+      <p>Loading spells...</p>
+    </div>
+
+    <div *ngIf="!loading && selectedClass && filteredSpells.length === 0 && spells.length === 0" class="no-spells">
+      <p>No spells found for {{ formatClassName(selectedClass) }}.</p>
+    </div>
+
+    <div *ngIf="!loading && selectedClass && filteredSpells.length === 0 && spells.length > 0" class="no-spells">
+      <p>No spells match the current filters. {{ spells.length }} total spells available for {{ formatClassName(selectedClass) }}.</p>
+    </div>
+
+    <div *ngIf="!loading && filteredSpells.length > 0" class="spells-table-container">
+      <div class="results-info">
+        <p>{{ filteredSpells.length }} spells shown for {{ formatClassName(selectedClass) }}
+        <span *ngIf="filteredSpells.length !== spells.length"> ({{ spells.length }} total)</span></p>
+      </div>
+      
+      <table class="spells-table">
+        <thead>
+          <tr>
+            <th class="level-col">Level</th>
+            <th class="spell-name-col">Spell Name</th>
+            <th class="spell-line-col">Spell Line</th>
+            <th class="replaced-col">Replaced At Level</th>
+            <th *ngIf="isCharacterView" class="quality-col">Quality</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let spell of filteredSpells" 
+              class="spell-row"
+              [class.above-character-level]="isSpellAboveCharacterLevel(spell)">
+            <td class="level-cell">{{ spell.level }}</td>
+            <td class="spell-name-cell">
+              <button 
+                class="spell-name-button" 
+                (click)="copySpellName(spell.name)"
+                [class.copied]="isCopied(spell.name)"
+                title="Click to copy spell name">
+                <span class="spell-name">{{ spell.name }}</span>
+                <span class="copy-indicator" *ngIf="isCopied(spell.name)">✓</span>
+              </button>
+            </td>
+            <td class="spell-line-cell">{{ spell.line }}</td>
+            <td class="replaced-cell">
+              <span *ngIf="spell.replacedAtLevel; else maxLevel">{{ spell.replacedAtLevel }}</span>
+              <ng-template #maxLevel>
+                <span class="max-level">—</span>
+              </ng-template>
+            </td>
+            <td *ngIf="isCharacterView" class="quality-cell">
+              <button 
+                class="quality-button"
+                [style.background-color]="getSpellQualityColor(spell.name)"
+                [style.color]="'white'"
+                (click)="openSpellQualityDialog(spell.name)"
+                title="Click to change spell quality">
+                {{ getSpellDisplayQuality(spell.name).displayName }}
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div *ngIf="!selectedClass" class="welcome-message">
+      <div class="welcome-content">
+        <h2>Welcome to the EQ2 Spell Database</h2>
+        <p>Select a class from the dropdown above to view all available spells with their progression information.</p>
+        <div class="features">
+          <h3>Features:</h3>
+          <ul>
+            <li>Complete spell progression for all EverQuest 2 classes</li>
+            <li>Spell line organization showing upgrade paths</li>
+            <li>Replacement level information</li>
+            <li>Click any spell name to copy it to clipboard</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

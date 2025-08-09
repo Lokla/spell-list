@@ -1,0 +1,805 @@
+{
+    "class": "Coercer",
+    "spells": [
+        {
+            "name": "Mind Shock",
+            "line": "Hemorrhage",
+            "level": "1"
+        },
+        {
+            "name": "Slumber",
+            "line": "Mesmerize",
+            "level": "1"
+        },
+        {
+            "name": "Befriend",
+            "line": "Charm",
+            "level": "2"
+        },
+        {
+            "name": "Medusa Gaze",
+            "line": "Medusa Gaze",
+            "level": "2"
+        },
+        {
+            "name": "Cerebral Shock",
+            "line": "Brainshock",
+            "level": "3"
+        },
+        {
+            "name": "Magi's Shielding",
+            "line": "Magi's Shielding",
+            "level": "4"
+        },
+        {
+            "name": "Hesitate",
+            "line": "Forced Hesitation",
+            "level": "5"
+        },
+        {
+            "name": "Arcane Augur",
+            "line": "Arcane Augur",
+            "level": "5"
+        },
+        {
+            "name": "Bind Sight",
+            "line": "Bind Sight",
+            "level": "5"
+        },
+        {
+            "name": "Mind Blast",
+            "line": "Hemorrhage",
+            "level": "6"
+        },
+        {
+            "name": "Cure Arcane",
+            "line": "Cure Arcane",
+            "level": "6"
+        },
+        {
+            "name": "Power of Mind",
+            "line": "Power of Mind",
+            "level": "7"
+        },
+        {
+            "name": "Lashing Gaze",
+            "line": "Simple Minds",
+            "level": "8"
+        },
+        {
+            "name": "See Invisibility",
+            "line": "See Invisibility",
+            "level": "9"
+        },
+        {
+            "name": "Dispel Magic",
+            "line": "Dispel Magic",
+            "level": "9"
+        },
+        {
+            "name": "Charm",
+            "line": "Charm",
+            "level": "10"
+        },
+        {
+            "name": "Cerebral Spasm",
+            "line": "Brainshock",
+            "level": "10"
+        },
+        {
+            "name": "Shrink Servant",
+            "line": "Shrink Servant",
+            "level": "10"
+        },
+        {
+            "name": "Ego Shock",
+            "line": "Ego Shock",
+            "level": "11"
+        },
+        {
+            "name": "Mind Jolt",
+            "line": "Hemorrhage",
+            "level": "12"
+        },
+        {
+            "name": "Fascinate",
+            "line": "Mesmerize",
+            "level": "12"
+        },
+        {
+            "name": "Signet of Intuition",
+            "line": "Signet of Intellect",
+            "level": "12"
+        },
+        {
+            "name": "Daunting Gaze",
+            "line": "Medusa Gaze",
+            "level": "13"
+        },
+        {
+            "name": "Consume Ego",
+            "line": "Shift Mana",
+            "level": "13"
+        },
+        {
+            "name": "Gloom",
+            "line": "Asylum",
+            "level": "14"
+        },
+        {
+            "name": "Blink",
+            "line": "Blink",
+            "level": "15"
+        },
+        {
+            "name": "Veil of the Unseen",
+            "line": "Veil of the Unseen",
+            "level": "15"
+        },
+        {
+            "name": "Call Servant",
+            "line": "Call Servant",
+            "level": "15"
+        },
+        {
+            "name": "Silence",
+            "line": "Silence",
+            "level": "16"
+        },
+        {
+            "name": "Stupefy",
+            "line": "Stupefy",
+            "level": "16"
+        },
+        {
+            "name": "Cerebral Lash",
+            "line": "Brainshock",
+            "level": "17"
+        },
+        {
+            "name": "Breeze",
+            "line": "Breeze",
+            "level": "18"
+        },
+        {
+            "name": "Hesitation",
+            "line": "Forced Hesitation",
+            "level": "19"
+        },
+        {
+            "name": "Mind Splice",
+            "line": "Hemorrhage",
+            "level": "20"
+        },
+        {
+            "name": "Coerce",
+            "line": "Charm",
+            "level": "20"
+        },
+        {
+            "name": "Damaged Psyche",
+            "line": "Obliterated Psyche",
+            "level": "20"
+        },
+        {
+            "name": "Recklessness",
+            "line": "Velocity",
+            "level": "20"
+        },
+        {
+            "name": "Power of Suggestion",
+            "line": "Power of Mind",
+            "level": "21"
+        },
+        {
+            "name": "Simple Minds",
+            "line": "Simple Minds",
+            "level": "22"
+        },
+        {
+            "name": "Unveil",
+            "line": "Unveil",
+            "level": "23"
+        },
+        {
+            "name": "Sibyllant",
+            "line": "Hostage",
+            "level": "23"
+        },
+        {
+            "name": "Mesmerize",
+            "line": "Mesmerize",
+            "level": "24"
+        },
+        {
+            "name": "Smirking Demeanor",
+            "line": "Enraging Demeanor",
+            "level": "24"
+        },
+        {
+            "name": "Ego Strike",
+            "line": "Ego Shock",
+            "level": "25"
+        },
+        {
+            "name": "Terrible Awe",
+            "line": "Pure Awe",
+            "level": "25"
+        },
+        {
+            "name": "Signet of Insight",
+            "line": "Signet of Intellect",
+            "level": "26"
+        },
+        {
+            "name": "Unnerving Stare",
+            "line": "Medusa Gaze",
+            "level": "27"
+        },
+        {
+            "name": "Essence Fluctuation",
+            "line": "Shift Mana",
+            "level": "27"
+        },
+        {
+            "name": "Melancholy",
+            "line": "Asylum",
+            "level": "28"
+        },
+        {
+            "name": "Despotic Mind",
+            "line": "Destructive Mind",
+            "level": "28"
+        },
+        {
+            "name": "Muddled Thinking",
+            "line": "Hemorrhage",
+            "level": "29"
+        },
+        {
+            "name": "Withering Silence",
+            "line": "Silence",
+            "level": "30"
+        },
+        {
+            "name": "Bewilder",
+            "line": "Stupefy",
+            "level": "30"
+        },
+        {
+            "name": "Anguish",
+            "line": "Brainshock",
+            "level": "31"
+        },
+        {
+            "name": "Consuming Thoughts",
+            "line": "Cannibalize Thoughts",
+            "level": "32"
+        },
+        {
+            "name": "Beguile",
+            "line": "Charm",
+            "level": "33"
+        },
+        {
+            "name": "Forced Hesitation",
+            "line": "Forced Hesitation",
+            "level": "33"
+        },
+        {
+            "name": "Refresh",
+            "line": "Breeze",
+            "level": "33"
+        },
+        {
+            "name": "Bravado",
+            "line": "Velocity",
+            "level": "34"
+        },
+        {
+            "name": "Exhortation",
+            "line": "Power of Mind",
+            "level": "35"
+        },
+        {
+            "name": "Scarred Psyche",
+            "line": "Obliterated Psyche",
+            "level": "35"
+        },
+        {
+            "name": "Empathic Link",
+            "line": "Peaceful Link",
+            "level": "35"
+        },
+        {
+            "name": "Mana Cloak",
+            "line": "Mana Cloak",
+            "level": "35"
+        },
+        {
+            "name": "Discomfiting Gaze",
+            "line": "Simple Minds",
+            "level": "36"
+        },
+        {
+            "name": "Haruspex",
+            "line": "Hostage",
+            "level": "37"
+        },
+        {
+            "name": "Enthrall",
+            "line": "Mesmerize",
+            "level": "38"
+        },
+        {
+            "name": "Annoying Demeanor",
+            "line": "Enraging Demeanor",
+            "level": "38"
+        },
+        {
+            "name": "Ego Blast",
+            "line": "Ego Shock",
+            "level": "39"
+        },
+        {
+            "name": "Dreadful Awe",
+            "line": "Pure Awe",
+            "level": "39"
+        },
+        {
+            "name": "Signet of Realization",
+            "line": "Signet of Intellect",
+            "level": "40"
+        },
+        {
+            "name": "Reek of Terror",
+            "line": "Reek of Terror",
+            "level": "40"
+        },
+        {
+            "name": "Spell Lash",
+            "line": "Spell Curse",
+            "level": "40"
+        },
+        {
+            "name": "Eerie Focus",
+            "line": "Medusa Gaze",
+            "level": "41"
+        },
+        {
+            "name": "Transference",
+            "line": "Shift Mana",
+            "level": "41"
+        },
+        {
+            "name": "Despair",
+            "line": "Asylum",
+            "level": "42"
+        },
+        {
+            "name": "Tyrannical Mind",
+            "line": "Destructive Mind",
+            "level": "42"
+        },
+        {
+            "name": "Seizure",
+            "line": "Hemorrhage",
+            "level": "43"
+        },
+        {
+            "name": "Agonizing Silence",
+            "line": "Silence",
+            "level": "44"
+        },
+        {
+            "name": "Perplexity",
+            "line": "Stupefy",
+            "level": "44"
+        },
+        {
+            "name": "Torment",
+            "line": "Brainshock",
+            "level": "45"
+        },
+        {
+            "name": "Devouring Thoughts",
+            "line": "Cannibalize Thoughts",
+            "level": "46"
+        },
+        {
+            "name": "Dominate",
+            "line": "Charm",
+            "level": "47"
+        },
+        {
+            "name": "Fatal Hesitation",
+            "line": "Forced Hesitation",
+            "level": "47"
+        },
+        {
+            "name": "Clarity",
+            "line": "Breeze",
+            "level": "47"
+        },
+        {
+            "name": "Velocity",
+            "line": "Velocity",
+            "level": "48"
+        },
+        {
+            "name": "Mind's Eye",
+            "line": "Mind's Eye",
+            "level": "48"
+        },
+        {
+            "name": "Instigation",
+            "line": "Power of Mind",
+            "level": "49"
+        },
+        {
+            "name": "Synergetic Link",
+            "line": "Peaceful Link",
+            "level": "49"
+        },
+        {
+            "name": "Demoralizing Gaze",
+            "line": "Simple Minds",
+            "level": "50"
+        },
+        {
+            "name": "Ravaged Psyche",
+            "line": "Obliterated Psyche",
+            "level": "50"
+        },
+        {
+            "name": "Psychic Wail",
+            "line": "Shock Wave",
+            "level": "50"
+        },
+        {
+            "name": "Magus",
+            "line": "Hostage",
+            "level": "51"
+        },
+        {
+            "name": "Spellbind",
+            "line": "Mesmerize",
+            "level": "52"
+        },
+        {
+            "name": "Enraging Demeanor",
+            "line": "Enraging Demeanor",
+            "level": "52"
+        },
+        {
+            "name": "Mindbend",
+            "line": "Mindbend",
+            "level": "52"
+        },
+        {
+            "name": "Ego Burst",
+            "line": "Ego Shock",
+            "level": "53"
+        },
+        {
+            "name": "Breathtaking Awe",
+            "line": "Pure Awe",
+            "level": "53"
+        },
+        {
+            "name": "Mana Cover",
+            "line": "Mana Cloak",
+            "level": "53"
+        },
+        {
+            "name": "Signet of Reason",
+            "line": "Signet of Intellect",
+            "level": "54"
+        },
+        {
+            "name": "Spell Whip",
+            "line": "Spell Curse",
+            "level": "54"
+        },
+        {
+            "name": "Intense Focus",
+            "line": "Medusa Gaze",
+            "level": "55"
+        },
+        {
+            "name": "Transfer Essence",
+            "line": "Shift Mana",
+            "level": "55"
+        },
+        {
+            "name": "Amnesia",
+            "line": "Amnesia",
+            "level": "55"
+        },
+        {
+            "name": "Depression",
+            "line": "Asylum",
+            "level": "56"
+        },
+        {
+            "name": "Destructive Mind",
+            "line": "Destructive Mind",
+            "level": "56"
+        },
+        {
+            "name": "Stroke",
+            "line": "Hemorrhage",
+            "level": "57"
+        },
+        {
+            "name": "Harrowing Silence",
+            "line": "Silence",
+            "level": "58"
+        },
+        {
+            "name": "Confoundment",
+            "line": "Stupefy",
+            "level": "58"
+        },
+        {
+            "name": "Channel",
+            "line": "Channel",
+            "level": "58"
+        },
+        {
+            "name": "Vicious Torment",
+            "line": "Brainshock",
+            "level": "59"
+        },
+        {
+            "name": "Gorging Thoughts",
+            "line": "Cannibalize Thoughts",
+            "level": "60"
+        },
+        {
+            "name": "Domination",
+            "line": "Charm",
+            "level": "61"
+        },
+        {
+            "name": "Ruinous Hesitation",
+            "line": "Forced Hesitation",
+            "level": "61"
+        },
+        {
+            "name": "Ease",
+            "line": "Breeze",
+            "level": "61"
+        },
+        {
+            "name": "Impetus",
+            "line": "Velocity",
+            "level": "62"
+        },
+        {
+            "name": "Beholder's Eye",
+            "line": "Mind's Eye",
+            "level": "62"
+        },
+        {
+            "name": "Incitement",
+            "line": "Power of Mind",
+            "level": "63"
+        },
+        {
+            "name": "Harmonious Link",
+            "line": "Peaceful Link",
+            "level": "63"
+        },
+        {
+            "name": "Perilous Gaze",
+            "line": "Simple Minds",
+            "level": "64"
+        },
+        {
+            "name": "Marred Psyche",
+            "line": "Obliterated Psyche",
+            "level": "64"
+        },
+        {
+            "name": "Auspex",
+            "line": "Hostage",
+            "level": "65"
+        },
+        {
+            "name": "Possess Essence",
+            "line": "Possess Essence",
+            "level": "65"
+        },
+        {
+            "name": "Enrapture",
+            "line": "Mesmerize",
+            "level": "66"
+        },
+        {
+            "name": "Ego Torrent",
+            "line": "Ego Shock",
+            "level": "67"
+        },
+        {
+            "name": "Astonishing Awe",
+            "line": "Pure Awe",
+            "level": "67"
+        },
+        {
+            "name": "Signet of Enlightenment",
+            "line": "Signet of Intellect",
+            "level": "68"
+        },
+        {
+            "name": "Spell Scourge",
+            "line": "Spell Curse",
+            "level": "68"
+        },
+        {
+            "name": "Deep Focus",
+            "line": "Medusa Gaze",
+            "level": "69"
+        },
+        {
+            "name": "Transfer Potential",
+            "line": "Shift Mana",
+            "level": "69"
+        },
+        {
+            "name": "Breakdown",
+            "line": "Asylum",
+            "level": "70"
+        },
+        {
+            "name": "Cataclysmic Mind",
+            "line": "Destructive Mind",
+            "level": "70"
+        },
+        {
+            "name": "Sonic Boom",
+            "line": "Shock Wave",
+            "level": "70"
+        },
+        {
+            "name": "Hemorrhage",
+            "line": "Hemorrhage",
+            "level": "71"
+        },
+        {
+            "name": "Dysphoria",
+            "line": "Stupefy",
+            "level": "71"
+        },
+        {
+            "name": "Mana Shroud",
+            "line": "Mana Cloak",
+            "level": "71"
+        },
+        {
+            "name": "Brainshock",
+            "line": "Brainshock",
+            "level": "72"
+        },
+        {
+            "name": "Absolute Silence",
+            "line": "Silence",
+            "level": "72"
+        },
+        {
+            "name": "Cortical Hesitation",
+            "line": "Forced Hesitation",
+            "level": "73"
+        },
+        {
+            "name": "Soothing",
+            "line": "Breeze",
+            "level": "73"
+        },
+        {
+            "name": "Cannibalize Thoughts",
+            "line": "Cannibalize Thoughts",
+            "level": "73"
+        },
+        {
+            "name": "Dictate",
+            "line": "Charm",
+            "level": "74"
+        },
+        {
+            "name": "Third Eye",
+            "line": "Mind's Eye",
+            "level": "74"
+        },
+        {
+            "name": "Anesthesia",
+            "line": "Amnesia",
+            "level": "74"
+        },
+        {
+            "name": "Coruscation",
+            "line": "Power of Mind",
+            "level": "75"
+        },
+        {
+            "name": "Peaceful Link",
+            "line": "Peaceful Link",
+            "level": "75"
+        },
+        {
+            "name": "Dissecting Gaze",
+            "line": "Simple Minds",
+            "level": "76"
+        },
+        {
+            "name": "Obliterated Psyche",
+            "line": "Obliterated Psyche",
+            "level": "76"
+        },
+        {
+            "name": "Channeling",
+            "line": "Channel",
+            "level": "76"
+        },
+        {
+            "name": "Hold Mind",
+            "line": "Mesmerize",
+            "level": "77"
+        },
+        {
+            "name": "Hostage",
+            "line": "Hostage",
+            "level": "77"
+        },
+        {
+            "name": "Ego Melt",
+            "line": "Ego Shock",
+            "level": "78"
+        },
+        {
+            "name": "Pure Awe",
+            "line": "Pure Awe",
+            "level": "78"
+        },
+        {
+            "name": "Spell Curse",
+            "line": "Spell Curse",
+            "level": "78"
+        },
+        {
+            "name": "Intrepid Focus",
+            "line": "Medusa Gaze",
+            "level": "79"
+        },
+        {
+            "name": "Signet of Intellect",
+            "line": "Signet of Intellect",
+            "level": "79"
+        },
+        {
+            "name": "Shift Mana",
+            "line": "Shift Mana",
+            "level": "79"
+        },
+        {
+            "name": "Asylum",
+            "line": "Asylum",
+            "level": "80"
+        },
+        {
+            "name": "Tyrannous Mind",
+            "line": "Destructive Mind",
+            "level": "80"
+        },
+        {
+            "name": "Shock Wave",
+            "line": "Shock Wave",
+            "level": "80"
+        },
+        {
+            "name": "Puppetmaster",
+            "line": "Puppetmaster",
+            "level": "80"
+        }
+    ]
+}

@@ -1,0 +1,775 @@
+{
+    "class": "Wizard",
+    "spells": [
+        {
+            "name": "Cold Whorl",
+            "line": "Ice Spears",
+            "level": "1"
+        },
+        {
+            "name": "Lightning Burst",
+            "line": "Solar Flare",
+            "level": "1"
+        },
+        {
+            "name": "Fire Chamber",
+            "line": "Magma Chamber",
+            "level": "2"
+        },
+        {
+            "name": "Engulf",
+            "line": "Incinerate",
+            "level": "3"
+        },
+        {
+            "name": "Magi's Shielding",
+            "line": "Magi's Shielding",
+            "level": "4"
+        },
+        {
+            "name": "Arcane Bindings",
+            "line": "Shackle",
+            "level": "5"
+        },
+        {
+            "name": "Arcane Augur",
+            "line": "Arcane Augur",
+            "level": "5"
+        },
+        {
+            "name": "Bind Sight",
+            "line": "Bind Sight",
+            "level": "5"
+        },
+        {
+            "name": "Lightning Shock",
+            "line": "Solar Flare",
+            "level": "6"
+        },
+        {
+            "name": "Cure Arcane",
+            "line": "Cure Arcane",
+            "level": "6"
+        },
+        {
+            "name": "Amplify",
+            "line": "Fortify Elements",
+            "level": "7"
+        },
+        {
+            "name": "Storm of Lightning",
+            "line": "Storm of Lightning",
+            "level": "8"
+        },
+        {
+            "name": "See Invisibility",
+            "line": "See Invisibility",
+            "level": "9"
+        },
+        {
+            "name": "Dispel Magic",
+            "line": "Dispel Magic",
+            "level": "9"
+        },
+        {
+            "name": "Scorch",
+            "line": "Incinerate",
+            "level": "10"
+        },
+        {
+            "name": "Blaze",
+            "line": "Immolation",
+            "level": "10"
+        },
+        {
+            "name": "Tongue Twist",
+            "line": "Cease",
+            "level": "10"
+        },
+        {
+            "name": "Burning Radiance",
+            "line": "Ro's Blade",
+            "level": "11"
+        },
+        {
+            "name": "Plasma Burst",
+            "line": "Solar Flare",
+            "level": "12"
+        },
+        {
+            "name": "Vivid Seal",
+            "line": "Tyrant's Pact",
+            "level": "12"
+        },
+        {
+            "name": "Freezing Whorl",
+            "line": "Ice Spears",
+            "level": "13"
+        },
+        {
+            "name": "Painful Meditation",
+            "line": "Vital Transfer",
+            "level": "13"
+        },
+        {
+            "name": "Conglagration",
+            "line": "Firestorm",
+            "level": "14"
+        },
+        {
+            "name": "Concussive",
+            "line": "Concussive",
+            "level": "15"
+        },
+        {
+            "name": "Summon Shadows",
+            "line": "Summon Shadows",
+            "level": "15"
+        },
+        {
+            "name": "Flame Chamber",
+            "line": "Magma Chamber",
+            "level": "16"
+        },
+        {
+            "name": "Incinerate",
+            "line": "Incinerate",
+            "level": "17"
+        },
+        {
+            "name": "Accord",
+            "line": "Converge",
+            "level": "18"
+        },
+        {
+            "name": "Manacles",
+            "line": "Shackle",
+            "level": "19"
+        },
+        {
+            "name": "Plasmatic Pulse",
+            "line": "Solar Flare",
+            "level": "20"
+        },
+        {
+            "name": "Chilling Wind",
+            "line": "Glacial Wind",
+            "level": "20"
+        },
+        {
+            "name": "Coldshield",
+            "line": "Iceshield",
+            "level": "20"
+        },
+        {
+            "name": "Amplification",
+            "line": "Fortify Elements",
+            "level": "21"
+        },
+        {
+            "name": "Lightning Flash",
+            "line": "Storm of Lightning",
+            "level": "22"
+        },
+        {
+            "name": "Snow-filled Steps",
+            "line": "Snow-filled Steps",
+            "level": "23"
+        },
+        {
+            "name": "Ball of Fire",
+            "line": "Ball of Fire",
+            "level": "23"
+        },
+        {
+            "name": "Breath of the Tyrant",
+            "line": "Immolation",
+            "level": "24"
+        },
+        {
+            "name": "Benumb",
+            "line": "Cease",
+            "level": "24"
+        },
+        {
+            "name": "Portal",
+            "line": "Portal",
+            "level": "24"
+        },
+        {
+            "name": "Flametongue",
+            "line": "Ro's Blade",
+            "level": "25"
+        },
+        {
+            "name": "Boreal",
+            "line": "Aurora",
+            "level": "25"
+        },
+        {
+            "name": "Dazzling Seal",
+            "line": "Tyrant's Pact",
+            "level": "26"
+        },
+        {
+            "name": "Icy Coil",
+            "line": "Ice Spears",
+            "level": "27"
+        },
+        {
+            "name": "Discretionary Flow",
+            "line": "Vital Transfer",
+            "level": "27"
+        },
+        {
+            "name": "Pyre",
+            "line": "Firestorm",
+            "level": "28"
+        },
+        {
+            "name": "Essence Harvest",
+            "line": "Harvest Mana",
+            "level": "28"
+        },
+        {
+            "name": "Plasma Strike",
+            "line": "Solar Flare",
+            "level": "29"
+        },
+        {
+            "name": "Blazing Intimidation",
+            "line": "Magma Chamber",
+            "level": "30"
+        },
+        {
+            "name": "Heat Stroke",
+            "line": "Incinerate",
+            "level": "31"
+        },
+        {
+            "name": "Surge of Flames",
+            "line": "Surge of Ro",
+            "level": "32"
+        },
+        {
+            "name": "Tether",
+            "line": "Shackle",
+            "level": "33"
+        },
+        {
+            "name": "Concurrence",
+            "line": "Converge",
+            "level": "33"
+        },
+        {
+            "name": "Intromission",
+            "line": "Mana Intromission",
+            "level": "33"
+        },
+        {
+            "name": "Freezing Wind",
+            "line": "Glacial Wind",
+            "level": "34"
+        },
+        {
+            "name": "Intensify",
+            "line": "Fortify Elements",
+            "level": "35"
+        },
+        {
+            "name": "Chillshield",
+            "line": "Iceshield",
+            "level": "35"
+        },
+        {
+            "name": "Ice Flame",
+            "line": "Flames of Velious",
+            "level": "35"
+        },
+        {
+            "name": "Frostbound Gift",
+            "line": "Frigid Gift",
+            "level": "35"
+        },
+        {
+            "name": "Scorching Pulse",
+            "line": "Storm of Lightning",
+            "level": "36"
+        },
+        {
+            "name": "Ball of Flames",
+            "line": "Ball of Fire",
+            "level": "37"
+        },
+        {
+            "name": "Immolation",
+            "line": "Immolation",
+            "level": "38"
+        },
+        {
+            "name": "Enfeeblement",
+            "line": "Cease",
+            "level": "38"
+        },
+        {
+            "name": "Firey Grandeur",
+            "line": "Ro's Blade",
+            "level": "38"
+        },
+        {
+            "name": "Depart",
+            "line": "Depart",
+            "level": "38"
+        },
+        {
+            "name": "Aurora",
+            "line": "Aurora",
+            "level": "39"
+        },
+        {
+            "name": "Hand of the Tyrant",
+            "line": "Tyrant's Pact",
+            "level": "40"
+        },
+        {
+            "name": "Ring of Cold",
+            "line": "Ring of Ice",
+            "level": "40"
+        },
+        {
+            "name": "Mail of Frost",
+            "line": "Mail of Frost",
+            "level": "40"
+        },
+        {
+            "name": "Piercing Icicles",
+            "line": "Ice Spears",
+            "level": "41"
+        },
+        {
+            "name": "Vital Flow",
+            "line": "Vital Transfer",
+            "level": "41"
+        },
+        {
+            "name": "Inferno",
+            "line": "Firestorm",
+            "level": "42"
+        },
+        {
+            "name": "Vitalic Harvest",
+            "line": "Harvest Mana",
+            "level": "42"
+        },
+        {
+            "name": "Flamestrike",
+            "line": "Solar Flare",
+            "level": "43"
+        },
+        {
+            "name": "Paralyze",
+            "line": "Magma Chamber",
+            "level": "44"
+        },
+        {
+            "name": "Heat Convulsions",
+            "line": "Incinerate",
+            "level": "45"
+        },
+        {
+            "name": "Firey Surge",
+            "line": "Surge of Ro",
+            "level": "46"
+        },
+        {
+            "name": "Truss",
+            "line": "Shackle",
+            "level": "47"
+        },
+        {
+            "name": "Singularity",
+            "line": "Converge",
+            "level": "47"
+        },
+        {
+            "name": "Essential Intromission",
+            "line": "Mana Intromission",
+            "level": "47"
+        },
+        {
+            "name": "Icy Wind",
+            "line": "Glacial Wind",
+            "level": "48"
+        },
+        {
+            "name": "Augmentation",
+            "line": "Fortify Elements",
+            "level": "49"
+        },
+        {
+            "name": "Icebound Gift",
+            "line": "Frigid Gift",
+            "level": "49"
+        },
+        {
+            "name": "Firey Pulse",
+            "line": "Storm of Lightning",
+            "level": "50"
+        },
+        {
+            "name": "Frostshield",
+            "line": "Iceshield",
+            "level": "50"
+        },
+        {
+            "name": "Protoflame",
+            "line": "Protoflame",
+            "level": "50"
+        },
+        {
+            "name": "Ball of Incineration",
+            "line": "Ball of Fire",
+            "level": "51"
+        },
+        {
+            "name": "Cremate",
+            "line": "Immolation",
+            "level": "52"
+        },
+        {
+            "name": "Lapse",
+            "line": "Cease",
+            "level": "52"
+        },
+        {
+            "name": "Numbing Cold",
+            "line": "Numbing Cold",
+            "level": "52"
+        },
+        {
+            "name": "Blazing Grandeur",
+            "line": "Ro's Blade",
+            "level": "53"
+        },
+        {
+            "name": "Nimbus Aurora",
+            "line": "Aurora",
+            "level": "53"
+        },
+        {
+            "name": "Glacialflame",
+            "line": "Flames of Velious",
+            "level": "53"
+        },
+        {
+            "name": "Fist of the Tyrant",
+            "line": "Tyrant's Pact",
+            "level": "54"
+        },
+        {
+            "name": "Ring of Ice",
+            "line": "Ring of Ice",
+            "level": "54"
+        },
+        {
+            "name": "Arctic Icicles",
+            "line": "Ice Spears",
+            "level": "55"
+        },
+        {
+            "name": "Vital Flood",
+            "line": "Vital Transfer",
+            "level": "55"
+        },
+        {
+            "name": "Forge of Ro",
+            "line": "Furnace of Ro",
+            "level": "55"
+        },
+        {
+            "name": "Firey Inferno",
+            "line": "Firestorm",
+            "level": "56"
+        },
+        {
+            "name": "Vitalic Reaping",
+            "line": "Harvest Mana",
+            "level": "56"
+        },
+        {
+            "name": "Sun Strike",
+            "line": "Solar Flare",
+            "level": "57"
+        },
+        {
+            "name": "Incapacitate",
+            "line": "Magma Chamber",
+            "level": "58"
+        },
+        {
+            "name": "Surging Tempest",
+            "line": "Storming Tempest",
+            "level": "58"
+        },
+        {
+            "name": "Firey Convulsions",
+            "line": "Incinerate",
+            "level": "59"
+        },
+        {
+            "name": "Inferno Surge",
+            "line": "Surge of Ro",
+            "level": "60"
+        },
+        {
+            "name": "Shackle",
+            "line": "Shackle",
+            "level": "61"
+        },
+        {
+            "name": "Anomalism",
+            "line": "Converge",
+            "level": "61"
+        },
+        {
+            "name": "Cardinal Intromission",
+            "line": "Mana Intromission",
+            "level": "61"
+        },
+        {
+            "name": "Glacial Wind",
+            "line": "Glacial Wind",
+            "level": "62"
+        },
+        {
+            "name": "Fortify Elements",
+            "line": "Fortify Elements",
+            "level": "63"
+        },
+        {
+            "name": "Frigid Gift",
+            "line": "Frigid Gift",
+            "level": "63"
+        },
+        {
+            "name": "Electrifying Flash",
+            "line": "Storm of Lightning",
+            "level": "64"
+        },
+        {
+            "name": "Iceshield",
+            "line": "Iceshield",
+            "level": "64"
+        },
+        {
+            "name": "Ball of Lava",
+            "line": "Ball of Fire",
+            "level": "65"
+        },
+        {
+            "name": "Fusion",
+            "line": "Fusion",
+            "level": "65"
+        },
+        {
+            "name": "Irradiate",
+            "line": "Immolation",
+            "level": "66"
+        },
+        {
+            "name": "Cease",
+            "line": "Cease",
+            "level": "66"
+        },
+        {
+            "name": "Phoenixblade",
+            "line": "Ro's Blade",
+            "level": "67"
+        },
+        {
+            "name": "Corona",
+            "line": "Aurora",
+            "level": "67"
+        },
+        {
+            "name": "Voice of the Tyrant",
+            "line": "Tyrant's Pact",
+            "level": "68"
+        },
+        {
+            "name": "Ring of Frost",
+            "line": "Ring of Ice",
+            "level": "68"
+        },
+        {
+            "name": "Rending Iciciles",
+            "line": "Ice Spears",
+            "level": "69"
+        },
+        {
+            "name": "Vital Conversion",
+            "line": "Vital Transfer",
+            "level": "69"
+        },
+        {
+            "name": "Firestorm",
+            "line": "Firestorm",
+            "level": "70"
+        },
+        {
+            "name": "Vitalic Cropping",
+            "line": "Harvest Mana",
+            "level": "70"
+        },
+        {
+            "name": "Protoferno",
+            "line": "Protoflame",
+            "level": "70"
+        },
+        {
+            "name": "Solar Flare",
+            "line": "Solar Flare",
+            "level": "71"
+        },
+        {
+            "name": "Flames of Velious",
+            "line": "Flames of Velious",
+            "level": "71"
+        },
+        {
+            "name": "Magma Chamber",
+            "line": "Magma Chamber",
+            "level": "72"
+        },
+        {
+            "name": "Ro's Coil",
+            "line": "Incinerate",
+            "level": "72"
+        },
+        {
+            "name": "Fetter",
+            "line": "Shackle",
+            "level": "73"
+        },
+        {
+            "name": "Converge",
+            "line": "Converge",
+            "level": "73"
+        },
+        {
+            "name": "Surge of Ro",
+            "line": "Surge of Ro",
+            "level": "73"
+        },
+        {
+            "name": "Mana Intromission",
+            "line": "Mana Intromission",
+            "level": "74"
+        },
+        {
+            "name": "Furnace of Ro",
+            "line": "Furnace of Ro",
+            "level": "74"
+        },
+        {
+            "name": "Consolidation",
+            "line": "Fortify Elements",
+            "level": "75"
+        },
+        {
+            "name": "Solar Wind",
+            "line": "Glacial Wind",
+            "level": "75"
+        },
+        {
+            "name": "Velium Gift",
+            "line": "Frigid Gift",
+            "level": "75"
+        },
+        {
+            "name": "Electron Storm",
+            "line": "Storm of Lightning",
+            "level": "76"
+        },
+        {
+            "name": "Glacialshield",
+            "line": "Iceshield",
+            "level": "76"
+        },
+        {
+            "name": "Storming Tempest",
+            "line": "Storming Tempest",
+            "level": "76"
+        },
+        {
+            "name": "Heatwave",
+            "line": "Immolation",
+            "level": "77"
+        },
+        {
+            "name": "Blip",
+            "line": "Cease",
+            "level": "77"
+        },
+        {
+            "name": "Ball of Magma",
+            "line": "Ball of Fire",
+            "level": "77"
+        },
+        {
+            "name": "Ro's Blade",
+            "line": "Ro's Blade",
+            "level": "78"
+        },
+        {
+            "name": "Peak Shift",
+            "line": "Aurora",
+            "level": "78"
+        },
+        {
+            "name": "Ring of Glaciers",
+            "line": "Ring of Ice",
+            "level": "78"
+        },
+        {
+            "name": "Fission",
+            "line": "Fusion",
+            "level": "78"
+        },
+        {
+            "name": "Ice Spears",
+            "line": "Ice Spears",
+            "level": "79"
+        },
+        {
+            "name": "Tyrant's Pact",
+            "line": "Tyrant's Pact",
+            "level": "79"
+        },
+        {
+            "name": "Vital Transfer",
+            "line": "Vital Transfer",
+            "level": "79"
+        },
+        {
+            "name": "Exothermicity",
+            "line": "Firestorm",
+            "level": "80"
+        },
+        {
+            "name": "Harvest Mana",
+            "line": "Harvest Mana",
+            "level": "80"
+        },
+        {
+            "name": "Protofire",
+            "line": "Protoflame",
+            "level": "80"
+        },
+        {
+            "name": "Rays of Disintegration",
+            "line": "Rays of Disintegration",
+            "level": "80"
+        }
+    ]
+}

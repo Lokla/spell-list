@@ -1,0 +1,785 @@
+{
+    "class": "imported-eq2-enus-3282",
+    "spells": [
+        {
+            "name": "Quick Strike",
+            "line": "Quick Strike",
+            "level": "1"
+        },
+        {
+            "name": "Fast Strike",
+            "line": "Quick Strike",
+            "level": "8"
+        },
+        {
+            "name": "Pierce",
+            "line": "Quick Strike",
+            "level": "15"
+        },
+        {
+            "name": "Cut",
+            "line": "Quick Strike",
+            "level": "29"
+        },
+        {
+            "name": "Lingering Blow",
+            "line": "Quick Strike",
+            "level": "43"
+        },
+        {
+            "name": "Scraping Blow",
+            "line": "Quick Strike",
+            "level": "57"
+        },
+        {
+            "name": "Scarring Blow",
+            "line": "Quick Strike",
+            "level": "71"
+        },
+        {
+            "name": "No change",
+            "line": "Stealth",
+            "level": "1"
+        },
+        {
+            "name": "No change",
+            "line": "Tracking",
+            "level": "1"
+        },
+        {
+            "name": "Ambush",
+            "line": "Ambush",
+            "level": "2"
+        },
+        {
+            "name": "Assail",
+            "line": "Ambush",
+            "level": "9"
+        },
+        {
+            "name": "Poisoners Blade",
+            "line": "Ambush",
+            "level": "21"
+        },
+        {
+            "name": "Murderous Blade",
+            "line": "Ambush",
+            "level": "35"
+        },
+        {
+            "name": "Punch Blade",
+            "line": "Ambush",
+            "level": "49"
+        },
+        {
+            "name": "Puncture Blade",
+            "line": "Ambush",
+            "level": "63"
+        },
+        {
+            "name": "Pinpoint Blade",
+            "line": "Ambush",
+            "level": "75"
+        },
+        {
+            "name": "Gash",
+            "line": "Gushing Wound",
+            "level": "2"
+        },
+        {
+            "name": "Bleed",
+            "line": "Gushing Wound",
+            "level": "12"
+        },
+        {
+            "name": "Agonizing Wound",
+            "line": "Gushing Wound",
+            "level": "26"
+        },
+        {
+            "name": "Seeping Wound",
+            "line": "Gushing Wound",
+            "level": "40"
+        },
+        {
+            "name": "Oozing Wound",
+            "line": "Gushing Wound",
+            "level": "54"
+        },
+        {
+            "name": "Flowing Wound",
+            "line": "Gushing Wound",
+            "level": "68"
+        },
+        {
+            "name": "Gushing Wound",
+            "line": "Gushing Wound",
+            "level": "78"
+        },
+        {
+            "name": "Double Blast",
+            "line": "Deadly Shot",
+            "level": "3"
+        },
+        {
+            "name": "Open Shot",
+            "line": "Deadly Shot",
+            "level": "16"
+        },
+        {
+            "name": "Deadly Shot",
+            "line": "Deadly Shot",
+            "level": "30"
+        },
+        {
+            "name": "Faltering Blast",
+            "line": "Deadly Shot",
+            "level": "44"
+        },
+        {
+            "name": "Assailing Blast",
+            "line": "Deadly Shot",
+            "level": "58"
+        },
+        {
+            "name": "Deadly Blast",
+            "line": "Deadly Shot",
+            "level": "71"
+        },
+        {
+            "name": "No change",
+            "line": "Pathfinding",
+            "level": "4"
+        },
+        {
+            "name": "No change",
+            "line": "Cheap Shot",
+            "level": "4"
+        },
+        {
+            "name": "Shrouded Attack",
+            "line": "Masked Strike",
+            "level": "5"
+        },
+        {
+            "name": "Shrouded Strike",
+            "line": "Masked Strike",
+            "level": "19"
+        },
+        {
+            "name": "Exposed Attack",
+            "line": "Masked Strike",
+            "level": "33"
+        },
+        {
+            "name": "Mask Of Night",
+            "line": "Masked Strike",
+            "level": "47"
+        },
+        {
+            "name": "Masked Attack",
+            "line": "Masked Strike",
+            "level": "61"
+        },
+        {
+            "name": "Masked Strike",
+            "line": "Masked Strike",
+            "level": "74"
+        },
+        {
+            "name": "No change",
+            "line": "Lucky Break",
+            "level": "5"
+        },
+        {
+            "name": "Evade",
+            "line": "Evade",
+            "level": "6"
+        },
+        {
+            "name": "Divert",
+            "line": "Evade",
+            "level": "18"
+        },
+        {
+            "name": "Slip",
+            "line": "Evade",
+            "level": "32"
+        },
+        {
+            "name": "Evasion",
+            "line": "Evade",
+            "level": "46"
+        },
+        {
+            "name": "Elude",
+            "line": "Evade",
+            "level": "60"
+        },
+        {
+            "name": "Baffle",
+            "line": "Evade",
+            "level": "73"
+        },
+        {
+            "name": "Spikes",
+            "line": "Caltrops",
+            "level": "7"
+        },
+        {
+            "name": "Caltrops",
+            "line": "Caltrops",
+            "level": "23"
+        },
+        {
+            "name": "Moor",
+            "line": "Caltrops",
+            "level": "37"
+        },
+        {
+            "name": "Deadfall",
+            "line": "Caltrops",
+            "level": "51"
+        },
+        {
+            "name": "Enmesh",
+            "line": "Caltrops",
+            "level": "65"
+        },
+        {
+            "name": "Mesh",
+            "line": "Caltrops",
+            "level": "76"
+        },
+        {
+            "name": "Torture",
+            "line": "Torture",
+            "level": "8"
+        },
+        {
+            "name": "Vex",
+            "line": "Torture",
+            "level": "22"
+        },
+        {
+            "name": "Torment",
+            "line": "Torture",
+            "level": "36"
+        },
+        {
+            "name": "Anathema",
+            "line": "Torture",
+            "level": "50"
+        },
+        {
+            "name": "Constrict",
+            "line": "Torture",
+            "level": "64"
+        },
+        {
+            "name": "Squeeze",
+            "line": "Torture",
+            "level": "75"
+        },
+        {
+            "name": "Shadow Blade",
+            "line": "Eviscerate",
+            "level": "10"
+        },
+        {
+            "name": "Ebon Blade",
+            "line": "Eviscerate",
+            "level": "24"
+        },
+        {
+            "name": "Bloodthirster",
+            "line": "Eviscerate",
+            "level": "38"
+        },
+        {
+            "name": "Gore Strike",
+            "line": "Eviscerate",
+            "level": "52"
+        },
+        {
+            "name": "Eviscerate",
+            "line": "Eviscerate",
+            "level": "66"
+        },
+        {
+            "name": "Moon Blade",
+            "line": "Eviscerate",
+            "level": "77"
+        },
+        {
+            "name": "Shadows",
+            "line": "Murderous Design",
+            "level": "11"
+        },
+        {
+            "name": "Shadow",
+            "line": "Murderous Design",
+            "level": "25"
+        },
+        {
+            "name": "Murderous Intent",
+            "line": "Murderous Design",
+            "level": "39"
+        },
+        {
+            "name": "Murderous Design",
+            "line": "Murderous Design",
+            "level": "53"
+        },
+        {
+            "name": "Impale",
+            "line": "Impale",
+            "level": "13"
+        },
+        {
+            "name": "Insidious Cut",
+            "line": "Impale",
+            "level": "27"
+        },
+        {
+            "name": "Infected Wound",
+            "line": "Impale",
+            "level": "41"
+        },
+        {
+            "name": "Open Wound",
+            "line": "Impale",
+            "level": "55"
+        },
+        {
+            "name": "Deadly Wound",
+            "line": "Impale",
+            "level": "69"
+        },
+        {
+            "name": "Deadly Impale",
+            "line": "Impale",
+            "level": "79"
+        },
+        {
+            "name": "Villainy",
+            "line": "Villainy",
+            "level": "13"
+        },
+        {
+            "name": "Bleeder's Talent",
+            "line": "Villainy",
+            "level": "27"
+        },
+        {
+            "name": "Merciless Villainy",
+            "line": "Villainy",
+            "level": "41"
+        },
+        {
+            "name": "Wicked Villainy",
+            "line": "Villainy",
+            "level": "55"
+        },
+        {
+            "name": "Fiendish Villainy",
+            "line": "Villainy",
+            "level": "69"
+        },
+        {
+            "name": "Villain",
+            "line": "Villainy",
+            "level": "79"
+        },
+        {
+            "name": "Stalk",
+            "line": "Stalk",
+            "level": "14"
+        },
+        {
+            "name": "Shadow",
+            "line": "Stalk",
+            "level": "28"
+        },
+        {
+            "name": "Stalk",
+            "line": "Stalk",
+            "level": "42"
+        },
+        {
+            "name": "Survey",
+            "line": "Stalk",
+            "level": "56"
+        },
+        {
+            "name": "Surveillance",
+            "line": "Stalk",
+            "level": "70"
+        },
+        {
+            "name": "Spy",
+            "line": "Stalk",
+            "level": "80"
+        },
+        {
+            "name": "Shadow Shot",
+            "line": "Spine Shot",
+            "level": "15"
+        },
+        {
+            "name": "Cloaked Barb",
+            "line": "Spine Shot",
+            "level": "29"
+        },
+        {
+            "name": "Killer Instinct",
+            "line": "Spine Shot",
+            "level": "43"
+        },
+        {
+            "name": "Spitting Asp",
+            "line": "Spine Shot",
+            "level": "57"
+        },
+        {
+            "name": "Spine Shot",
+            "line": "Spine Shot",
+            "level": "71"
+        },
+        {
+            "name": "Blade Flurry",
+            "line": "Whirling Blades",
+            "level": "17"
+        },
+        {
+            "name": "Blade Frenzy",
+            "line": "Whirling Blades",
+            "level": "31"
+        },
+        {
+            "name": "Blade Storm",
+            "line": "Whirling Blades",
+            "level": "45"
+        },
+        {
+            "name": "Whirling Blades",
+            "line": "Whirling Blades",
+            "level": "59"
+        },
+        {
+            "name": "Blade Stance",
+            "line": "Whirling Blades",
+            "level": "72"
+        },
+        {
+            "name": "Deft Defense",
+            "line": "Cunning Defense",
+            "level": "18"
+        },
+        {
+            "name": "Lethal Resolve",
+            "line": "Cunning Defense",
+            "level": "32"
+        },
+        {
+            "name": "Creeping Impetus",
+            "line": "Cunning Defense",
+            "level": "46"
+        },
+        {
+            "name": "Adroit Defense",
+            "line": "Cunning Defense",
+            "level": "60"
+        },
+        {
+            "name": "Adroit Stance",
+            "line": "Cunning Defense",
+            "level": "73"
+        },
+        {
+            "name": "Surprise",
+            "line": "Massacre",
+            "level": "19"
+        },
+        {
+            "name": "Slaughter",
+            "line": "Massacre",
+            "level": "33"
+        },
+        {
+            "name": "Massacre",
+            "line": "Massacre",
+            "level": "47"
+        },
+        {
+            "name": "Slaughtersault",
+            "line": "Massacre",
+            "level": "61"
+        },
+        {
+            "name": "Slate",
+            "line": "Massacre",
+            "level": "73"
+        },
+        {
+            "name": "Cut Throat",
+            "line": "Jugular Slice",
+            "level": "20"
+        },
+        {
+            "name": "Slice Throat",
+            "line": "Jugular Slice",
+            "level": "34"
+        },
+        {
+            "name": "Garrote",
+            "line": "Jugular Slice",
+            "level": "48"
+        },
+        {
+            "name": "Jugular",
+            "line": "Jugular Slice",
+            "level": "62"
+        },
+        {
+            "name": "Jugular Slice",
+            "line": "Jugular Slice",
+            "level": "74"
+        },
+        {
+            "name": "S Mark",
+            "line": "Death Mark",
+            "level": "20"
+        },
+        {
+            "name": "Vulnerable Mark",
+            "line": "Death Mark",
+            "level": "34"
+        },
+        {
+            "name": "Exposing Mark",
+            "line": "Death Mark",
+            "level": "48"
+        },
+        {
+            "name": "Malignant Mark",
+            "line": "Death Mark",
+            "level": "62"
+        },
+        {
+            "name": "Death Mark",
+            "line": "Death Mark",
+            "level": "74"
+        },
+        {
+            "name": "No change",
+            "line": "Slip Away",
+            "level": "22"
+        },
+        {
+            "name": "S Blade",
+            "line": "Mortal Blade",
+            "level": "24"
+        },
+        {
+            "name": "Condemning Blade",
+            "line": "Mortal Blade",
+            "level": "38"
+        },
+        {
+            "name": "Deathly Blade",
+            "line": "Mortal Blade",
+            "level": "52"
+        },
+        {
+            "name": "Killing Blade",
+            "line": "Mortal Blade",
+            "level": "66"
+        },
+        {
+            "name": "Mortal Blade",
+            "line": "Mortal Blade",
+            "level": "77"
+        },
+        {
+            "name": "No change",
+            "line": "Escape",
+            "level": "25"
+        },
+        {
+            "name": "Head Shot",
+            "line": "Head Shot",
+            "level": "26"
+        },
+        {
+            "name": "Assassin's Shot",
+            "line": "Head Shot",
+            "level": "40"
+        },
+        {
+            "name": "Fel Shot",
+            "line": "Head Shot",
+            "level": "54"
+        },
+        {
+            "name": "Neck Shot",
+            "line": "Head Shot",
+            "level": "68"
+        },
+        {
+            "name": "Ear Shot",
+            "line": "Head Shot",
+            "level": "78"
+        },
+        {
+            "name": "Hidden Assault",
+            "line": "Stealth Assault",
+            "level": "28"
+        },
+        {
+            "name": "Shadow Assault",
+            "line": "Stealth Assault",
+            "level": "42"
+        },
+        {
+            "name": "Murderer's Assault",
+            "line": "Stealth Assault",
+            "level": "56"
+        },
+        {
+            "name": "Cloaked Assault",
+            "line": "Stealth Assault",
+            "level": "70"
+        },
+        {
+            "name": "Stealth Assault",
+            "line": "Stealth Assault",
+            "level": "80"
+        },
+        {
+            "name": "Makeshift Weapon",
+            "line": "Improvised Weapon",
+            "level": "30"
+        },
+        {
+            "name": "Improvised Weapon",
+            "line": "Improvised Weapon",
+            "level": "44"
+        },
+        {
+            "name": "Contrived Weapon",
+            "line": "Improvised Weapon",
+            "level": "58"
+        },
+        {
+            "name": "Resourceful Weapon",
+            "line": "Improvised Weapon",
+            "level": "72"
+        },
+        {
+            "name": "Numbing Strike",
+            "line": "Paralyzing Strike",
+            "level": "32"
+        },
+        {
+            "name": "Paralyzing Strike",
+            "line": "Paralyzing Strike",
+            "level": "46"
+        },
+        {
+            "name": "Freezing Strike",
+            "line": "Paralyzing Strike",
+            "level": "60"
+        },
+        {
+            "name": "Velium Strike",
+            "line": "Paralyzing Strike",
+            "level": "73"
+        },
+        {
+            "name": "No change",
+            "line": "Honed Reflexes",
+            "level": "35"
+        },
+        {
+            "name": "Murderous Focus",
+            "line": "Deadly Focus",
+            "level": "40"
+        },
+        {
+            "name": "Brutal Focus",
+            "line": "Deadly Focus",
+            "level": "54"
+        },
+        {
+            "name": "Deadly Focus",
+            "line": "Deadly Focus",
+            "level": "67"
+        },
+        {
+            "name": "Cripple",
+            "line": "Crippling Strike",
+            "level": "44"
+        },
+        {
+            "name": "Crippling Strike",
+            "line": "Crippling Strike",
+            "level": "58"
+        },
+        {
+            "name": "Disfiguring Strike",
+            "line": "Crippling Strike",
+            "level": "72"
+        },
+        {
+            "name": "Assassinate",
+            "line": "Assassinate",
+            "level": "50"
+        },
+        {
+            "name": "Decapitate",
+            "line": "Assassinate",
+            "level": "70"
+        },
+        {
+            "name": "Execute",
+            "line": "Assassinate",
+            "level": "80"
+        },
+        {
+            "name": "Apply Poison",
+            "line": "Apply Poison",
+            "level": "52"
+        },
+        {
+            "name": "Apply Toxins",
+            "line": "Apply Poison",
+            "level": "72"
+        },
+        {
+            "name": "No change",
+            "line": "Concealment",
+            "level": "55"
+        },
+        {
+            "name": "Finishing Blow",
+            "line": "Death Blow",
+            "level": "58"
+        },
+        {
+            "name": "Death Blow",
+            "line": "Death Blow",
+            "level": "76"
+        },
+        {
+            "name": "No change",
+            "line": "Exacting",
+            "level": "65"
+        },
+        {
+            "name": "No change",
+            "line": "Fatal Followup",
+            "level": "80"
+        }
+    ]
+}

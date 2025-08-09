@@ -1,0 +1,815 @@
+{
+    "class": "Inquisitor",
+    "spells": [
+        {
+            "name": "Treatment",
+            "line": "Ministration",
+            "level": "1"
+        },
+        {
+            "name": "Invocation",
+            "line": "Invocation",
+            "level": "1"
+        },
+        {
+            "name": "Shame",
+            "line": "Condemn",
+            "level": "2"
+        },
+        {
+            "name": "Minor Recovery",
+            "line": "Fanatical Healing",
+            "level": "3"
+        },
+        {
+            "name": "Writhe",
+            "line": "Torment",
+            "level": "3"
+        },
+        {
+            "name": "Minor Blessing",
+            "line": "Tenacity",
+            "level": "4"
+        },
+        {
+            "name": "Braveness",
+            "line": "Sacred Armor",
+            "level": "5"
+        },
+        {
+            "name": "Divine Providence",
+            "line": "Divine Providence",
+            "level": "5"
+        },
+        {
+            "name": "Summon Food and Water",
+            "line": "Summon Food and Water",
+            "level": "6"
+        },
+        {
+            "name": "Cure",
+            "line": "Cure",
+            "level": "6"
+        },
+        {
+            "name": "Combat Treatment",
+            "line": "Ministration",
+            "level": "7"
+        },
+        {
+            "name": "Weakness",
+            "line": "Deny",
+            "level": "7"
+        },
+        {
+            "name": "Revive",
+            "line": "Revive",
+            "level": "8"
+        },
+        {
+            "name": "Admonishing Invocation",
+            "line": "Invocation",
+            "level": "9"
+        },
+        {
+            "name": "Enduring Breath",
+            "line": "Enduring Breath",
+            "level": "9"
+        },
+        {
+            "name": "Guilt",
+            "line": "Condemn",
+            "level": "10"
+        },
+        {
+            "name": "Recovery",
+            "line": "Fanatical Healing",
+            "level": "10"
+        },
+        {
+            "name": "Soothe",
+            "line": "Soothe",
+            "level": "10"
+        },
+        {
+            "name": "Oppress",
+            "line": "Torment",
+            "level": "11"
+        },
+        {
+            "name": "Divine Awakening",
+            "line": "Divine Awakening",
+            "level": "11"
+        },
+        {
+            "name": "Bestowal of Vitae",
+            "line": "Penance",
+            "level": "12"
+        },
+        {
+            "name": "Odyssey",
+            "line": "Odyssey",
+            "level": "13"
+        },
+        {
+            "name": "Distract",
+            "line": "Disorientation",
+            "level": "13"
+        },
+        {
+            "name": "Soothing Sermon",
+            "line": "Malevolent Diatribe",
+            "level": "14"
+        },
+        {
+            "name": "Penitent's Alleviation",
+            "line": "Alleviation",
+            "level": "14"
+        },
+        {
+            "name": "Combat Healing",
+            "line": "Ministration",
+            "level": "15"
+        },
+        {
+            "name": "Radiance",
+            "line": "Radiance",
+            "level": "15"
+        },
+        {
+            "name": "Blessing",
+            "line": "Tenacity",
+            "level": "16"
+        },
+        {
+            "name": "Conviction",
+            "line": "Fanatic's Faith",
+            "level": "16"
+        },
+        {
+            "name": "Greater Invocation",
+            "line": "Invocation",
+            "level": "17"
+        },
+        {
+            "name": "Greater Recovery",
+            "line": "Fanatical Healing",
+            "level": "18"
+        },
+        {
+            "name": "Devotee's Repentance",
+            "line": "Repentance",
+            "level": "18"
+        },
+        {
+            "name": "Undaunted",
+            "line": "Sacred Armor",
+            "level": "19"
+        },
+        {
+            "name": "Bestowal of Vitality",
+            "line": "Penance",
+            "level": "19"
+        },
+        {
+            "name": "Forced Submission",
+            "line": "Forced Obedience",
+            "level": "20"
+        },
+        {
+            "name": "Iniquity",
+            "line": "Deny",
+            "level": "21"
+        },
+        {
+            "name": "Treat Wounds",
+            "line": "Ministration",
+            "level": "22"
+        },
+        {
+            "name": "Reforming Soul",
+            "line": "Reforming Soul",
+            "level": "22"
+        },
+        {
+            "name": "Swill",
+            "line": "Swill",
+            "level": "23"
+        },
+        {
+            "name": "Cleansing Fire",
+            "line": "Purifying Flames",
+            "level": "23"
+        },
+        {
+            "name": "Reproach",
+            "line": "Condemn",
+            "level": "24"
+        },
+        {
+            "name": "Oppression",
+            "line": "Torment",
+            "level": "25"
+        },
+        {
+            "name": "Favor of the Repentant",
+            "line": "Penance",
+            "level": "26"
+        },
+        {
+            "name": "Heretic's Demise",
+            "line": "Heretic's Doom",
+            "level": "26"
+        },
+        {
+            "name": "Disorient",
+            "line": "Disorientation",
+            "level": "27"
+        },
+        {
+            "name": "Contrite Grace",
+            "line": "Malevolent Diatribe",
+            "level": "28"
+        },
+        {
+            "name": "Penitent's Sermon",
+            "line": "Alleviation",
+            "level": "28"
+        },
+        {
+            "name": "Minister Wounds",
+            "line": "Ministration",
+            "level": "29"
+        },
+        {
+            "name": "Retaliation",
+            "line": "Vengeance",
+            "level": "29"
+        },
+        {
+            "name": "Abject Blessing",
+            "line": "Tenacity",
+            "level": "30"
+        },
+        {
+            "name": "Fanatical Reverence",
+            "line": "Fanatic's Faith",
+            "level": "30"
+        },
+        {
+            "name": "Cruel Invocation",
+            "line": "Invocation",
+            "level": "31"
+        },
+        {
+            "name": "Dogmatic Healing",
+            "line": "Fanatical Healing",
+            "level": "32"
+        },
+        {
+            "name": "Devotee's Retribution",
+            "line": "Repentance",
+            "level": "32"
+        },
+        {
+            "name": "Litany of Agony",
+            "line": "Litany",
+            "level": "32"
+        },
+        {
+            "name": "Dauntless",
+            "line": "Sacred Armor",
+            "level": "33"
+        },
+        {
+            "name": "Forced Acquiescence",
+            "line": "Forced Obedience",
+            "level": "34"
+        },
+        {
+            "name": "Depravity",
+            "line": "Deny",
+            "level": "35"
+        },
+        {
+            "name": "Symbol of Corruption",
+            "line": "Smite Corruption",
+            "level": "35"
+        },
+        {
+            "name": "Act of Belief",
+            "line": "Act of War",
+            "level": "35"
+        },
+        {
+            "name": "Resurgence",
+            "line": "Resurgence",
+            "level": "36"
+        },
+        {
+            "name": "Cleansing Flames",
+            "line": "Purifying Flames",
+            "level": "37"
+        },
+        {
+            "name": "Contempt",
+            "line": "Condemn",
+            "level": "38"
+        },
+        {
+            "name": "Torment",
+            "line": "Torment",
+            "level": "39"
+        },
+        {
+            "name": "Imprison",
+            "line": "Incarcerate",
+            "level": "39"
+        },
+        {
+            "name": "Stinging Penance",
+            "line": "Penance",
+            "level": "40"
+        },
+        {
+            "name": "Heretic's Fate",
+            "line": "Heretic's Doom",
+            "level": "40"
+        },
+        {
+            "name": "Digression",
+            "line": "Disorientation",
+            "level": "41"
+        },
+        {
+            "name": "Redemption",
+            "line": "Redemption",
+            "level": "41"
+        },
+        {
+            "name": "Salutary Diatribe",
+            "line": "Malevolent Diatribe",
+            "level": "42"
+        },
+        {
+            "name": "Scolding Alleviation",
+            "line": "Alleviation",
+            "level": "42"
+        },
+        {
+            "name": "Flagellant",
+            "line": "Resolute Flagellant",
+            "level": "42"
+        },
+        {
+            "name": "Faithful Ministration",
+            "line": "Ministration",
+            "level": "43"
+        },
+        {
+            "name": "Vengeance",
+            "line": "Vengeance",
+            "level": "43"
+        },
+        {
+            "name": "Hallowed Aura",
+            "line": "Tenacity",
+            "level": "44"
+        },
+        {
+            "name": "Zealot's Conviction",
+            "line": "Fanatic's Faith",
+            "level": "44"
+        },
+        {
+            "name": "Merciless Invocation",
+            "line": "Invocation",
+            "level": "45"
+        },
+        {
+            "name": "Harrowing Inquest",
+            "line": "Inquest",
+            "level": "45"
+        },
+        {
+            "name": "Intolerant Healing",
+            "line": "Fanatical Healing",
+            "level": "46"
+        },
+        {
+            "name": "Coerced Repentance",
+            "line": "Repentance",
+            "level": "46"
+        },
+        {
+            "name": "Litany of Torment",
+            "line": "Litany",
+            "level": "46"
+        },
+        {
+            "name": "Fervence",
+            "line": "Sacred Armor",
+            "level": "47"
+        },
+        {
+            "name": "Fearful Conversion",
+            "line": "Tormenting Conversion",
+            "level": "47"
+        },
+        {
+            "name": "Forced Compliance",
+            "line": "Forced Obedience",
+            "level": "48"
+        },
+        {
+            "name": "Evidence of Faith",
+            "line": "Evidence of Faith",
+            "level": "48"
+        },
+        {
+            "name": "Vitiation",
+            "line": "Deny",
+            "level": "49"
+        },
+        {
+            "name": "Act of Faith",
+            "line": "Act of War",
+            "level": "49"
+        },
+        {
+            "name": "Conversion of the Soul",
+            "line": "Conversion of the Soul",
+            "level": "50"
+        },
+        {
+            "name": "Zealotry",
+            "line": "Fanaticism",
+            "level": "50"
+        },
+        {
+            "name": "Purifying Flames",
+            "line": "Purifying Flames",
+            "level": "51"
+        },
+        {
+            "name": "Sentence",
+            "line": "Condemn",
+            "level": "52"
+        },
+        {
+            "name": "Heresy",
+            "line": "Heresy",
+            "level": "52"
+        },
+        {
+            "name": "Scourge",
+            "line": "Torment",
+            "level": "53"
+        },
+        {
+            "name": "Punish Corruption",
+            "line": "Smite Corruption",
+            "level": "53"
+        },
+        {
+            "name": "Incarcerate",
+            "line": "Incarcerate",
+            "level": "53"
+        },
+        {
+            "name": "Woeful Penance",
+            "line": "Penance",
+            "level": "54"
+        },
+        {
+            "name": "Improved Digression",
+            "line": "Disorientation",
+            "level": "55"
+        },
+        {
+            "name": "Heretic's Doom",
+            "line": "Heretic's Doom",
+            "level": "55"
+        },
+        {
+            "name": "Exoneration",
+            "line": "Redemption",
+            "level": "55"
+        },
+        {
+            "name": "Fervent Focus",
+            "line": "Fervent Faith",
+            "level": "55"
+        },
+        {
+            "name": "Benign Diatribe",
+            "line": "Malevolent Diatribe",
+            "level": "56"
+        },
+        {
+            "name": "Derisive Alleviation",
+            "line": "Alleviation",
+            "level": "56"
+        },
+        {
+            "name": "Devoted Flagellant",
+            "line": "Resolute Flagellant",
+            "level": "56"
+        },
+        {
+            "name": "Devoted Ministration",
+            "line": "Ministration",
+            "level": "57"
+        },
+        {
+            "name": "Fanatical Vengeance",
+            "line": "Vengeance",
+            "level": "57"
+        },
+        {
+            "name": "Consecrated Aura",
+            "line": "Tenacity",
+            "level": "58"
+        },
+        {
+            "name": "Fanatic's Faith",
+            "line": "Fanatic's Faith",
+            "level": "58"
+        },
+        {
+            "name": "Convert",
+            "line": "Dogma",
+            "level": "58"
+        },
+        {
+            "name": "Ruthless Invocation",
+            "line": "Invocation",
+            "level": "59"
+        },
+        {
+            "name": "Chilling Inquest",
+            "line": "Inquest",
+            "level": "59"
+        },
+        {
+            "name": "Fanatical Healing",
+            "line": "Fanatical Healing",
+            "level": "60"
+        },
+        {
+            "name": "Compelled Repentance",
+            "line": "Repentance",
+            "level": "60"
+        },
+        {
+            "name": "Litany of Anguish",
+            "line": "Litany",
+            "level": "60"
+        },
+        {
+            "name": "Pious",
+            "line": "Sacred Armor",
+            "level": "61"
+        },
+        {
+            "name": "Forboding Conversion",
+            "line": "Tormenting Conversion",
+            "level": "61"
+        },
+        {
+            "name": "Forced Obedience",
+            "line": "Forced Obedience",
+            "level": "62"
+        },
+        {
+            "name": "Act of Conviction",
+            "line": "Act of War",
+            "level": "63"
+        },
+        {
+            "name": "Debase",
+            "line": "Deny",
+            "level": "64"
+        },
+        {
+            "name": "Absolving Flames",
+            "line": "Purifying Flames",
+            "level": "65"
+        },
+        {
+            "name": "Verdict",
+            "line": "Verdict",
+            "level": "65"
+        },
+        {
+            "name": "Convict",
+            "line": "Condemn",
+            "level": "66"
+        },
+        {
+            "name": "Affliction",
+            "line": "Torment",
+            "level": "67"
+        },
+        {
+            "name": "Detain",
+            "line": "Incarcerate",
+            "level": "67"
+        },
+        {
+            "name": "Suffering Penance",
+            "line": "Penance",
+            "level": "68"
+        },
+        {
+            "name": "Heretic's Destiny",
+            "line": "Heretic's Doom",
+            "level": "68"
+        },
+        {
+            "name": "Disorientation",
+            "line": "Disorientation",
+            "level": "69"
+        },
+        {
+            "name": "Absolution",
+            "line": "Redemption",
+            "level": "69"
+        },
+        {
+            "name": "Malevolent Diatribe",
+            "line": "Malevolent Diatribe",
+            "level": "70"
+        },
+        {
+            "name": "Reproachful Alleviation",
+            "line": "Alleviation",
+            "level": "70"
+        },
+        {
+            "name": "Resolute Flagellant",
+            "line": "Resolute Flagellant",
+            "level": "70"
+        },
+        {
+            "name": "Fanaticism",
+            "line": "Fanaticism",
+            "level": "70"
+        },
+        {
+            "name": "Ministration",
+            "line": "Ministration",
+            "level": "71"
+        },
+        {
+            "name": "Forced Martyrdom",
+            "line": "Vengeance",
+            "level": "71"
+        },
+        {
+            "name": "Smite Corruption",
+            "line": "Smite Corruption",
+            "level": "71"
+        },
+        {
+            "name": "Invocate",
+            "line": "Invocation",
+            "level": "72"
+        },
+        {
+            "name": "Tenacity",
+            "line": "Tenacity",
+            "level": "72"
+        },
+        {
+            "name": "Zeal",
+            "line": "Fanatic's Faith",
+            "level": "72"
+        },
+        {
+            "name": "Blasphemy",
+            "line": "Heresy",
+            "level": "72"
+        },
+        {
+            "name": "Arch Recovery",
+            "line": "Fanatical Healing",
+            "level": "73"
+        },
+        {
+            "name": "Repentance",
+            "line": "Repentance",
+            "level": "73"
+        },
+        {
+            "name": "Inquest",
+            "line": "Inquest",
+            "level": "73"
+        },
+        {
+            "name": "Sacred Armor",
+            "line": "Sacred Armor",
+            "level": "74"
+        },
+        {
+            "name": "Litany",
+            "line": "Litany",
+            "level": "74"
+        },
+        {
+            "name": "Fervent Faith",
+            "line": "Fervent Faith",
+            "level": "74"
+        },
+        {
+            "name": "Act of War",
+            "line": "Act of War",
+            "level": "75"
+        },
+        {
+            "name": "Tormenting Conversion",
+            "line": "Tormenting Conversion",
+            "level": "75"
+        },
+        {
+            "name": "Deny",
+            "line": "Deny",
+            "level": "76"
+        },
+        {
+            "name": "Forced Disarmament",
+            "line": "Forced Obedience",
+            "level": "76"
+        },
+        {
+            "name": "Dogma",
+            "line": "Dogma",
+            "level": "76"
+        },
+        {
+            "name": "Condemned",
+            "line": "Condemn",
+            "level": "77"
+        },
+        {
+            "name": "Cauterizing Flames",
+            "line": "Purifying Flames",
+            "level": "77"
+        },
+        {
+            "name": "Confine",
+            "line": "Incarcerate",
+            "level": "77"
+        },
+        {
+            "name": "Scourging",
+            "line": "Torment",
+            "level": "78"
+        },
+        {
+            "name": "Penance",
+            "line": "Penance",
+            "level": "78"
+        },
+        {
+            "name": "Greater Disorientation",
+            "line": "Disorientation",
+            "level": "79"
+        },
+        {
+            "name": "Forgiving Diatribe",
+            "line": "Malevolent Diatribe",
+            "level": "79"
+        },
+        {
+            "name": "Heretic's Fall",
+            "line": "Heretic's Doom",
+            "level": "79"
+        },
+        {
+            "name": "Alleviation",
+            "line": "Alleviation",
+            "level": "80"
+        },
+        {
+            "name": "Redeem",
+            "line": "Redemption",
+            "level": "80"
+        },
+        {
+            "name": "Devotion",
+            "line": "Fanaticism",
+            "level": "80"
+        },
+        {
+            "name": "Inquisition",
+            "line": "Inquisition",
+            "level": "80"
+        },
+        {
+            "name": "Cure Curse",
+            "line": "Cure Curse",
+            "level": "80"
+        }
+    ]
+}

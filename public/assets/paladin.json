@@ -1,0 +1,815 @@
+{
+    "class": "Paladin",
+    "spells": [
+        {
+            "name": "Taunt",
+            "line": "Clarion",
+            "level": "1"
+        },
+        {
+            "name": "Faithful Swing",
+            "line": "Faith Strike",
+            "level": "1"
+        },
+        {
+            "name": "Righteous Anger",
+            "line": "Judgement",
+            "level": "2"
+        },
+        {
+            "name": "Prayer of Healing",
+            "line": "Prayer of Healing",
+            "level": "3"
+        },
+        {
+            "name": "Courageousness",
+            "line": "Wrath Stance",
+            "level": "4"
+        },
+        {
+            "name": "Knight's Defense",
+            "line": "Knight's Stance",
+            "level": "4"
+        },
+        {
+            "name": "Kick",
+            "line": "Penitent Kick",
+            "level": "5"
+        },
+        {
+            "name": "Fighting Chance",
+            "line": "Fighting Chance",
+            "level": "5"
+        },
+        {
+            "name": "Intervene",
+            "line": "Intercept",
+            "level": "6"
+        },
+        {
+            "name": "Divine Circle",
+            "line": "Holy Circle",
+            "level": "7"
+        },
+        {
+            "name": "Blinding Rays",
+            "line": "Righteousness",
+            "level": "8"
+        },
+        {
+            "name": "Incite",
+            "line": "Clarion",
+            "level": "9"
+        },
+        {
+            "name": "Call of Inspiration",
+            "line": "Divine Inspiration",
+            "level": "9"
+        },
+        {
+            "name": "Blessed Weapon",
+            "line": "Blessed Weapon",
+            "level": "10"
+        },
+        {
+            "name": "Righteous Blow",
+            "line": "Divine Vengeance",
+            "level": "11"
+        },
+        {
+            "name": "Demonstration of Faith",
+            "line": "Demonstration of Faith",
+            "level": "12"
+        },
+        {
+            "name": "Righteous Judgement",
+            "line": "Judgement",
+            "level": "13"
+        },
+        {
+            "name": "Bash",
+            "line": "Heroic Dash",
+            "level": "13"
+        },
+        {
+            "name": "Cry of Conviction",
+            "line": "Ancient Wrath",
+            "level": "14"
+        },
+        {
+            "name": "Faithful Strike",
+            "line": "Faith Strike",
+            "level": "15"
+        },
+        {
+            "name": "Power Cleave",
+            "line": "Power Cleave",
+            "level": "15"
+        },
+        {
+            "name": "Prayer of Mending",
+            "line": "Prayer of Healing",
+            "level": "16"
+        },
+        {
+            "name": "Knight's Stance",
+            "line": "Knight's Stance",
+            "level": "16"
+        },
+        {
+            "name": "Inflame",
+            "line": "Clarion",
+            "level": "17"
+        },
+        {
+            "name": "Offering of Armament",
+            "line": "Pledge of Armament",
+            "level": "17"
+        },
+        {
+            "name": "Ancient Pledge",
+            "line": "Resolute Faith",
+            "level": "18"
+        },
+        {
+            "name": "Charge",
+            "line": "Penitent Kick",
+            "level": "19"
+        },
+        {
+            "name": "Vigor of Trust",
+            "line": "Crusade",
+            "level": "19"
+        },
+        {
+            "name": "Intercept",
+            "line": "Intercept",
+            "level": "20"
+        },
+        {
+            "name": "Lay on Hands",
+            "line": "Lay on Hands",
+            "level": "20"
+        },
+        {
+            "name": "Divine Wrath",
+            "line": "Holy Circle",
+            "level": "21"
+        },
+        {
+            "name": "Redemption",
+            "line": "Amends",
+            "level": "21"
+        },
+        {
+            "name": "Courageous Wrath",
+            "line": "Wrath Stance",
+            "level": "22"
+        },
+        {
+            "name": "Blinding Light",
+            "line": "Righteousness",
+            "level": "22"
+        },
+        {
+            "name": "Blessed Aid",
+            "line": "Holy Aid",
+            "level": "22"
+        },
+        {
+            "name": "Divine Inspiration",
+            "line": "Divine Inspiration",
+            "level": "23"
+        },
+        {
+            "name": "Glorious Weapon",
+            "line": "Blessed Weapon",
+            "level": "24"
+        },
+        {
+            "name": "Blessing of the Pentitent",
+            "line": "Blessing of the Paladin",
+            "level": "24"
+        },
+        {
+            "name": "Divine Vengeance",
+            "line": "Divine Vengeance",
+            "level": "25"
+        },
+        {
+            "name": "Rescue",
+            "line": "Rescue",
+            "level": "25"
+        },
+        {
+            "name": "Faithful Zeal",
+            "line": "Demonstration of Faith",
+            "level": "26"
+        },
+        {
+            "name": "Pentitent Sacrament",
+            "line": "Devout Sacrament",
+            "level": "26"
+        },
+        {
+            "name": "Omen of Battle",
+            "line": "Judgement",
+            "level": "27"
+        },
+        {
+            "name": "Blinding Bash",
+            "line": "Heroic Dash",
+            "level": "27"
+        },
+        {
+            "name": "Unyielding Conviction",
+            "line": "Ancient Wrath",
+            "level": "28"
+        },
+        {
+            "name": "Oath Strike",
+            "line": "Holy Strike",
+            "level": "28"
+        },
+        {
+            "name": "Blazing Faith",
+            "line": "Faith Strike",
+            "level": "29"
+        },
+        {
+            "name": "Holy Sunder",
+            "line": "Power Cleave",
+            "level": "29"
+        },
+        {
+            "name": "Prayer of Devotion",
+            "line": "Prayer of Healing",
+            "level": "30"
+        },
+        {
+            "name": "Shining Beacon",
+            "line": "Knight's Stance",
+            "level": "30"
+        },
+        {
+            "name": "Noble Tone",
+            "line": "Clarion",
+            "level": "31"
+        },
+        {
+            "name": "Grant of Armament",
+            "line": "Pledge of Armament",
+            "level": "31"
+        },
+        {
+            "name": "Implacable Wrath",
+            "line": "Wrath Stance",
+            "level": "32"
+        },
+        {
+            "name": "Aegis of Hope",
+            "line": "Resolute Faith",
+            "level": "32"
+        },
+        {
+            "name": "Vengeance",
+            "line": "Penitent Kick",
+            "level": "33"
+        },
+        {
+            "name": "Pious Belief",
+            "line": "Crusade",
+            "level": "33"
+        },
+        {
+            "name": "Intercede",
+            "line": "Intercept",
+            "level": "34"
+        },
+        {
+            "name": "Virtuous Touch",
+            "line": "Lay on Hands",
+            "level": "34"
+        },
+        {
+            "name": "Flatedge Twirl",
+            "line": "Holy Circle",
+            "level": "35"
+        },
+        {
+            "name": "Atonement",
+            "line": "Amends",
+            "level": "35"
+        },
+        {
+            "name": "Doom Judgement",
+            "line": "Doom Judgement",
+            "level": "35"
+        },
+        {
+            "name": "Smite Prayer",
+            "line": "Righteousness",
+            "level": "36"
+        },
+        {
+            "name": "Devout Aid",
+            "line": "Holy Aid",
+            "level": "36"
+        },
+        {
+            "name": "Call to Glory",
+            "line": "Divine Inspiration",
+            "level": "37"
+        },
+        {
+            "name": "Righteous Cause",
+            "line": "Blessed Weapon",
+            "level": "38"
+        },
+        {
+            "name": "Blessing of the Devout",
+            "line": "Blessing of the Paladin",
+            "level": "38"
+        },
+        {
+            "name": "Shatter Will",
+            "line": "Divine Vengeance",
+            "level": "39"
+        },
+        {
+            "name": "Display of Devotion",
+            "line": "Demonstration of Faith",
+            "level": "40"
+        },
+        {
+            "name": "Devout Sacrament",
+            "line": "Devout Sacrament",
+            "level": "40"
+        },
+        {
+            "name": "Refusal of Grace",
+            "line": "Refusal of Atonement",
+            "level": "40"
+        },
+        {
+            "name": "Divine Judgement",
+            "line": "Judgement",
+            "level": "41"
+        },
+        {
+            "name": "Courageous Dash",
+            "line": "Heroic Dash",
+            "level": "41"
+        },
+        {
+            "name": "Ancient Wrath",
+            "line": "Ancient Wrath",
+            "level": "42"
+        },
+        {
+            "name": "Sworn Strike",
+            "line": "Holy Strike",
+            "level": "42"
+        },
+        {
+            "name": "Condemnation",
+            "line": "Faith Strike",
+            "level": "43"
+        },
+        {
+            "name": "Judgement Strike",
+            "line": "Power Cleave",
+            "level": "43"
+        },
+        {
+            "name": "Prayer of Conviction",
+            "line": "Prayer of Healing",
+            "level": "44"
+        },
+        {
+            "name": "Benediction",
+            "line": "Knight's Stance",
+            "level": "44"
+        },
+        {
+            "name": "Elixir of Resuscitation",
+            "line": "Elixir of Resuscitation",
+            "level": "44"
+        },
+        {
+            "name": "Clarion Call",
+            "line": "Clarion",
+            "level": "45"
+        },
+        {
+            "name": "Gift of Armament",
+            "line": "Pledge of Armament",
+            "level": "45"
+        },
+        {
+            "name": "Unyielding Wrath",
+            "line": "Wrath Stance",
+            "level": "46"
+        },
+        {
+            "name": "Unwavering Faith",
+            "line": "Resolute Faith",
+            "level": "46"
+        },
+        {
+            "name": "Blessed Rush",
+            "line": "Penitent Kick",
+            "level": "47"
+        },
+        {
+            "name": "Crusade",
+            "line": "Crusade",
+            "level": "47"
+        },
+        {
+            "name": "Divine Touch",
+            "line": "Lay on Hands",
+            "level": "48"
+        },
+        {
+            "name": "Holy Symbol",
+            "line": "Holy Circle",
+            "level": "49"
+        },
+        {
+            "name": "Amends",
+            "line": "Amends",
+            "level": "49"
+        },
+        {
+            "name": "Zealous Preaching",
+            "line": "Righteousness",
+            "level": "50"
+        },
+        {
+            "name": "Pious Aid",
+            "line": "Holy Aid",
+            "level": "50"
+        },
+        {
+            "name": "Decree",
+            "line": "Decree",
+            "level": "50"
+        },
+        {
+            "name": "Call to Honor",
+            "line": "Divine Inspiration",
+            "level": "51"
+        },
+        {
+            "name": "Righteous Crusade",
+            "line": "Blessed Weapon",
+            "level": "52"
+        },
+        {
+            "name": "Blessing fo the Celestial",
+            "line": "Blessing of the Paladin",
+            "level": "52"
+        },
+        {
+            "name": "Sigil of Heroism",
+            "line": "Sigil of Heroism",
+            "level": "52"
+        },
+        {
+            "name": "Destroy Will",
+            "line": "Divine Vengeance",
+            "level": "53"
+        },
+        {
+            "name": "Doom Aura",
+            "line": "Doom Judgement",
+            "level": "53"
+        },
+        {
+            "name": "Demonstration of Devotion",
+            "line": "Demonstration of Faith",
+            "level": "54"
+        },
+        {
+            "name": "Ardent Sacrament",
+            "line": "Devout Sacrament",
+            "level": "54"
+        },
+        {
+            "name": "Refusal of Faith",
+            "line": "Refusal of Atonement",
+            "level": "54"
+        },
+        {
+            "name": "Celestial Judgement",
+            "line": "Judgement",
+            "level": "55"
+        },
+        {
+            "name": "Righteous Dash",
+            "line": "Heroic Dash",
+            "level": "55"
+        },
+        {
+            "name": "Consecrate",
+            "line": "Consecrate",
+            "level": "55"
+        },
+        {
+            "name": "Unflinching Conviction",
+            "line": "Ancient Wrath",
+            "level": "56"
+        },
+        {
+            "name": "Zealous Strike",
+            "line": "Holy Strike",
+            "level": "56"
+        },
+        {
+            "name": "Righteous Condemnation",
+            "line": "Faith Strike",
+            "level": "57"
+        },
+        {
+            "name": "Chastising Strike",
+            "line": "Power Cleave",
+            "level": "57"
+        },
+        {
+            "name": "Prayer of Consecration",
+            "line": "Prayer of Healing",
+            "level": "58"
+        },
+        {
+            "name": "Faithful Benediction",
+            "line": "Knight's Stance",
+            "level": "58"
+        },
+        {
+            "name": "Divine Favor",
+            "line": "Divine Favor",
+            "level": "58"
+        },
+        {
+            "name": "Clarion Cry",
+            "line": "Clarion",
+            "level": "59"
+        },
+        {
+            "name": "Pledge of Armament",
+            "line": "Pledge of Armament",
+            "level": "59"
+        },
+        {
+            "name": "Relentless Wrath",
+            "line": "Wrath Stance",
+            "level": "60"
+        },
+        {
+            "name": "Resolute Faith",
+            "line": "Resolute Faith",
+            "level": "60"
+        },
+        {
+            "name": "Backlash",
+            "line": "Penitent Kick",
+            "level": "61"
+        },
+        {
+            "name": "Ardent Belief",
+            "line": "Crusade",
+            "level": "61"
+        },
+        {
+            "name": "Celestial Touch",
+            "line": "Lay on Hands",
+            "level": "62"
+        },
+        {
+            "name": "Holy Circle",
+            "line": "Holy Circle",
+            "level": "63"
+        },
+        {
+            "name": "Righteousness",
+            "line": "Righteousness",
+            "level": "64"
+        },
+        {
+            "name": "Fervent Aid",
+            "line": "Holy Aid",
+            "level": "64"
+        },
+        {
+            "name": "Call to Duty",
+            "line": "Divine Inspiration",
+            "level": "65"
+        },
+        {
+            "name": "Castigate",
+            "line": "Castigate",
+            "level": "65"
+        },
+        {
+            "name": "Righteous Demonstration",
+            "line": "Blessed Weapon",
+            "level": "66"
+        },
+        {
+            "name": "Blessing of the Reverent",
+            "line": "Blessing of the Paladin",
+            "level": "66"
+        },
+        {
+            "name": "Extinguish Will",
+            "line": "Divine Vengeance",
+            "level": "67"
+        },
+        {
+            "name": "Devotion",
+            "line": "Demonstration of Faith",
+            "level": "68"
+        },
+        {
+            "name": "Reverent Sacrament",
+            "line": "Devout Sacrament",
+            "level": "68"
+        },
+        {
+            "name": "Refusal of Conviction",
+            "line": "Refusal of Atonement",
+            "level": "68"
+        },
+        {
+            "name": "Hallowed Judgement",
+            "line": "Judgement",
+            "level": "69"
+        },
+        {
+            "name": "Valorous Dash",
+            "line": "Heroic Dash",
+            "level": "69"
+        },
+        {
+            "name": "Relentless Conviction",
+            "line": "Ancient Wrath",
+            "level": "70"
+        },
+        {
+            "name": "Devout Strike",
+            "line": "Holy Strike",
+            "level": "70"
+        },
+        {
+            "name": "Brimstone",
+            "line": "Decree",
+            "level": "70"
+        },
+        {
+            "name": "Faith Strike",
+            "line": "Faith Strike",
+            "level": "71"
+        },
+        {
+            "name": "Cleave Faith",
+            "line": "Power Cleave",
+            "level": "71"
+        },
+        {
+            "name": "Doom Rays",
+            "line": "Doom Judgement",
+            "level": "71"
+        },
+        {
+            "name": "Clarion",
+            "line": "Clarion",
+            "level": "72"
+        },
+        {
+            "name": "Prayer of Amelioration",
+            "line": "Prayer of Healing",
+            "level": "72"
+        },
+        {
+            "name": "Stance of Bayle",
+            "line": "Knight's Stance",
+            "level": "72"
+        },
+        {
+            "name": "Wrath Stance",
+            "line": "Wrath Stance",
+            "level": "73"
+        },
+        {
+            "name": "Donation of Armament",
+            "line": "Pledge of Armament",
+            "level": "73"
+        },
+        {
+            "name": "Bayle's Leadership",
+            "line": "Crusade",
+            "level": "73"
+        },
+        {
+            "name": "Pentitent Kick",
+            "line": "Penitent Kick",
+            "level": "74"
+        },
+        {
+            "name": "Holy Touch",
+            "line": "Lay on Hands",
+            "level": "74"
+        },
+        {
+            "name": "Consecration",
+            "line": "Consecrate",
+            "level": "74"
+        },
+        {
+            "name": "Circular Smite",
+            "line": "Holy Circle",
+            "level": "75"
+        },
+        {
+            "name": "Excoriation",
+            "line": "Righteousness",
+            "level": "76"
+        },
+        {
+            "name": "Call to Redemption",
+            "line": "Divine Inspiration",
+            "level": "76"
+        },
+        {
+            "name": "Holy Aid",
+            "line": "Holy Aid",
+            "level": "76"
+        },
+        {
+            "name": "Righteous Weapon",
+            "line": "Blessed Weapon",
+            "level": "77"
+        },
+        {
+            "name": "Break Will",
+            "line": "Divine Vengeance",
+            "level": "77"
+        },
+        {
+            "name": "Blessing of the Paladin",
+            "line": "Blessing of the Paladin",
+            "level": "77"
+        },
+        {
+            "name": "Sacrament of Bayle",
+            "line": "Devout Sacrament",
+            "level": "78"
+        },
+        {
+            "name": "Refusal of Atonement",
+            "line": "Refusal of Atonement",
+            "level": "78"
+        },
+        {
+            "name": "Castigation",
+            "line": "Castigate",
+            "level": "78"
+        },
+        {
+            "name": "Judgement",
+            "line": "Judgement",
+            "level": "79"
+        },
+        {
+            "name": "Prayer",
+            "line": "Demonstration of Faith",
+            "level": "79"
+        },
+        {
+            "name": "Heroic Dash",
+            "line": "Heroic Dash",
+            "level": "79"
+        },
+        {
+            "name": "Circle of Conviction",
+            "line": "Ancient Wrath",
+            "level": "80"
+        },
+        {
+            "name": "Holy Strike",
+            "line": "Holy Strike",
+            "level": "80"
+        },
+        {
+            "name": "Verdict",
+            "line": "Decree",
+            "level": "80"
+        },
+        {
+            "name": "Holy Ground",
+            "line": "Holy Ground",
+            "level": "80"
+        }
+    ]
+}

@@ -1,0 +1,810 @@
+{
+    "class": "Guardian",
+    "spells": [
+        {
+            "name": "Taunt",
+            "line": "Provoke",
+            "level": "1"
+        },
+        {
+            "name": "Swing",
+            "line": "Overpower",
+            "level": "1"
+        },
+        {
+            "name": "Shield Bash",
+            "line": "Shield Bash",
+            "level": "2"
+        },
+        {
+            "name": "Hold the Line",
+            "line": "Hold the Line",
+            "level": "3"
+        },
+        {
+            "name": "Taunting Strike",
+            "line": "Taunting Blow",
+            "level": "3"
+        },
+        {
+            "name": "Defense",
+            "line": "Armored",
+            "level": "4"
+        },
+        {
+            "name": "Offense",
+            "line": "Forward Charge",
+            "level": "4"
+        },
+        {
+            "name": "Fighting Chance",
+            "line": "Fighting Chance",
+            "level": "5"
+        },
+        {
+            "name": "Kick",
+            "line": "Gut Kick",
+            "level": "5"
+        },
+        {
+            "name": "Intervene",
+            "line": "Intercept",
+            "level": "6"
+        },
+        {
+            "name": "Assault",
+            "line": "Assault",
+            "level": "7"
+        },
+        {
+            "name": "Shout",
+            "line": "Shout",
+            "level": "8"
+        },
+        {
+            "name": "Provoke",
+            "line": "Provoke",
+            "level": "9"
+        },
+        {
+            "name": "Call to Arms",
+            "line": "Call to Arms",
+            "level": "9"
+        },
+        {
+            "name": "Taunting Blow",
+            "line": "Taunting Blow",
+            "level": "10"
+        },
+        {
+            "name": "Crumble",
+            "line": "Ruin",
+            "level": "11"
+        },
+        {
+            "name": "Rallying Cry",
+            "line": "Battle Cry",
+            "level": "12"
+        },
+        {
+            "name": "Shield Rush",
+            "line": "Shield Bash",
+            "level": "13"
+        },
+        {
+            "name": "Hunker Down",
+            "line": "Hunker Down",
+            "level": "13"
+        },
+        {
+            "name": "Wound",
+            "line": "Sever",
+            "level": "14"
+        },
+        {
+            "name": "Strike",
+            "line": "Overpower",
+            "level": "15"
+        },
+        {
+            "name": "Hold the Fort",
+            "line": "Hold the Line",
+            "level": "15"
+        },
+        {
+            "name": "Brace",
+            "line": "Armored",
+            "level": "16"
+        },
+        {
+            "name": "Anger",
+            "line": "Provoke",
+            "level": "17"
+        },
+        {
+            "name": "Concussion",
+            "line": "Concussion",
+            "level": "17"
+        },
+        {
+            "name": "Stand Firm",
+            "line": "Never Surrender",
+            "level": "18"
+        },
+        {
+            "name": "Knee Bash",
+            "line": "Gut Kick",
+            "level": "19"
+        },
+        {
+            "name": "Battle Tactics",
+            "line": "Battle Tactics",
+            "level": "19"
+        },
+        {
+            "name": "Intercept",
+            "line": "Intercept",
+            "level": "20"
+        },
+        {
+            "name": "Sentinel",
+            "line": "Sentinel",
+            "level": "20"
+        },
+        {
+            "name": "Bury",
+            "line": "Assault",
+            "level": "21"
+        },
+        {
+            "name": "Allay",
+            "line": "Moderate",
+            "level": "21"
+        },
+        {
+            "name": "Desperate Offense",
+            "line": "Forward Charge",
+            "level": "22"
+        },
+        {
+            "name": "Shouting Cry",
+            "line": "Shout",
+            "level": "22"
+        },
+        {
+            "name": "Slam",
+            "line": "Slam",
+            "level": "22"
+        },
+        {
+            "name": "Guardian's Call",
+            "line": "Call to Arms",
+            "level": "23"
+        },
+        {
+            "name": "Taunting Challenge",
+            "line": "Taunting Blow",
+            "level": "24"
+        },
+        {
+            "name": "Call of Command",
+            "line": "Call of Shielding",
+            "level": "24"
+        },
+        {
+            "name": "Ruin",
+            "line": "Ruin",
+            "level": "25"
+        },
+        {
+            "name": "Resuce",
+            "line": "Resuce",
+            "level": "25"
+        },
+        {
+            "name": "Battle Cry",
+            "line": "Battle Cry",
+            "level": "26"
+        },
+        {
+            "name": "True Strike",
+            "line": "Precise Strike",
+            "level": "26"
+        },
+        {
+            "name": "Bull Rush",
+            "line": "Shield Bash",
+            "level": "27"
+        },
+        {
+            "name": "Wall of Flesh",
+            "line": "Hunker Down",
+            "level": "27"
+        },
+        {
+            "name": "Maim",
+            "line": "Sever",
+            "level": "28"
+        },
+        {
+            "name": "Iron Will",
+            "line": "Iron Will",
+            "level": "28"
+        },
+        {
+            "name": "Shatter",
+            "line": "Overpower",
+            "level": "29"
+        },
+        {
+            "name": "Goading Defense",
+            "line": "Hold the Line",
+            "level": "29"
+        },
+        {
+            "name": "Dig In",
+            "line": "Armored",
+            "level": "30"
+        },
+        {
+            "name": "Desperate Flurry",
+            "line": "Forward Charge",
+            "level": "30"
+        },
+        {
+            "name": "Suppress",
+            "line": "Provoke",
+            "level": "31"
+        },
+        {
+            "name": "Batter",
+            "line": "Concussion",
+            "level": "31"
+        },
+        {
+            "name": "Never Surrender",
+            "line": "Never Surrender",
+            "level": "32"
+        },
+        {
+            "name": "Entrench",
+            "line": "Plant",
+            "level": "32"
+        },
+        {
+            "name": "Invade",
+            "line": "Gut Kick",
+            "level": "33"
+        },
+        {
+            "name": "Do or Die",
+            "line": "Battle Tactics",
+            "level": "33"
+        },
+        {
+            "name": "Intercede",
+            "line": "Intercept",
+            "level": "34"
+        },
+        {
+            "name": "Safeguard",
+            "line": "Sentinel",
+            "level": "34"
+        },
+        {
+            "name": "Topple",
+            "line": "Assault",
+            "level": "35"
+        },
+        {
+            "name": "Pacify",
+            "line": "Moderate",
+            "level": "35"
+        },
+        {
+            "name": "Unyielding Will",
+            "line": "Unyielding Will",
+            "level": "35"
+        },
+        {
+            "name": "Smothering Cry",
+            "line": "Shout",
+            "level": "36"
+        },
+        {
+            "name": "Crush",
+            "line": "Slam",
+            "level": "36"
+        },
+        {
+            "name": "Call to Battle",
+            "line": "Call to Arms",
+            "level": "37"
+        },
+        {
+            "name": "Vengeful Strike",
+            "line": "Taunting Blow",
+            "level": "38"
+        },
+        {
+            "name": "Call of Protection",
+            "line": "Call of Shielding",
+            "level": "38"
+        },
+        {
+            "name": "Ferocious Charge",
+            "line": "Ruin",
+            "level": "39"
+        },
+        {
+            "name": "Commanding Presence",
+            "line": "Battle Cry",
+            "level": "40"
+        },
+        {
+            "name": "Unerring Strike",
+            "line": "Precise Strike",
+            "level": "40"
+        },
+        {
+            "name": "Retaliate",
+            "line": "Retaliate",
+            "level": "40"
+        },
+        {
+            "name": "Staggering Slam",
+            "line": "Shield Bash",
+            "level": "41"
+        },
+        {
+            "name": "Wall of Brawn",
+            "line": "Hunker Down",
+            "level": "41"
+        },
+        {
+            "name": "Cleave",
+            "line": "Sever",
+            "level": "42"
+        },
+        {
+            "name": "Iron Conviction",
+            "line": "Iron Will",
+            "level": "42"
+        },
+        {
+            "name": "Overwhelm",
+            "line": "Overpower",
+            "level": "43"
+        },
+        {
+            "name": "Maddening Defense",
+            "line": "Hold the Line",
+            "level": "43"
+        },
+        {
+            "name": "Fortified Stance",
+            "line": "Armored",
+            "level": "44"
+        },
+        {
+            "name": "Desperate Rush",
+            "line": "Forward Charge",
+            "level": "44"
+        },
+        {
+            "name": "Taunting Assault",
+            "line": "Taunting Assault",
+            "level": "44"
+        },
+        {
+            "name": "Deafen",
+            "line": "Provoke",
+            "level": "45"
+        },
+        {
+            "name": "Vindication",
+            "line": "Concussion",
+            "level": "45"
+        },
+        {
+            "name": "Vigilance",
+            "line": "Never Surrender",
+            "level": "46"
+        },
+        {
+            "name": "Anchor",
+            "line": "Plant",
+            "level": "46"
+        },
+        {
+            "name": "Swamp",
+            "line": "Gut Kick",
+            "level": "47"
+        },
+        {
+            "name": "Return to Battle",
+            "line": "Battle Tactics",
+            "level": "47"
+        },
+        {
+            "name": "Sentry",
+            "line": "Sentinel",
+            "level": "48"
+        },
+        {
+            "name": "Tremor",
+            "line": "Assault",
+            "level": "49"
+        },
+        {
+            "name": "Assuage",
+            "line": "Moderate",
+            "level": "49"
+        },
+        {
+            "name": "Protect",
+            "line": "Shout",
+            "level": "50"
+        },
+        {
+            "name": "Blast",
+            "line": "Slam",
+            "level": "50"
+        },
+        {
+            "name": "Guardian Sphere",
+            "line": "Guardian Sphere",
+            "level": "50"
+        },
+        {
+            "name": "Call to War",
+            "line": "Call to Arms",
+            "level": "51"
+        },
+        {
+            "name": "Unforgiving Strike",
+            "line": "Taunting Blow",
+            "level": "52"
+        },
+        {
+            "name": "Call of Defense",
+            "line": "Call of Shielding",
+            "level": "52"
+        },
+        {
+            "name": "Reinforcement",
+            "line": "Reinforcement",
+            "level": "52"
+        },
+        {
+            "name": "Relentless Charge",
+            "line": "Ruin",
+            "level": "53"
+        },
+        {
+            "name": "Commanding Aura",
+            "line": "Battle Cry",
+            "level": "54"
+        },
+        {
+            "name": "Perfect Strike",
+            "line": "Precise Strike",
+            "level": "54"
+        },
+        {
+            "name": "Quelling Blow",
+            "line": "Retaliate",
+            "level": "54"
+        },
+        {
+            "name": "Staggering Rush",
+            "line": "Shield Bash",
+            "level": "55"
+        },
+        {
+            "name": "Wall of Might",
+            "line": "Hunker Down",
+            "level": "55"
+        },
+        {
+            "name": "Sentry Watch",
+            "line": "Sentry Watch",
+            "level": "55"
+        },
+        {
+            "name": "Hew",
+            "line": "Sever",
+            "level": "56"
+        },
+        {
+            "name": "Steely Conviction",
+            "line": "Iron Will",
+            "level": "56"
+        },
+        {
+            "name": "Overpower",
+            "line": "Overpower",
+            "level": "57"
+        },
+        {
+            "name": "Inflaming Defense",
+            "line": "Hold the Line",
+            "level": "57"
+        },
+        {
+            "name": "Steadfast Stance",
+            "line": "Armored",
+            "level": "58"
+        },
+        {
+            "name": "Desperate Charge",
+            "line": "Forward Charge",
+            "level": "58"
+        },
+        {
+            "name": "Goading Assault",
+            "line": "Taunting Assault",
+            "level": "58"
+        },
+        {
+            "name": "Tower of Stone",
+            "line": "Tower of Stone",
+            "level": "58"
+        },
+        {
+            "name": "Confront",
+            "line": "Provoke",
+            "level": "59"
+        },
+        {
+            "name": "Buffet",
+            "line": "Concussion",
+            "level": "59"
+        },
+        {
+            "name": "Unyielding Vigilance",
+            "line": "Never Surrender",
+            "level": "60"
+        },
+        {
+            "name": "Plant",
+            "line": "Plant",
+            "level": "60"
+        },
+        {
+            "name": "Compression",
+            "line": "Gut Kick",
+            "level": "61"
+        },
+        {
+            "name": "Return to War",
+            "line": "Battle Tactics",
+            "level": "61"
+        },
+        {
+            "name": "Sustain",
+            "line": "Sentinel",
+            "level": "62"
+        },
+        {
+            "name": "Besiege",
+            "line": "Assault",
+            "level": "63"
+        },
+        {
+            "name": "Moderate",
+            "line": "Moderate",
+            "level": "63"
+        },
+        {
+            "name": "Protection",
+            "line": "Shout",
+            "level": "64"
+        },
+        {
+            "name": "Flay",
+            "line": "Slam",
+            "level": "64"
+        },
+        {
+            "name": "Call to Siege",
+            "line": "Call to Arms",
+            "level": "65"
+        },
+        {
+            "name": "Obliterate",
+            "line": "Decimate",
+            "level": "65"
+        },
+        {
+            "name": "Vindictive Strike",
+            "line": "Taunting Blow",
+            "level": "66"
+        },
+        {
+            "name": "Call of Armament",
+            "line": "Call of Shielding",
+            "level": "66"
+        },
+        {
+            "name": "Merciless Charge",
+            "line": "Ruin",
+            "level": "67"
+        },
+        {
+            "name": "Command",
+            "line": "Battle Cry",
+            "level": "68"
+        },
+        {
+            "name": "Precise Strike",
+            "line": "Precise Strike",
+            "level": "68"
+        },
+        {
+            "name": "Retaliation Strike",
+            "line": "Retaliate",
+            "level": "68"
+        },
+        {
+            "name": "Staggering Blow",
+            "line": "Shield Bash",
+            "level": "69"
+        },
+        {
+            "name": "Wall of Force",
+            "line": "Hunker Down",
+            "level": "69"
+        },
+        {
+            "name": "Sever",
+            "line": "Sever",
+            "level": "70"
+        },
+        {
+            "name": "Fortified Conviction",
+            "line": "Iron Will",
+            "level": "70"
+        },
+        {
+            "name": "Stone Sphere",
+            "line": "Guardian Sphere",
+            "level": "70"
+        },
+        {
+            "name": "Overmatch",
+            "line": "Overpower",
+            "level": "71"
+        },
+        {
+            "name": "Hold the Aggression",
+            "line": "Hold the Line",
+            "level": "71"
+        },
+        {
+            "name": "Slanderous Assault",
+            "line": "Taunting Assault",
+            "level": "71"
+        },
+        {
+            "name": "Impede",
+            "line": "Provoke",
+            "level": "72"
+        },
+        {
+            "name": "Armored Stance",
+            "line": "Armored",
+            "level": "72"
+        },
+        {
+            "name": "Forward Charge",
+            "line": "Forward Charge",
+            "level": "72"
+        },
+        {
+            "name": "Head Trauma",
+            "line": "Concussion",
+            "level": "73"
+        },
+        {
+            "name": "Return to Combat",
+            "line": "Battle Tactics",
+            "level": "73"
+        },
+        {
+            "name": "Immobility",
+            "line": "Plant",
+            "level": "73"
+        },
+        {
+            "name": "Gut Kick",
+            "line": "Gut Kick",
+            "level": "74"
+        },
+        {
+            "name": "Seige",
+            "line": "Assault",
+            "level": "75"
+        },
+        {
+            "name": "Guard",
+            "line": "Shout",
+            "level": "76"
+        },
+        {
+            "name": "Call to Warfare",
+            "line": "Call to Arms",
+            "level": "76"
+        },
+        {
+            "name": "Mar",
+            "line": "Slam",
+            "level": "76"
+        },
+        {
+            "name": "Infraction",
+            "line": "Taunting Blow",
+            "level": "77"
+        },
+        {
+            "name": "Trespass",
+            "line": "Ruin",
+            "level": "77"
+        },
+        {
+            "name": "Call of Shielding",
+            "line": "Call of Shielding",
+            "level": "77"
+        },
+        {
+            "name": "Exact Strike",
+            "line": "Precise Strike",
+            "level": "78"
+        },
+        {
+            "name": "Retaliatory Strike",
+            "line": "Retaliate",
+            "level": "78"
+        },
+        {
+            "name": "Decimate",
+            "line": "Decimate",
+            "level": "78"
+        },
+        {
+            "name": "Staggering Charge",
+            "line": "Shield Bash",
+            "level": "79"
+        },
+        {
+            "name": "Fortify",
+            "line": "Battle Cry",
+            "level": "79"
+        },
+        {
+            "name": "Wall of Armor",
+            "line": "Hunker Down",
+            "level": "79"
+        },
+        {
+            "name": "Separate",
+            "line": "Sever",
+            "level": "80"
+        },
+        {
+            "name": "Fortification",
+            "line": "Iron Will",
+            "level": "80"
+        },
+        {
+            "name": "Sentinel Sphere",
+            "line": "Guardian Sphere",
+            "level": "80"
+        },
+        {
+            "name": "Recapture",
+            "line": "Recapture",
+            "level": "80"
+        }
+    ]
+}

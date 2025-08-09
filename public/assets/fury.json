@@ -1,0 +1,825 @@
+{
+    "class": "Fury",
+    "spells": [
+        {
+            "name": "Minor Salve",
+            "line": "Nature's Salve",
+            "level": "1"
+        },
+        {
+            "name": "Stinging Insects",
+            "line": "Death Swarm",
+            "level": "1"
+        },
+        {
+            "name": "Bristles",
+            "line": "Thornskin",
+            "level": "2"
+        },
+        {
+            "name": "Minor Elixir",
+            "line": "Nature's Elixir",
+            "level": "3"
+        },
+        {
+            "name": "Squall",
+            "line": "Tempest",
+            "level": "3"
+        },
+        {
+            "name": "Minor Lucid",
+            "line": "Lucidity",
+            "level": "4"
+        },
+        {
+            "name": "Natural Mask",
+            "line": "Armor of Nature",
+            "level": "5"
+        },
+        {
+            "name": "Divine Providence",
+            "line": "Divine Providence",
+            "level": "5"
+        },
+        {
+            "name": "Summon Food and Water",
+            "line": "Summon Food and Water",
+            "level": "6"
+        },
+        {
+            "name": "Cure",
+            "line": "Cure",
+            "level": "6"
+        },
+        {
+            "name": "Salve",
+            "line": "Nature's Salve",
+            "level": "7"
+        },
+        {
+            "name": "Intimidation",
+            "line": "Intimidation",
+            "level": "7"
+        },
+        {
+            "name": "Root",
+            "line": "Karana's Hold",
+            "level": "7"
+        },
+        {
+            "name": "Revive",
+            "line": "Revive",
+            "level": "8"
+        },
+        {
+            "name": "Stinging Swarm",
+            "line": "Death Swarm",
+            "level": "9"
+        },
+        {
+            "name": "Enduring Breath",
+            "line": "Enduring Breath",
+            "level": "9"
+        },
+        {
+            "name": "Bristleskin",
+            "line": "Thornskin",
+            "level": "10"
+        },
+        {
+            "name": "Elixir",
+            "line": "Nature's Elixir",
+            "level": "10"
+        },
+        {
+            "name": "Snare",
+            "line": "Snare",
+            "level": "10"
+        },
+        {
+            "name": "Twirl",
+            "line": "Tempest",
+            "level": "11"
+        },
+        {
+            "name": "Favor of the Phoenix",
+            "line": "Favor of the Phoenix",
+            "level": "11"
+        },
+        {
+            "name": "Regrowth",
+            "line": "Regrowth",
+            "level": "12"
+        },
+        {
+            "name": "Spirit of the Wolf",
+            "line": "Spirit of the Wolf",
+            "level": "13"
+        },
+        {
+            "name": "Brambles",
+            "line": "Brambles",
+            "level": "13"
+        },
+        {
+            "name": "Winds of Renewal",
+            "line": "Autumn's Kiss",
+            "level": "14"
+        },
+        {
+            "name": "Recovery of the Untamed",
+            "line": "Untamed Regeneration",
+            "level": "14"
+        },
+        {
+            "name": "Greater Salve",
+            "line": "Nature's Salve",
+            "level": "15"
+        },
+        {
+            "name": "Sylvan Touch",
+            "line": "Sylvan Touch",
+            "level": "15"
+        },
+        {
+            "name": "Lucid",
+            "line": "Lucidity",
+            "level": "16"
+        },
+        {
+            "name": "Pride of the Hunt",
+            "line": "Master of the Hunt",
+            "level": "16"
+        },
+        {
+            "name": "Provoking Swarm",
+            "line": "Death Swarm",
+            "level": "17"
+        },
+        {
+            "name": "Greater Elixir",
+            "line": "Nature's Elixir",
+            "level": "18"
+        },
+        {
+            "name": "Wild Spirit",
+            "line": "Forest Spirit",
+            "level": "18"
+        },
+        {
+            "name": "Feral Mask",
+            "line": "Armor of Nature",
+            "level": "19"
+        },
+        {
+            "name": "Greater Regrowth",
+            "line": "Regrowth",
+            "level": "19"
+        },
+        {
+            "name": "Peerless Predator",
+            "line": "Peerless Predator",
+            "level": "20"
+        },
+        {
+            "name": "Feral Intimidation",
+            "line": "Intimidation",
+            "level": "21"
+        },
+        {
+            "name": "Earthen Roots",
+            "line": "Karana's Hold",
+            "level": "21"
+        },
+        {
+            "name": "Natures Salve",
+            "line": "Nature's Salve",
+            "level": "22"
+        },
+        {
+            "name": "Fierce Rousing",
+            "line": "Fierce Rousing",
+            "level": "22"
+        },
+        {
+            "name": "Ferocity of the Eel",
+            "line": "Ferocity of the Eel",
+            "level": "23"
+        },
+        {
+            "name": "Strike of Thunder",
+            "line": "Thunderbolt",
+            "level": "23"
+        },
+        {
+            "name": "Bristlepelt",
+            "line": "Thornskin",
+            "level": "24"
+        },
+        {
+            "name": "Cyclone",
+            "line": "Tempest",
+            "level": "25"
+        },
+        {
+            "name": "Fleshweave",
+            "line": "Regrowth",
+            "level": "26"
+        },
+        {
+            "name": "Savagery",
+            "line": "Primal Fury",
+            "level": "26"
+        },
+        {
+            "name": "Confounding Brambles",
+            "line": "Brambles",
+            "level": "27"
+        },
+        {
+            "name": "Ram's Growth",
+            "line": "Autumn's Kiss",
+            "level": "28"
+        },
+        {
+            "name": "Breath of the Untamed",
+            "line": "Untamed Regeneration",
+            "level": "28"
+        },
+        {
+            "name": "Predatory Salve",
+            "line": "Nature's Salve",
+            "level": "29"
+        },
+        {
+            "name": "Vicious Feast",
+            "line": "Feast",
+            "level": "29"
+        },
+        {
+            "name": "Verve",
+            "line": "Lucidity",
+            "level": "30"
+        },
+        {
+            "name": "Mark of the Hunt",
+            "line": "Master of the Hunt",
+            "level": "30"
+        },
+        {
+            "name": "Deadly Swarm",
+            "line": "Death Swarm",
+            "level": "31"
+        },
+        {
+            "name": "Wildling Elixir",
+            "line": "Nature's Elixir",
+            "level": "32"
+        },
+        {
+            "name": "Untamed Spirit",
+            "line": "Forest Spirit",
+            "level": "32"
+        },
+        {
+            "name": "Starburst",
+            "line": "Starnova",
+            "level": "32"
+        },
+        {
+            "name": "Savage Mask",
+            "line": "Armor of Nature",
+            "level": "33"
+        },
+        {
+            "name": "Transcendent Predator",
+            "line": "Peerless Predator",
+            "level": "34"
+        },
+        {
+            "name": "Brutal Intimidation",
+            "line": "Intimidation",
+            "level": "35"
+        },
+        {
+            "name": "Entrapping Roots",
+            "line": "Karana's Hold",
+            "level": "35"
+        },
+        {
+            "name": "Spirit of the Bat",
+            "line": "Spirit of the Bat",
+            "level": "35"
+        },
+        {
+            "name": "Fae Fire",
+            "line": "Fae Fire",
+            "level": "35"
+        },
+        {
+            "name": "Call of the Hunt",
+            "line": "Call of the Hunt",
+            "level": "36"
+        },
+        {
+            "name": "Strike of Storms",
+            "line": "Thunderbolt",
+            "level": "37"
+        },
+        {
+            "name": "Barbed Skin",
+            "line": "Thornskin",
+            "level": "38"
+        },
+        {
+            "name": "Whirlwind",
+            "line": "Tempest",
+            "level": "39"
+        },
+        {
+            "name": "Pact of the Cheetah",
+            "line": "Pact of the Cheetah",
+            "level": "39"
+        },
+        {
+            "name": "Wild Bloodflow",
+            "line": "Regrowth",
+            "level": "40"
+        },
+        {
+            "name": "Bloodlust",
+            "line": "Primal Fury",
+            "level": "40"
+        },
+        {
+            "name": "Seizing Brambles",
+            "line": "Brambles",
+            "level": "41"
+        },
+        {
+            "name": "Feral Tenacity",
+            "line": "Feral Tenacity",
+            "level": "41"
+        },
+        {
+            "name": "Owl's Restoration",
+            "line": "Autumn's Kiss",
+            "level": "42"
+        },
+        {
+            "name": "Howl of the Untamed",
+            "line": "Untamed Regeneration",
+            "level": "42"
+        },
+        {
+            "name": "Quills",
+            "line": "Abolishment",
+            "level": "42"
+        },
+        {
+            "name": "Feral Salve",
+            "line": "Nature's Salve",
+            "level": "43"
+        },
+        {
+            "name": "Savage Feast",
+            "line": "Feast",
+            "level": "43"
+        },
+        {
+            "name": "Vim",
+            "line": "Lucidity",
+            "level": "44"
+        },
+        {
+            "name": "Ferocity of the Hunt",
+            "line": "Master of the Hunt",
+            "level": "44"
+        },
+        {
+            "name": "Dooming Swarm",
+            "line": "Death Swarm",
+            "level": "45"
+        },
+        {
+            "name": "Untamed Shroud",
+            "line": "Untamed Shroud",
+            "level": "45"
+        },
+        {
+            "name": "Ferine Elixir",
+            "line": "Nature's Elixir",
+            "level": "46"
+        },
+        {
+            "name": "Ferine Spirit",
+            "line": "Forest Spirit",
+            "level": "46"
+        },
+        {
+            "name": "Starfire",
+            "line": "Starnova",
+            "level": "46"
+        },
+        {
+            "name": "Ferine Mask",
+            "line": "Armor of Nature",
+            "level": "47"
+        },
+        {
+            "name": "Swarms",
+            "line": "Maddening Swarm",
+            "level": "47"
+        },
+        {
+            "name": "Incomparable Predator",
+            "line": "Peerless Predator",
+            "level": "48"
+        },
+        {
+            "name": "Feral Pulse",
+            "line": "Feral Pulse",
+            "level": "48"
+        },
+        {
+            "name": "Beastly Intimidation",
+            "line": "Intimidation",
+            "level": "49"
+        },
+        {
+            "name": "Engulfing Roots",
+            "line": "Karana's Hold",
+            "level": "49"
+        },
+        {
+            "name": "Fae Flames",
+            "line": "Fae Fire",
+            "level": "49"
+        },
+        {
+            "name": "Primeval Awakening",
+            "line": "Primeval Awakening",
+            "level": "50"
+        },
+        {
+            "name": "Porcupine",
+            "line": "Porcupine",
+            "level": "50"
+        },
+        {
+            "name": "Bolt of Storms",
+            "line": "Thunderbolt",
+            "level": "51"
+        },
+        {
+            "name": "Thornskin",
+            "line": "Thornskin",
+            "level": "52"
+        },
+        {
+            "name": "Back into the Fray",
+            "line": "Back into the Fray",
+            "level": "52"
+        },
+        {
+            "name": "Waterspout",
+            "line": "Tempest",
+            "level": "53"
+        },
+        {
+            "name": "Senses of the Bat",
+            "line": "Spirit of the Bat",
+            "level": "53"
+        },
+        {
+            "name": "Untamed Bloodflow",
+            "line": "Regrowth",
+            "level": "54"
+        },
+        {
+            "name": "Primal Fury",
+            "line": "Primal Fury",
+            "level": "54"
+        },
+        {
+            "name": "Seizing Thorns",
+            "line": "Brambles",
+            "level": "55"
+        },
+        {
+            "name": "Feral Vehemence",
+            "line": "Feral Tenacity",
+            "level": "55"
+        },
+        {
+            "name": "Ring of Fire",
+            "line": "Ring of Fire",
+            "level": "55"
+        },
+        {
+            "name": "Owl's Grace",
+            "line": "Autumn's Kiss",
+            "level": "56"
+        },
+        {
+            "name": "Cry of the Untamed",
+            "line": "Untamed Regeneration",
+            "level": "56"
+        },
+        {
+            "name": "Lethal Quills",
+            "line": "Abolishment",
+            "level": "56"
+        },
+        {
+            "name": "Wild Salve",
+            "line": "Nature's Salve",
+            "level": "57"
+        },
+        {
+            "name": "Bestial Feast",
+            "line": "Feast",
+            "level": "57"
+        },
+        {
+            "name": "Ferine Vim",
+            "line": "Lucidity",
+            "level": "58"
+        },
+        {
+            "name": "Spirit of the Hunt",
+            "line": "Master of the Hunt",
+            "level": "58"
+        },
+        {
+            "name": "Hibernation",
+            "line": "Hibernation",
+            "level": "58"
+        },
+        {
+            "name": "Killing Swarm",
+            "line": "Death Swarm",
+            "level": "59"
+        },
+        {
+            "name": "Natures Elixir",
+            "line": "Nature's Elixir",
+            "level": "60"
+        },
+        {
+            "name": "Primal Spirit",
+            "line": "Forest Spirit",
+            "level": "60"
+        },
+        {
+            "name": "Starnova",
+            "line": "Starnova",
+            "level": "60"
+        },
+        {
+            "name": "Carnal Mask",
+            "line": "Armor of Nature",
+            "level": "61"
+        },
+        {
+            "name": "Maddening Swarm",
+            "line": "Maddening Swarm",
+            "level": "61"
+        },
+        {
+            "name": "Seasoned Predator",
+            "line": "Peerless Predator",
+            "level": "62"
+        },
+        {
+            "name": "Fae Pyre",
+            "line": "Fae Fire",
+            "level": "63"
+        },
+        {
+            "name": "Barbarous Intimidation",
+            "line": "Intimidation",
+            "level": "64"
+        },
+        {
+            "name": "Elddars Grasp",
+            "line": "Karana's Hold",
+            "level": "64"
+        },
+        {
+            "name": "Thunderbolt",
+            "line": "Thunderbolt",
+            "level": "65"
+        },
+        {
+            "name": "Call of Storms",
+            "line": "Call of Storms",
+            "level": "65"
+        },
+        {
+            "name": "Spineskin",
+            "line": "Thornskin",
+            "level": "66"
+        },
+        {
+            "name": "Tempest",
+            "line": "Tempest",
+            "level": "67"
+        },
+        {
+            "name": "Greater Bloodflow",
+            "line": "Regrowth",
+            "level": "68"
+        },
+        {
+            "name": "Agitate",
+            "line": "Primal Fury",
+            "level": "68"
+        },
+        {
+            "name": "Grasping Thorns",
+            "line": "Brambles",
+            "level": "69"
+        },
+        {
+            "name": "Feral Potence",
+            "line": "Feral Tenacity",
+            "level": "69"
+        },
+        {
+            "name": "Owl's Reparation",
+            "line": "Autumn's Kiss",
+            "level": "70"
+        },
+        {
+            "name": "Shriek of the Untamed",
+            "line": "Untamed Regeneration",
+            "level": "70"
+        },
+        {
+            "name": "Abolishment",
+            "line": "Abolishment",
+            "level": "70"
+        },
+        {
+            "name": "Urchin",
+            "line": "Porcupine",
+            "level": "70"
+        },
+        {
+            "name": "Dire Salve",
+            "line": "Nature's Salve",
+            "level": "71"
+        },
+        {
+            "name": "Feast",
+            "line": "Feast",
+            "level": "71"
+        },
+        {
+            "name": "Aspect of the Bat",
+            "line": "Spirit of the Bat",
+            "level": "71"
+        },
+        {
+            "name": "Death Swarm",
+            "line": "Death Swarm",
+            "level": "72"
+        },
+        {
+            "name": "Lucidity",
+            "line": "Lucidity",
+            "level": "72"
+        },
+        {
+            "name": "Master of the Hunt",
+            "line": "Master of the Hunt",
+            "level": "72"
+        },
+        {
+            "name": "Return to the Pack",
+            "line": "Back into the Fray",
+            "level": "72"
+        },
+        {
+            "name": "Grand Elixir",
+            "line": "Nature's Elixir",
+            "level": "73"
+        },
+        {
+            "name": "Forest Spirit",
+            "line": "Forest Spirit",
+            "level": "73"
+        },
+        {
+            "name": "Armor Of Nature",
+            "line": "Armor of Nature",
+            "level": "74"
+        },
+        {
+            "name": "Starshower",
+            "line": "Starnova",
+            "level": "74"
+        },
+        {
+            "name": "Wildfire",
+            "line": "Ring of Fire",
+            "level": "74"
+        },
+        {
+            "name": "Fae Immolation",
+            "line": "Fae Fire",
+            "level": "75"
+        },
+        {
+            "name": "Distracting Swarm",
+            "line": "Maddening Swarm",
+            "level": "75"
+        },
+        {
+            "name": "Inferiority",
+            "line": "Intimidation",
+            "level": "76"
+        },
+        {
+            "name": "Karanas Hold",
+            "line": "Karana's Hold",
+            "level": "76"
+        },
+        {
+            "name": "Veteran Predator",
+            "line": "Peerless Predator",
+            "level": "76"
+        },
+        {
+            "name": "Hibernate",
+            "line": "Hibernation",
+            "level": "76"
+        },
+        {
+            "name": "Quillskin",
+            "line": "Thornskin",
+            "level": "77"
+        },
+        {
+            "name": "Lightning Bolt",
+            "line": "Thunderbolt",
+            "level": "77"
+        },
+        {
+            "name": "Typhoon",
+            "line": "Tempest",
+            "level": "78"
+        },
+        {
+            "name": "Dire Bloodflow",
+            "line": "Regrowth",
+            "level": "78"
+        },
+        {
+            "name": "Call of Karana",
+            "line": "Call of Storms",
+            "level": "78"
+        },
+        {
+            "name": "Incapacitating Thorns",
+            "line": "Brambles",
+            "level": "79"
+        },
+        {
+            "name": "Autumn's Kiss",
+            "line": "Autumn's Kiss",
+            "level": "79"
+        },
+        {
+            "name": "Feral",
+            "line": "Primal Fury",
+            "level": "79"
+        },
+        {
+            "name": "Untamed Regeneration",
+            "line": "Untamed Regeneration",
+            "level": "80"
+        },
+        {
+            "name": "Feral Courage",
+            "line": "Feral Tenacity",
+            "level": "80"
+        },
+        {
+            "name": "Hedgehog",
+            "line": "Porcupine",
+            "level": "80"
+        },
+        {
+            "name": "Ball Lightning",
+            "line": "Ball Lightning",
+            "level": "80"
+        },
+        {
+            "name": "Cure Curse",
+            "line": "Cure Curse",
+            "level": "80"
+        }
+    ]
+}

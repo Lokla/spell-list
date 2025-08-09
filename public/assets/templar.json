@@ -1,0 +1,800 @@
+{
+    "class": "Templar",
+    "spells": [
+        {
+            "name": "Minor Healing",
+            "line": "Meliorate",
+            "level": "1"
+        },
+        {
+            "name": "Smite",
+            "line": "Divine Smite",
+            "level": "1"
+        },
+        {
+            "name": "Rebuke",
+            "line": "Rebuke",
+            "level": "2"
+        },
+        {
+            "name": "Light Strike",
+            "line": "Divine Strike",
+            "level": "3"
+        },
+        {
+            "name": "Minor Arch Healing",
+            "line": "Restoration",
+            "level": "3"
+        },
+        {
+            "name": "Minor Redoubt",
+            "line": "Aegolism",
+            "level": "4"
+        },
+        {
+            "name": "Divine Providence",
+            "line": "Divine Providence",
+            "level": "5"
+        },
+        {
+            "name": "Courage",
+            "line": "Holy Armor",
+            "level": "5"
+        },
+        {
+            "name": "Summon Food and Water",
+            "line": "Summon Food and Water",
+            "level": "6"
+        },
+        {
+            "name": "Cure",
+            "line": "Cure",
+            "level": "6"
+        },
+        {
+            "name": "Healing",
+            "line": "Meliorate",
+            "level": "7"
+        },
+        {
+            "name": "Sign of Pacification",
+            "line": "Sign of Pacification",
+            "level": "7"
+        },
+        {
+            "name": "Revive",
+            "line": "Revive",
+            "level": "8"
+        },
+        {
+            "name": "Admonishing Smite",
+            "line": "Divine Smite",
+            "level": "9"
+        },
+        {
+            "name": "Enduring Breath",
+            "line": "Enduring Breath",
+            "level": "9"
+        },
+        {
+            "name": "Scorn",
+            "line": "Rebuke",
+            "level": "10"
+        },
+        {
+            "name": "Arch Healing",
+            "line": "Restoration",
+            "level": "10"
+        },
+        {
+            "name": "Soothe",
+            "line": "Soothe",
+            "level": "10"
+        },
+        {
+            "name": "Radiant Strike",
+            "line": "Divine Strike",
+            "level": "11"
+        },
+        {
+            "name": "Divine Awakening",
+            "line": "Divine Awakening",
+            "level": "11"
+        },
+        {
+            "name": "Bestowal of Vitae",
+            "line": "Vital Intercession",
+            "level": "12"
+        },
+        {
+            "name": "Odyssey",
+            "line": "Odyssey",
+            "level": "13"
+        },
+        {
+            "name": "Complacent",
+            "line": "Harmony",
+            "level": "13"
+        },
+        {
+            "name": "Healing Word",
+            "line": "Word of Redemption",
+            "level": "14"
+        },
+        {
+            "name": "Soohing Sermon",
+            "line": "Holy Intercession",
+            "level": "14"
+        },
+        {
+            "name": "Greater Healing",
+            "line": "Meliorate",
+            "level": "15"
+        },
+        {
+            "name": "Radiance",
+            "line": "Radiance",
+            "level": "15"
+        },
+        {
+            "name": "Redoubt",
+            "line": "Aegolism",
+            "level": "16"
+        },
+        {
+            "name": "Symbol of Transal",
+            "line": "Symbol of Marzin",
+            "level": "16"
+        },
+        {
+            "name": "Greater Smite",
+            "line": "Divine Smite",
+            "level": "17"
+        },
+        {
+            "name": "Greater Arch Healing",
+            "line": "Restoration",
+            "level": "18"
+        },
+        {
+            "name": "Mark of Pawns",
+            "line": "Mark of Divinity",
+            "level": "18"
+        },
+        {
+            "name": "Daring",
+            "line": "Holy Armor",
+            "level": "19"
+        },
+        {
+            "name": "Bestowal of Vitality",
+            "line": "Vital Intercession",
+            "level": "19"
+        },
+        {
+            "name": "Amending Fate",
+            "line": "Healing Fate",
+            "level": "20"
+        },
+        {
+            "name": "Sign of Weakness",
+            "line": "Sign of Pacification",
+            "level": "21"
+        },
+        {
+            "name": "Ameliorate",
+            "line": "Meliorate",
+            "level": "22"
+        },
+        {
+            "name": "Battle's Reprieve",
+            "line": "Battle's Reprieve",
+            "level": "22"
+        },
+        {
+            "name": "Watery Respite",
+            "line": "Watery Respite",
+            "level": "23"
+        },
+        {
+            "name": "Combative Faith",
+            "line": "Warring Deities",
+            "level": "23"
+        },
+        {
+            "name": "Disgrace",
+            "line": "Rebuke",
+            "level": "24"
+        },
+        {
+            "name": "Celestial Strike",
+            "line": "Divine Strike",
+            "level": "25"
+        },
+        {
+            "name": "Supplicant's Prayer",
+            "line": "Vital Intercession",
+            "level": "26"
+        },
+        {
+            "name": "Protectorate",
+            "line": "Virtue",
+            "level": "26"
+        },
+        {
+            "name": "Placate",
+            "line": "Harmony",
+            "level": "27"
+        },
+        {
+            "name": "Healing Touch",
+            "line": "Word of Redemption",
+            "level": "28"
+        },
+        {
+            "name": "Intercession",
+            "line": "Holy Intercession",
+            "level": "28"
+        },
+        {
+            "name": "Amelioration",
+            "line": "Meliorate",
+            "level": "29"
+        },
+        {
+            "name": "Protective Faith",
+            "line": "Shield of Faith",
+            "level": "29"
+        },
+        {
+            "name": "Pious Redoubt",
+            "line": "Aegolism",
+            "level": "30"
+        },
+        {
+            "name": "Symbol of Ryltan",
+            "line": "Symbol of Marzin",
+            "level": "30"
+        },
+        {
+            "name": "Reproving Smite",
+            "line": "Divine Smite",
+            "level": "31"
+        },
+        {
+            "name": "Restoration",
+            "line": "Restoration",
+            "level": "32"
+        },
+        {
+            "name": "Mark of Princes",
+            "line": "Mark of Divinity",
+            "level": "32"
+        },
+        {
+            "name": "Beams of Faith",
+            "line": "Blaze of Faith",
+            "level": "32"
+        },
+        {
+            "name": "Bravery",
+            "line": "Holy Armor",
+            "level": "33"
+        },
+        {
+            "name": "Redemptive Fate",
+            "line": "Healing Fate",
+            "level": "34"
+        },
+        {
+            "name": "Sign of Debility",
+            "line": "Sign of Pacification",
+            "level": "35"
+        },
+        {
+            "name": "Symbol of Corruption",
+            "line": "Smite Corruption",
+            "level": "35"
+        },
+        {
+            "name": "Involuntary Healer",
+            "line": "Involuntary Gift",
+            "level": "35"
+        },
+        {
+            "name": "Blazon Life",
+            "line": "Blazon Life",
+            "level": "36"
+        },
+        {
+            "name": "Warring Faith",
+            "line": "Warring Deities",
+            "level": "37"
+        },
+        {
+            "name": "Reproach",
+            "line": "Rebuke",
+            "level": "38"
+        },
+        {
+            "name": "Divine Strike",
+            "line": "Divine Strike",
+            "level": "38"
+        },
+        {
+            "name": "Prostrate",
+            "line": "Awestruck",
+            "level": "39"
+        },
+        {
+            "name": "Greater Intercession",
+            "line": "Vital Intercession",
+            "level": "40"
+        },
+        {
+            "name": "Praetorate",
+            "line": "Virtue",
+            "level": "40"
+        },
+        {
+            "name": "Harmony",
+            "line": "Harmony",
+            "level": "41"
+        },
+        {
+            "name": "Salvation",
+            "line": "Holy Salvation",
+            "level": "41"
+        },
+        {
+            "name": "Word Of Restoration",
+            "line": "Word of Redemption",
+            "level": "42"
+        },
+        {
+            "name": "Crucial Intercession",
+            "line": "Holy Intercession",
+            "level": "42"
+        },
+        {
+            "name": "Resolve",
+            "line": "Devoted Resolve",
+            "level": "42"
+        },
+        {
+            "name": "Greater Amelioration",
+            "line": "Meliorate",
+            "level": "43"
+        },
+        {
+            "name": "Shielding Faith",
+            "line": "Shield of Faith",
+            "level": "43"
+        },
+        {
+            "name": "Sacred Redoubt",
+            "line": "Aegolism",
+            "level": "44"
+        },
+        {
+            "name": "Symbol of Pinzarn",
+            "line": "Symbol of Marzin",
+            "level": "44"
+        },
+        {
+            "name": "Condemning Smite",
+            "line": "Divine Smite",
+            "level": "45"
+        },
+        {
+            "name": "Vigilant Benediction",
+            "line": "Unyielding Benediction",
+            "level": "45"
+        },
+        {
+            "name": "Greater Restoration",
+            "line": "Restoration",
+            "level": "46"
+        },
+        {
+            "name": "Mark of Kings",
+            "line": "Mark of Divinity",
+            "level": "46"
+        },
+        {
+            "name": "Rays of Faith",
+            "line": "Blaze of Faith",
+            "level": "46"
+        },
+        {
+            "name": "Valor",
+            "line": "Holy Armor",
+            "level": "47"
+        },
+        {
+            "name": "Glory of Combat",
+            "line": "Glory",
+            "level": "47"
+        },
+        {
+            "name": "Atoning Fate",
+            "line": "Healing Fate",
+            "level": "48"
+        },
+        {
+            "name": "Beneficence",
+            "line": "Beneficence",
+            "level": "48"
+        },
+        {
+            "name": "Sign of Infirmity",
+            "line": "Sign of Pacification",
+            "level": "49"
+        },
+        {
+            "name": "Involuntary Curate",
+            "line": "Involuntary Gift",
+            "level": "49"
+        },
+        {
+            "name": "Resurrect",
+            "line": "Resurrect",
+            "level": "50"
+        },
+        {
+            "name": "Benefaction",
+            "line": "Focused Intervention",
+            "level": "50"
+        },
+        {
+            "name": "Warring Conviction",
+            "line": "Warring Deities",
+            "level": "51"
+        },
+        {
+            "name": "Admonishment",
+            "line": "Rebuke",
+            "level": "52"
+        },
+        {
+            "name": "Reverence",
+            "line": "Reverence",
+            "level": "52"
+        },
+        {
+            "name": "Consecrated Strike",
+            "line": "Divine Strike",
+            "level": "53"
+        },
+        {
+            "name": "Punish Corruption",
+            "line": "Smite Corruption",
+            "level": "53"
+        },
+        {
+            "name": "Force Submission",
+            "line": "Awestruck",
+            "level": "53"
+        },
+        {
+            "name": "Grand Intercession",
+            "line": "Vital Intercession",
+            "level": "54"
+        },
+        {
+            "name": "Divine Praetorate",
+            "line": "Virtue",
+            "level": "54"
+        },
+        {
+            "name": "Greater Harmony",
+            "line": "Harmony",
+            "level": "55"
+        },
+        {
+            "name": "Faithful Salvation",
+            "line": "Holy Salvation",
+            "level": "55"
+        },
+        {
+            "name": "Sanctuary",
+            "line": "Sanctuary",
+            "level": "55"
+        },
+        {
+            "name": "Word Of Atonement",
+            "line": "Word of Redemption",
+            "level": "56"
+        },
+        {
+            "name": "Fateful Intercession",
+            "line": "Holy Intercession",
+            "level": "56"
+        },
+        {
+            "name": "Ardent Resolve",
+            "line": "Devoted Resolve",
+            "level": "56"
+        },
+        {
+            "name": "Grand Amelioration",
+            "line": "Meliorate",
+            "level": "57"
+        },
+        {
+            "name": "Aegis Of Faith",
+            "line": "Shield of Faith",
+            "level": "57"
+        },
+        {
+            "name": "Holy Redoubt",
+            "line": "Aegolism",
+            "level": "58"
+        },
+        {
+            "name": "Symbol of Naltron",
+            "line": "Symbol of Marzin",
+            "level": "58"
+        },
+        {
+            "name": "Divine Arbitration",
+            "line": "Divine Arbitration",
+            "level": "58"
+        },
+        {
+            "name": "Judging Smite",
+            "line": "Divine Smite",
+            "level": "59"
+        },
+        {
+            "name": "Unyielding Benediction",
+            "line": "Unyielding Benediction",
+            "level": "59"
+        },
+        {
+            "name": "Grand Restoration",
+            "line": "Restoration",
+            "level": "60"
+        },
+        {
+            "name": "Mark of the Celestial",
+            "line": "Mark of Divinity",
+            "level": "60"
+        },
+        {
+            "name": "Blaze of Faith",
+            "line": "Blaze of Faith",
+            "level": "60"
+        },
+        {
+            "name": "Gallantry",
+            "line": "Holy Armor",
+            "level": "61"
+        },
+        {
+            "name": "Glory of Battle",
+            "line": "Glory",
+            "level": "61"
+        },
+        {
+            "name": "Supplicating Fate",
+            "line": "Healing Fate",
+            "level": "62"
+        },
+        {
+            "name": "Involuntary Restoration",
+            "line": "Involuntary Gift",
+            "level": "63"
+        },
+        {
+            "name": "Sign of Fraility",
+            "line": "Sign of Pacification",
+            "level": "64"
+        },
+        {
+            "name": "Warring Axiom",
+            "line": "Warring Deities",
+            "level": "65"
+        },
+        {
+            "name": "Unswerving Hammer",
+            "line": "Unswerving Hammer",
+            "level": "65"
+        },
+        {
+            "name": "Spurn",
+            "line": "Rebuke",
+            "level": "66"
+        },
+        {
+            "name": "Holy Strike",
+            "line": "Divine Strike",
+            "level": "67"
+        },
+        {
+            "name": "Forced Humility",
+            "line": "Awestruck",
+            "level": "67"
+        },
+        {
+            "name": "Glorious Intercession",
+            "line": "Vital Intercession",
+            "level": "68"
+        },
+        {
+            "name": "Celestial Praetorate",
+            "line": "Virtue",
+            "level": "68"
+        },
+        {
+            "name": "Complacency",
+            "line": "Harmony",
+            "level": "69"
+        },
+        {
+            "name": "Forgiving Salvation",
+            "line": "Holy Salvation",
+            "level": "69"
+        },
+        {
+            "name": "Word Of Reparation",
+            "line": "Word of Redemption",
+            "level": "70"
+        },
+        {
+            "name": "Dire Intercession",
+            "line": "Holy Intercession",
+            "level": "70"
+        },
+        {
+            "name": "Devoted Resolve",
+            "line": "Devoted Resolve",
+            "level": "70"
+        },
+        {
+            "name": "Focused Intercession",
+            "line": "Focused Intervention",
+            "level": "70"
+        },
+        {
+            "name": "Meliorate",
+            "line": "Meliorate",
+            "level": "71"
+        },
+        {
+            "name": "Shield Of Faith",
+            "line": "Shield of Faith",
+            "level": "71"
+        },
+        {
+            "name": "Smite Corruption",
+            "line": "Smite Corruption",
+            "level": "71"
+        },
+        {
+            "name": "Divine Smite",
+            "line": "Divine Smite",
+            "level": "72"
+        },
+        {
+            "name": "Aegolism",
+            "line": "Aegolism",
+            "level": "72"
+        },
+        {
+            "name": "Symbol of Marzin",
+            "line": "Symbol of Marzin",
+            "level": "72"
+        },
+        {
+            "name": "Arch Restoration",
+            "line": "Restoration",
+            "level": "73"
+        },
+        {
+            "name": "Mark of Divinity",
+            "line": "Mark of Divinity",
+            "level": "73"
+        },
+        {
+            "name": "Holy Armor",
+            "line": "Holy Armor",
+            "level": "74"
+        },
+        {
+            "name": "Blazoned Faith",
+            "line": "Blaze of Faith",
+            "level": "74"
+        },
+        {
+            "name": "Involuntary Gift",
+            "line": "Involuntary Gift",
+            "level": "75"
+        },
+        {
+            "name": "Glory",
+            "line": "Glory",
+            "level": "75"
+        },
+        {
+            "name": "Sign of Placation",
+            "line": "Sign of Pacification",
+            "level": "76"
+        },
+        {
+            "name": "Healing Fate",
+            "line": "Healing Fate",
+            "level": "76"
+        },
+        {
+            "name": "Reproval",
+            "line": "Rebuke",
+            "level": "77"
+        },
+        {
+            "name": "Warring Deities",
+            "line": "Warring Deities",
+            "level": "77"
+        },
+        {
+            "name": "Awestruck",
+            "line": "Awestruck",
+            "level": "77"
+        },
+        {
+            "name": "Martyr Strike",
+            "line": "Divine Strike",
+            "level": "78"
+        },
+        {
+            "name": "Vital Intercession",
+            "line": "Vital Intercession",
+            "level": "78"
+        },
+        {
+            "name": "Unflinching Hammer",
+            "line": "Unswerving Hammer",
+            "level": "78"
+        },
+        {
+            "name": "Greater Complacency",
+            "line": "Harmony",
+            "level": "79"
+        },
+        {
+            "name": "Holy Intercession",
+            "line": "Holy Intercession",
+            "level": "79"
+        },
+        {
+            "name": "Virtue",
+            "line": "Virtue",
+            "level": "79"
+        },
+        {
+            "name": "Word Of Redemption",
+            "line": "Word of Redemption",
+            "level": "80"
+        },
+        {
+            "name": "Holy Salvation",
+            "line": "Holy Salvation",
+            "level": "80"
+        },
+        {
+            "name": "Focused Intervention",
+            "line": "Focused Intervention",
+            "level": "80"
+        },
+        {
+            "name": "Cure Curse",
+            "line": "Cure Curse",
+            "level": "80"
+        },
+        {
+            "name": "Repent",
+            "line": "Repent",
+            "level": "80"
+        }
+    ]
+}

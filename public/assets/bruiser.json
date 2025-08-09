@@ -1,0 +1,830 @@
+{
+    "class": "Bruiser",
+    "spells": [
+        {
+            "name": "Jab",
+            "line": "Pummel",
+            "level": "1"
+        },
+        {
+            "name": "Taunt",
+            "line": "Slurred Insult",
+            "level": "1"
+        },
+        {
+            "name": "Bruising Fist",
+            "line": "Meteor Fist",
+            "level": "2"
+        },
+        {
+            "name": "Ignore Bruises",
+            "line": "Ignore Pain",
+            "level": "3"
+        },
+        {
+            "name": "Brawler's Stance",
+            "line": "Bodyguard",
+            "level": "4"
+        },
+        {
+            "name": "Heated Fists",
+            "line": "Smoldering Fists",
+            "level": "4"
+        },
+        {
+            "name": "Kick",
+            "line": "Roundhouse",
+            "level": "5"
+        },
+        {
+            "name": "Fighting Chance",
+            "line": "Fighting Chance",
+            "level": "5"
+        },
+        {
+            "name": "Intervene",
+            "line": "Intercept",
+            "level": "6"
+        },
+        {
+            "name": "Blazing Strikes",
+            "line": "Beatdown",
+            "level": "7"
+        },
+        {
+            "name": "Impose",
+            "line": "Abuse",
+            "level": "8"
+        },
+        {
+            "name": "Brag",
+            "line": "Slurred Insult",
+            "level": "9"
+        },
+        {
+            "name": "Brutality",
+            "line": "Brutality",
+            "level": "9"
+        },
+        {
+            "name": "Ignore Wounds",
+            "line": "Ignore Pain",
+            "level": "10"
+        },
+        {
+            "name": "Stamp",
+            "line": "Merciless Stomp",
+            "level": "10"
+        },
+        {
+            "name": "Burn Through",
+            "line": "Blaze Kick",
+            "level": "11"
+        },
+        {
+            "name": "Dodge and Strike",
+            "line": "Bob and Weave",
+            "level": "12"
+        },
+        {
+            "name": "Indomitable Will",
+            "line": "Indomitable Will",
+            "level": "13"
+        },
+        {
+            "name": "Shoulder Charge",
+            "line": "Shoulder Charge",
+            "level": "13"
+        },
+        {
+            "name": "Feign Death",
+            "line": "Feign Death",
+            "level": "14"
+        },
+        {
+            "name": "Knuckle",
+            "line": "Pummel",
+            "level": "15"
+        },
+        {
+            "name": "Thundering Fists",
+            "line": "Lightning Fists",
+            "level": "15"
+        },
+        {
+            "name": "Bouncer's Stance",
+            "line": "Bodyguard",
+            "level": "16"
+        },
+        {
+            "name": "Taunting Slap",
+            "line": "Slurred Insult",
+            "level": "17"
+        },
+        {
+            "name": "Bruising Strike",
+            "line": "Meteor Fist",
+            "level": "17"
+        },
+        {
+            "name": "Staggering Stance",
+            "line": "Shrug Off",
+            "level": "18"
+        },
+        {
+            "name": "Flying Kick",
+            "line": "Roundhouse",
+            "level": "19"
+        },
+        {
+            "name": "Rapid Swings",
+            "line": "One Hundred Hand Punch",
+            "level": "19"
+        },
+        {
+            "name": "Ignore Pain",
+            "line": "Ignore Pain",
+            "level": "20"
+        },
+        {
+            "name": "Intercept",
+            "line": "Intercept",
+            "level": "20"
+        },
+        {
+            "name": "Fiery Fists",
+            "line": "Smoldering Fists",
+            "level": "21"
+        },
+        {
+            "name": "Whirling Blaze",
+            "line": "Beatdown",
+            "level": "21"
+        },
+        {
+            "name": "Jeer",
+            "line": "Abuse",
+            "level": "22"
+        },
+        {
+            "name": "Rough House",
+            "line": "Manhandle",
+            "level": "22"
+        },
+        {
+            "name": "Intimidating Orders",
+            "line": "Brutality",
+            "level": "23"
+        },
+        {
+            "name": "Crash",
+            "line": "Merciless Stomp",
+            "level": "24"
+        },
+        {
+            "name": "Intimidate",
+            "line": "Intimidate",
+            "level": "24"
+        },
+        {
+            "name": "Break Through",
+            "line": "Blaze Kick",
+            "level": "25"
+        },
+        {
+            "name": "Rescue",
+            "line": "Rescue",
+            "level": "25"
+        },
+        {
+            "name": "Bob and Weave",
+            "line": "Bob and Weave",
+            "level": "26"
+        },
+        {
+            "name": "Killing Spirit",
+            "line": "Bruising Spirit",
+            "level": "26"
+        },
+        {
+            "name": "Unflinching Will",
+            "line": "Indomitable Will",
+            "level": "27"
+        },
+        {
+            "name": "Fierce Punch",
+            "line": "Shoulder Charge",
+            "level": "27"
+        },
+        {
+            "name": "Torpor",
+            "line": "Feign Death",
+            "level": "28"
+        },
+        {
+            "name": "Bruise",
+            "line": "Eye Gouge",
+            "level": "28"
+        },
+        {
+            "name": "Blitz",
+            "line": "Pummel",
+            "level": "29"
+        },
+        {
+            "name": "Jolting Fists",
+            "line": "Lightning Fists",
+            "level": "29"
+        },
+        {
+            "name": "Bouncer",
+            "line": "Bodyguard",
+            "level": "30"
+        },
+        {
+            "name": "Haymaker",
+            "line": "Uppercut",
+            "level": "30"
+        },
+        {
+            "name": "Instill Doubt",
+            "line": "Instill Panic",
+            "level": "30"
+        },
+        {
+            "name": "Slurred Insult",
+            "line": "Slurred Insult",
+            "level": "31"
+        },
+        {
+            "name": "Grapple",
+            "line": "Meteor Fist",
+            "level": "31"
+        },
+        {
+            "name": "Overtaking Blows",
+            "line": "Shrug Off",
+            "level": "32"
+        },
+        {
+            "name": "Sucker Punch",
+            "line": "Sucker Punch",
+            "level": "32"
+        },
+        {
+            "name": "Throat Punch",
+            "line": "Roundhouse",
+            "level": "33"
+        },
+        {
+            "name": "One Hundred Hand Slap",
+            "line": "One Hundred Hand Punch",
+            "level": "33"
+        },
+        {
+            "name": "Ignore Hurt",
+            "line": "Ignore Pain",
+            "level": "34"
+        },
+        {
+            "name": "Intercede",
+            "line": "Intercept",
+            "level": "34"
+        },
+        {
+            "name": "Lava Fists",
+            "line": "Smoldering Fists",
+            "level": "35"
+        },
+        {
+            "name": "Beatdown",
+            "line": "Beatdown",
+            "level": "35"
+        },
+        {
+            "name": "Devastation Fist",
+            "line": "Devastation Fist",
+            "level": "35"
+        },
+        {
+            "name": "Boast",
+            "line": "Abuse",
+            "level": "36"
+        },
+        {
+            "name": "Brawl",
+            "line": "Manhandle",
+            "level": "36"
+        },
+        {
+            "name": "Rousing Cry",
+            "line": "Brutality",
+            "level": "37"
+        },
+        {
+            "name": "Merciless Stomp",
+            "line": "Merciless Stomp",
+            "level": "38"
+        },
+        {
+            "name": "Strong Arm",
+            "line": "Intimidate",
+            "level": "38"
+        },
+        {
+            "name": "Burning Lunge",
+            "line": "Blaze Kick",
+            "level": "39"
+        },
+        {
+            "name": "Battle Fury",
+            "line": "Bob and Weave",
+            "level": "40"
+        },
+        {
+            "name": "Strapping Spirit",
+            "line": "Bruising Spirit",
+            "level": "40"
+        },
+        {
+            "name": "Heavy Scarring",
+            "line": "Rock Skin",
+            "level": "40"
+        },
+        {
+            "name": "Cerebral Will",
+            "line": "Indomitable Will",
+            "level": "41"
+        },
+        {
+            "name": "Hammer Fist",
+            "line": "Shoulder Charge",
+            "level": "41"
+        },
+        {
+            "name": "Stop Heart",
+            "line": "Feign Death",
+            "level": "42"
+        },
+        {
+            "name": "Pulverise",
+            "line": "Eye Gouge",
+            "level": "42"
+        },
+        {
+            "name": "Pummel",
+            "line": "Pummel",
+            "level": "43"
+        },
+        {
+            "name": "Shocking Fists",
+            "line": "Lightning Fists",
+            "level": "43"
+        },
+        {
+            "name": "Retaliation",
+            "line": "Bodyguard",
+            "level": "44"
+        },
+        {
+            "name": "Crusher",
+            "line": "Uppercut",
+            "level": "44"
+        },
+        {
+            "name": "Taunting Stance",
+            "line": "Bruising",
+            "level": "44"
+        },
+        {
+            "name": "Instigate",
+            "line": "Slurred Insult",
+            "level": "45"
+        },
+        {
+            "name": "Meteor Punch",
+            "line": "Meteor Fist",
+            "level": "45"
+        },
+        {
+            "name": "Shrug Off",
+            "line": "Shrug Off",
+            "level": "46"
+        },
+        {
+            "name": "Dirty Punch",
+            "line": "Sucker Punch",
+            "level": "46"
+        },
+        {
+            "name": "Roundhouse",
+            "line": "Roundhouse",
+            "level": "47"
+        },
+        {
+            "name": "Crushing Fury",
+            "line": "One Hundred Hand Punch",
+            "level": "47"
+        },
+        {
+            "name": "Ignore Agony",
+            "line": "Ignore Pain",
+            "level": "48"
+        },
+        {
+            "name": "Magmatic Fists",
+            "line": "Smoldering Fists",
+            "level": "49"
+        },
+        {
+            "name": "Bone Crusher",
+            "line": "Beatdown",
+            "level": "49"
+        },
+        {
+            "name": "Devastating Fist",
+            "line": "Devastation Fist",
+            "level": "49"
+        },
+        {
+            "name": "Abuse",
+            "line": "Abuse",
+            "level": "50"
+        },
+        {
+            "name": "Quarrel",
+            "line": "Manhandle",
+            "level": "50"
+        },
+        {
+            "name": "Instill Panic",
+            "line": "Instill Panic",
+            "level": "50"
+        },
+        {
+            "name": "Savage Blows",
+            "line": "Savage Assault",
+            "level": "50"
+        },
+        {
+            "name": "Stirring Cry",
+            "line": "Brutality",
+            "level": "51"
+        },
+        {
+            "name": "Barbarous Stomp",
+            "line": "Merciless Stomp",
+            "level": "52"
+        },
+        {
+            "name": "Unnerve",
+            "line": "Intimidate",
+            "level": "52"
+        },
+        {
+            "name": "Stone Deaf",
+            "line": "Stone Deaf",
+            "level": "52"
+        },
+        {
+            "name": "Flaming Lunge",
+            "line": "Blaze Kick",
+            "level": "53"
+        },
+        {
+            "name": "Battle Lust",
+            "line": "Bob and Weave",
+            "level": "54"
+        },
+        {
+            "name": "Deadly Spirit",
+            "line": "Bruising Spirit",
+            "level": "54"
+        },
+        {
+            "name": "Calloused Skin",
+            "line": "Rock Skin",
+            "level": "54"
+        },
+        {
+            "name": "Resolute Will",
+            "line": "Indomitable Will",
+            "level": "55"
+        },
+        {
+            "name": "Iron Fist",
+            "line": "Shoulder Charge",
+            "level": "55"
+        },
+        {
+            "name": "Sonic Fists",
+            "line": "Sonic Punch",
+            "level": "55"
+        },
+        {
+            "name": "Stilled Life",
+            "line": "Feign Death",
+            "level": "56"
+        },
+        {
+            "name": "Pluck Eye",
+            "line": "Eye Gouge",
+            "level": "56"
+        },
+        {
+            "name": "Pound",
+            "line": "Pummel",
+            "level": "57"
+        },
+        {
+            "name": "Storming Fists",
+            "line": "Lightning Fists",
+            "level": "57"
+        },
+        {
+            "name": "Retribution",
+            "line": "Bodyguard",
+            "level": "58"
+        },
+        {
+            "name": "Uppercut",
+            "line": "Uppercut",
+            "level": "58"
+        },
+        {
+            "name": "Provoking Stance",
+            "line": "Bruising",
+            "level": "58"
+        },
+        {
+            "name": "Close Mind",
+            "line": "Close Mind",
+            "level": "58"
+        },
+        {
+            "name": "Pressure",
+            "line": "Slurred Insult",
+            "level": "59"
+        },
+        {
+            "name": "Meteor Fist",
+            "line": "Meteor Fist",
+            "level": "59"
+        },
+        {
+            "name": "Shake Off",
+            "line": "Shrug Off",
+            "level": "60"
+        },
+        {
+            "name": "Rabbit Punch",
+            "line": "Sucker Punch",
+            "level": "60"
+        },
+        {
+            "name": "Dropkick",
+            "line": "Roundhouse",
+            "level": "61"
+        },
+        {
+            "name": "One Hundred Hand Punch",
+            "line": "One Hundred Hand Punch",
+            "level": "62"
+        },
+        {
+            "name": "Blistering Fists",
+            "line": "Smoldering Fists",
+            "level": "63"
+        },
+        {
+            "name": "Slap Around",
+            "line": "Beatdown",
+            "level": "63"
+        },
+        {
+            "name": "Ravaging Fist",
+            "line": "Devastation Fist",
+            "level": "63"
+        },
+        {
+            "name": "Oppress",
+            "line": "Abuse",
+            "level": "64"
+        },
+        {
+            "name": "Rumble",
+            "line": "Manhandle",
+            "level": "64"
+        },
+        {
+            "name": "Rabid Cry",
+            "line": "Brutality",
+            "level": "65"
+        },
+        {
+            "name": "Knockout Combination",
+            "line": "Knockout Combination",
+            "level": "65"
+        },
+        {
+            "name": "Callous Stomp",
+            "line": "Merciless Stomp",
+            "level": "66"
+        },
+        {
+            "name": "Scared Still",
+            "line": "Intimidate",
+            "level": "66"
+        },
+        {
+            "name": "Blazing Lunge",
+            "line": "Blaze Kick",
+            "level": "67"
+        },
+        {
+            "name": "Battle Frenzy",
+            "line": "Bob and Weave",
+            "level": "68"
+        },
+        {
+            "name": "Vigorous Spirit",
+            "line": "Bruising Spirit",
+            "level": "68"
+        },
+        {
+            "name": "Hardened Skin",
+            "line": "Rock Skin",
+            "level": "68"
+        },
+        {
+            "name": "Tenacious Will",
+            "line": "Indomitable Will",
+            "level": "69"
+        },
+        {
+            "name": "Steel Fist",
+            "line": "Shoulder Charge",
+            "level": "69"
+        },
+        {
+            "name": "Last Breath",
+            "line": "Feign Death",
+            "level": "70"
+        },
+        {
+            "name": "Eye Gash",
+            "line": "Eye Gouge",
+            "level": "70"
+        },
+        {
+            "name": "Savage Bruising",
+            "line": "Savage Assault",
+            "level": "70"
+        },
+        {
+            "name": "Hammer",
+            "line": "Pummel",
+            "level": "71"
+        },
+        {
+            "name": "Lightning Fists",
+            "line": "Lightning Fists",
+            "level": "71"
+        },
+        {
+            "name": "Bruising Stance",
+            "line": "Bruising",
+            "level": "71"
+        },
+        {
+            "name": "Boil",
+            "line": "Slurred Insult",
+            "level": "72"
+        },
+        {
+            "name": "Bodyguard",
+            "line": "Bodyguard",
+            "level": "72"
+        },
+        {
+            "name": "Chin Break",
+            "line": "Uppercut",
+            "level": "72"
+        },
+        {
+            "name": "Comet Punch",
+            "line": "Meteor Fist",
+            "level": "73"
+        },
+        {
+            "name": "Gut Punch",
+            "line": "Sucker Punch",
+            "level": "73"
+        },
+        {
+            "name": "Desolating Fist",
+            "line": "Devastation Fist",
+            "level": "73"
+        },
+        {
+            "name": "Front Kick",
+            "line": "Roundhouse",
+            "level": "74"
+        },
+        {
+            "name": "One Hundred Hands",
+            "line": "One Hundred Hand Punch",
+            "level": "74"
+        },
+        {
+            "name": "Sonic Punch",
+            "line": "Sonic Punch",
+            "level": "74"
+        },
+        {
+            "name": "Smoldering Fists",
+            "line": "Smoldering Fists",
+            "level": "75"
+        },
+        {
+            "name": "Body Flail",
+            "line": "Beatdown",
+            "level": "75"
+        },
+        {
+            "name": "Vilify",
+            "line": "Abuse",
+            "level": "76"
+        },
+        {
+            "name": "Bruising Cry",
+            "line": "Brutality",
+            "level": "76"
+        },
+        {
+            "name": "Manhandle",
+            "line": "Manhandle",
+            "level": "76"
+        },
+        {
+            "name": "Double Stomp",
+            "line": "Merciless Stomp",
+            "level": "77"
+        },
+        {
+            "name": "Blaze Kick",
+            "line": "Blaze Kick",
+            "level": "77"
+        },
+        {
+            "name": "Trepidation",
+            "line": "Intimidate",
+            "level": "77"
+        },
+        {
+            "name": "Resistant Spirit",
+            "line": "Bruising Spirit",
+            "level": "78"
+        },
+        {
+            "name": "Rock Skin",
+            "line": "Rock Skin",
+            "level": "78"
+        },
+        {
+            "name": "Knockout",
+            "line": "Knockout Combination",
+            "level": "78"
+        },
+        {
+            "name": "Battle Ready",
+            "line": "Bob and Weave",
+            "level": "79"
+        },
+        {
+            "name": "Tenacity",
+            "line": "Indomitable Will",
+            "level": "79"
+        },
+        {
+            "name": "Adamantine Fist",
+            "line": "Shoulder Charge",
+            "level": "79"
+        },
+        {
+            "name": "Eye Rip",
+            "line": "Eye Gouge",
+            "level": "80"
+        },
+        {
+            "name": "Savage Assault",
+            "line": "Savage Assault",
+            "level": "80"
+        },
+        {
+            "name": "Divide and Conquer",
+            "line": "Divide and Conquer",
+            "level": "80"
+        }
+    ]
+}

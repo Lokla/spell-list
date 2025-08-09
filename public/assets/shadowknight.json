@@ -1,0 +1,820 @@
+{
+    "class": "Shadowknight",
+    "spells": [
+        {
+            "name": "Painful Swing",
+            "line": "Painbringer",
+            "level": "1"
+        },
+        {
+            "name": "Taunt",
+            "line": "Insidious Whisper",
+            "level": "1"
+        },
+        {
+            "name": "Condemning Smite",
+            "line": "Malice",
+            "level": "2"
+        },
+        {
+            "name": "Dark Caress",
+            "line": "Innoruuk's Caress",
+            "level": "3"
+        },
+        {
+            "name": "Dark Blade",
+            "line": "Dark Blade",
+            "level": "4"
+        },
+        {
+            "name": "Defensive Pact",
+            "line": "Lucan's Pact",
+            "level": "4"
+        },
+        {
+            "name": "Kick",
+            "line": "Soulrend",
+            "level": "5"
+        },
+        {
+            "name": "Fighting Chance",
+            "line": "Fighting Chance",
+            "level": "5"
+        },
+        {
+            "name": "Intervene",
+            "line": "Intercept",
+            "level": "6"
+        },
+        {
+            "name": "Sickening Circle",
+            "line": "Death Cloud",
+            "level": "7"
+        },
+        {
+            "name": "Decree",
+            "line": "Blasphemy",
+            "level": "8"
+        },
+        {
+            "name": "Offensive Presence",
+            "line": "Insidious Whisper",
+            "level": "9"
+        },
+        {
+            "name": "Unholy Hunger",
+            "line": "Unholy Hunger",
+            "level": "9"
+        },
+        {
+            "name": "Unholy Weapon",
+            "line": "Grim Harbinger",
+            "level": "10"
+        },
+        {
+            "name": "Fetid Strike",
+            "line": "Siphon Strike",
+            "level": "11"
+        },
+        {
+            "name": "Tarnished Caress",
+            "line": "Innoruuk's Caress",
+            "level": "12"
+        },
+        {
+            "name": "Infernal Blessing",
+            "line": "Unholy Blessing",
+            "level": "12"
+        },
+        {
+            "name": "Condemning Anger",
+            "line": "Malice",
+            "level": "13"
+        },
+        {
+            "name": "Shield Slam",
+            "line": "Hateful Slam",
+            "level": "13"
+        },
+        {
+            "name": "Cruel Aura",
+            "line": "Unending Agony",
+            "level": "14"
+        },
+        {
+            "name": "Painful Strike",
+            "line": "Painbringer",
+            "level": "15"
+        },
+        {
+            "name": "Cleave Flesh",
+            "line": "Cleave Flesh",
+            "level": "15"
+        },
+        {
+            "name": "Defensive Circle",
+            "line": "Lucan's Pact",
+            "level": "16"
+        },
+        {
+            "name": "Diseased Threat",
+            "line": "Insidious Whisper",
+            "level": "17"
+        },
+        {
+            "name": "Offering of Armament",
+            "line": "Pledge of Armament",
+            "level": "17"
+        },
+        {
+            "name": "Evasive Tactics",
+            "line": "Devious Evasion",
+            "level": "18"
+        },
+        {
+            "name": "Boot",
+            "line": "Soulrend",
+            "level": "19"
+        },
+        {
+            "name": "Contract from Below",
+            "line": "Unholy Strength",
+            "level": "19"
+        },
+        {
+            "name": "Intercept",
+            "line": "Intercept",
+            "level": "20"
+        },
+        {
+            "name": "Harm Touch",
+            "line": "Harm Touch",
+            "level": "20"
+        },
+        {
+            "name": "Sickening Decay",
+            "line": "Death Cloud",
+            "level": "21"
+        },
+        {
+            "name": "Graven Embrace",
+            "line": "Mortal Embrace",
+            "level": "21"
+        },
+        {
+            "name": "Dark Sword",
+            "line": "Dark Blade",
+            "level": "22"
+        },
+        {
+            "name": "Decree of Decay",
+            "line": "Blasphemy",
+            "level": "22"
+        },
+        {
+            "name": "Grim Coil",
+            "line": "Shadow Coil",
+            "level": "22"
+        },
+        {
+            "name": "Unholy Order",
+            "line": "Unholy Hunger",
+            "level": "23"
+        },
+        {
+            "name": "Tainted Caress",
+            "line": "Innoruuk's Caress",
+            "level": "24"
+        },
+        {
+            "name": "Grim Harbinger",
+            "line": "Grim Harbinger",
+            "level": "24"
+        },
+        {
+            "name": "Fetid Grasp",
+            "line": "Siphon Strike",
+            "level": "25"
+        },
+        {
+            "name": "Rescue",
+            "line": "Rescue",
+            "level": "25"
+        },
+        {
+            "name": "Infernal Pact",
+            "line": "Unholy Blessing",
+            "level": "26"
+        },
+        {
+            "name": "Tainted Sacrament",
+            "line": "Grave Sacrament",
+            "level": "26"
+        },
+        {
+            "name": "Condemning Spirit",
+            "line": "Malice",
+            "level": "27"
+        },
+        {
+            "name": "Decrepit Slam",
+            "line": "Hateful Slam",
+            "level": "27"
+        },
+        {
+            "name": "Cruel Intent",
+            "line": "Unending Agony",
+            "level": "28"
+        },
+        {
+            "name": "Consume Vitae",
+            "line": "Devour Vitae",
+            "level": "28"
+        },
+        {
+            "name": "Painbringer",
+            "line": "Painbringer",
+            "level": "29"
+        },
+        {
+            "name": "Sorrow",
+            "line": "Cleave Flesh",
+            "level": "29"
+        },
+        {
+            "name": "Lucan's Pact",
+            "line": "Lucan's Pact",
+            "level": "30"
+        },
+        {
+            "name": "Draw Strength",
+            "line": "Siphon Strength",
+            "level": "30"
+        },
+        {
+            "name": "Disease Cloud",
+            "line": "Insidious Whisper",
+            "level": "31"
+        },
+        {
+            "name": "Grant of Armament",
+            "line": "Pledge of Armament",
+            "level": "31"
+        },
+        {
+            "name": "Grim Sword",
+            "line": "Dark Blade",
+            "level": "32"
+        },
+        {
+            "name": "Evasive Maneuvers",
+            "line": "Devious Evasion",
+            "level": "32"
+        },
+        {
+            "name": "Spiked Boot",
+            "line": "Soulrend",
+            "level": "33"
+        },
+        {
+            "name": "Contract of Shadows",
+            "line": "Unholy Strength",
+            "level": "33"
+        },
+        {
+            "name": "Intercede",
+            "line": "Intercept",
+            "level": "34"
+        },
+        {
+            "name": "Malefic Touch",
+            "line": "Harm Touch",
+            "level": "34"
+        },
+        {
+            "name": "Swarming Spirits",
+            "line": "Death Cloud",
+            "level": "35"
+        },
+        {
+            "name": "Solemn Embrace",
+            "line": "Mortal Embrace",
+            "level": "35"
+        },
+        {
+            "name": "Doom Judgement",
+            "line": "Doom Judgement",
+            "level": "35"
+        },
+        {
+            "name": "Shriek of Terror",
+            "line": "Blasphemy",
+            "level": "36"
+        },
+        {
+            "name": "Vile Coil",
+            "line": "Shadow Coil",
+            "level": "36"
+        },
+        {
+            "name": "Insatiable Hunger",
+            "line": "Unholy Hunger",
+            "level": "37"
+        },
+        {
+            "name": "Cursed Caress",
+            "line": "Innoruuk's Caress",
+            "level": "38"
+        },
+        {
+            "name": "Unhallowed Aura",
+            "line": "Grim Harbinger",
+            "level": "38"
+        },
+        {
+            "name": "Baleful Smite",
+            "line": "Siphon Strike",
+            "level": "39"
+        },
+        {
+            "name": "Unholy Blessing",
+            "line": "Unholy Blessing",
+            "level": "40"
+        },
+        {
+            "name": "Cursed Sacrament",
+            "line": "Grave Sacrament",
+            "level": "40"
+        },
+        {
+            "name": "Dreadful Wrath",
+            "line": "Dreadful Wrath",
+            "level": "40"
+        },
+        {
+            "name": "Sickening Anger",
+            "line": "Malice",
+            "level": "41"
+        },
+        {
+            "name": "Destructive Slam",
+            "line": "Hateful Slam",
+            "level": "41"
+        },
+        {
+            "name": "Unending Pain",
+            "line": "Unending Agony",
+            "level": "42"
+        },
+        {
+            "name": "Devour Vitae",
+            "line": "Devour Vitae",
+            "level": "42"
+        },
+        {
+            "name": "Pariah's Mark",
+            "line": "Painbringer",
+            "level": "43"
+        },
+        {
+            "name": "Unending Pain",
+            "line": "Cleave Flesh",
+            "level": "43"
+        },
+        {
+            "name": "Malevolent Circle",
+            "line": "Lucan's Pact",
+            "level": "44"
+        },
+        {
+            "name": "Siphon Strength",
+            "line": "Siphon Strength",
+            "level": "44"
+        },
+        {
+            "name": "Shadowy Elusion",
+            "line": "Shadowy Elusion",
+            "level": "44"
+        },
+        {
+            "name": "Insidious Whisper",
+            "line": "Insidious Whisper",
+            "level": "45"
+        },
+        {
+            "name": "Gift of Armament",
+            "line": "Pledge of Armament",
+            "level": "45"
+        },
+        {
+            "name": "Plague Sword",
+            "line": "Dark Blade",
+            "level": "46"
+        },
+        {
+            "name": "Calculated Evasion",
+            "line": "Devious Evasion",
+            "level": "46"
+        },
+        {
+            "name": "Soulrend",
+            "line": "Soulrend",
+            "level": "47"
+        },
+        {
+            "name": "Unholy Strength",
+            "line": "Unholy Strength",
+            "level": "47"
+        },
+        {
+            "name": "Ruinous Touch",
+            "line": "Harm Touch",
+            "level": "48"
+        },
+        {
+            "name": "Death Cloud",
+            "line": "Death Cloud",
+            "level": "49"
+        },
+        {
+            "name": "Deadly Embrace",
+            "line": "Mortal Embrace",
+            "level": "49"
+        },
+        {
+            "name": "Blasphemy",
+            "line": "Blasphemy",
+            "level": "50"
+        },
+        {
+            "name": "Wicked Coil",
+            "line": "Shadow Coil",
+            "level": "50"
+        },
+        {
+            "name": "Despoiling Mist",
+            "line": "Devouring Mist",
+            "level": "50"
+        },
+        {
+            "name": "Unending Hunger",
+            "line": "Unholy Hunger",
+            "level": "51"
+        },
+        {
+            "name": "Infernal Caress",
+            "line": "Innoruuk's Caress",
+            "level": "52"
+        },
+        {
+            "name": "Depraved Aura",
+            "line": "Grim Harbinger",
+            "level": "52"
+        },
+        {
+            "name": "Mana Sieve",
+            "line": "Mana Sieve",
+            "level": "52"
+        },
+        {
+            "name": "Dire Smite",
+            "line": "Siphon Strike",
+            "level": "53"
+        },
+        {
+            "name": "Doom Aura",
+            "line": "Doom Judgement",
+            "level": "53"
+        },
+        {
+            "name": "Heinous Blessing",
+            "line": "Unholy Blessing",
+            "level": "54"
+        },
+        {
+            "name": "Infernal Sacrament",
+            "line": "Grave Sacrament",
+            "level": "54"
+        },
+        {
+            "name": "Baleful Wrath",
+            "line": "Dreadful Wrath",
+            "level": "54"
+        },
+        {
+            "name": "Loathsome Anger",
+            "line": "Malice",
+            "level": "55"
+        },
+        {
+            "name": "Catastrophic Slam",
+            "line": "Hateful Slam",
+            "level": "55"
+        },
+        {
+            "name": "Tap Veins",
+            "line": "Tap Veins",
+            "level": "55"
+        },
+        {
+            "name": "Unending Agony",
+            "line": "Unending Agony",
+            "level": "56"
+        },
+        {
+            "name": "Absorb Vitae",
+            "line": "Devour Vitae",
+            "level": "56"
+        },
+        {
+            "name": "Pariah's Brand",
+            "line": "Painbringer",
+            "level": "57"
+        },
+        {
+            "name": "Agony",
+            "line": "Cleave Flesh",
+            "level": "57"
+        },
+        {
+            "name": "Infernal Circle",
+            "line": "Lucan's Pact",
+            "level": "58"
+        },
+        {
+            "name": "Siphon Might",
+            "line": "Siphon Strength",
+            "level": "58"
+        },
+        {
+            "name": "Death March",
+            "line": "Death March",
+            "level": "58"
+        },
+        {
+            "name": "Insidious Promise",
+            "line": "Insidious Whisper",
+            "level": "59"
+        },
+        {
+            "name": "Pledge of Armament",
+            "line": "Pledge of Armament",
+            "level": "59"
+        },
+        {
+            "name": "Pox Sword",
+            "line": "Dark Blade",
+            "level": "60"
+        },
+        {
+            "name": "Devious Evasion",
+            "line": "Devious Evasion",
+            "level": "60"
+        },
+        {
+            "name": "Smash",
+            "line": "Soulrend",
+            "level": "61"
+        },
+        {
+            "name": "Unhallowed Strength",
+            "line": "Unholy Strength",
+            "level": "61"
+        },
+        {
+            "name": "Pestilent Touch",
+            "line": "Harm Touch",
+            "level": "62"
+        },
+        {
+            "name": "Death Circle",
+            "line": "Death Cloud",
+            "level": "63"
+        },
+        {
+            "name": "Mortal Embrace",
+            "line": "Mortal Embrace",
+            "level": "63"
+        },
+        {
+            "name": "Sacrilege",
+            "line": "Blasphemy",
+            "level": "64"
+        },
+        {
+            "name": "Putrid Coil",
+            "line": "Shadow Coil",
+            "level": "64"
+        },
+        {
+            "name": "Everlasting Hunger",
+            "line": "Unholy Hunger",
+            "level": "65"
+        },
+        {
+            "name": "Pestilence",
+            "line": "Pestilence",
+            "level": "65"
+        },
+        {
+            "name": "Nefarious Caress",
+            "line": "Innoruuk's Caress",
+            "level": "66"
+        },
+        {
+            "name": "Twisted Aura",
+            "line": "Grim Harbinger",
+            "level": "66"
+        },
+        {
+            "name": "Fetid Smite",
+            "line": "Siphon Strike",
+            "level": "67"
+        },
+        {
+            "name": "Grave Blessing",
+            "line": "Unholy Blessing",
+            "level": "68"
+        },
+        {
+            "name": "Nefarious Sacrament",
+            "line": "Grave Sacrament",
+            "level": "68"
+        },
+        {
+            "name": "Abominable Wrath",
+            "line": "Dreadful Wrath",
+            "level": "68"
+        },
+        {
+            "name": "Abominable Anger",
+            "line": "Malice",
+            "level": "69"
+        },
+        {
+            "name": "Venomous Slam",
+            "line": "Hateful Slam",
+            "level": "69"
+        },
+        {
+            "name": "Unending Misery",
+            "line": "Unending Agony",
+            "level": "70"
+        },
+        {
+            "name": "Drain Vitae",
+            "line": "Devour Vitae",
+            "level": "70"
+        },
+        {
+            "name": "Despoil",
+            "line": "Devouring Mist",
+            "level": "70"
+        },
+        {
+            "name": "Pariah's Strike",
+            "line": "Painbringer",
+            "level": "71"
+        },
+        {
+            "name": "Anguish",
+            "line": "Cleave Flesh",
+            "level": "71"
+        },
+        {
+            "name": "Doom Rays",
+            "line": "Doom Judgement",
+            "level": "71"
+        },
+        {
+            "name": "Insinuate",
+            "line": "Insidious Whisper",
+            "level": "72"
+        },
+        {
+            "name": "Stance of Lucan",
+            "line": "Lucan's Pact",
+            "level": "72"
+        },
+        {
+            "name": "Drain Might",
+            "line": "Siphon Strength",
+            "level": "72"
+        },
+        {
+            "name": "Mana Siege",
+            "line": "Mana Sieve",
+            "level": "72"
+        },
+        {
+            "name": "Lucan's Sword",
+            "line": "Dark Blade",
+            "level": "73"
+        },
+        {
+            "name": "Donation of Armament",
+            "line": "Pledge of Armament",
+            "level": "73"
+        },
+        {
+            "name": "Lucan's Leadership",
+            "line": "Unholy Strength",
+            "level": "73"
+        },
+        {
+            "name": "Lucan's Boot",
+            "line": "Soulrend",
+            "level": "74"
+        },
+        {
+            "name": "Death Touch",
+            "line": "Harm Touch",
+            "level": "74"
+        },
+        {
+            "name": "Tap Arteries",
+            "line": "Tap Veins",
+            "level": "74"
+        },
+        {
+            "name": "Crimson Circle",
+            "line": "Death Cloud",
+            "level": "75"
+        },
+        {
+            "name": "Chastisement",
+            "line": "Blasphemy",
+            "level": "76"
+        },
+        {
+            "name": "Relentless Hunger",
+            "line": "Unholy Hunger",
+            "level": "76"
+        },
+        {
+            "name": "Shadow Coil",
+            "line": "Shadow Coil",
+            "level": "76"
+        },
+        {
+            "name": "Innoruuk's Caress",
+            "line": "Innoruuk's Caress",
+            "level": "77"
+        },
+        {
+            "name": "Unholy Arms",
+            "line": "Grim Harbinger",
+            "level": "77"
+        },
+        {
+            "name": "Siphon Strike",
+            "line": "Siphon Strike",
+            "level": "77"
+        },
+        {
+            "name": "Grave Sacrament",
+            "line": "Grave Sacrament",
+            "level": "78"
+        },
+        {
+            "name": "Pain Wrath",
+            "line": "Dreadful Wrath",
+            "level": "78"
+        },
+        {
+            "name": "Contagion",
+            "line": "Pestilence",
+            "level": "78"
+        },
+        {
+            "name": "Malice",
+            "line": "Malice",
+            "level": "79"
+        },
+        {
+            "name": "Life Pact",
+            "line": "Unholy Blessing",
+            "level": "79"
+        },
+        {
+            "name": "Hateful Slam",
+            "line": "Hateful Slam",
+            "level": "79"
+        },
+        {
+            "name": "Siphon Vitae",
+            "line": "Devour Vitae",
+            "level": "80"
+        },
+        {
+            "name": "Devouring Mist",
+            "line": "Devouring Mist",
+            "level": "80"
+        },
+        {
+            "name": "Bloodletter",
+            "line": "Bloodletter",
+            "level": "80"
+        }
+    ]
+}

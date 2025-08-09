@@ -1,0 +1,800 @@
+{
+    "class": "Defiler",
+    "spells": [
+        {
+            "name": "Minor Balm",
+            "line": "Dire Balm",
+            "level": "1"
+        },
+        {
+            "name": "Imprecation",
+            "line": "Imprecate",
+            "level": "1"
+        },
+        {
+            "name": "Curse",
+            "line": "Atrophy",
+            "level": "2"
+        },
+        {
+            "name": "Malaise",
+            "line": "Putrefy",
+            "level": "3"
+        },
+        {
+            "name": "Minor Sacrificial Heal",
+            "line": "Sacrificial Restoration",
+            "level": "3"
+        },
+        {
+            "name": "Minor Fortune",
+            "line": "Harbinger",
+            "level": "4"
+        },
+        {
+            "name": "Shroud",
+            "line": "Shroud of Armor",
+            "level": "5"
+        },
+        {
+            "name": "Divine Providence",
+            "line": "Divine Providence",
+            "level": "5"
+        },
+        {
+            "name": "Summon Food and Water",
+            "line": "Summon Food and Water",
+            "level": "6"
+        },
+        {
+            "name": "Cure",
+            "line": "Cure",
+            "level": "6"
+        },
+        {
+            "name": "Balm",
+            "line": "Dire Balm",
+            "level": "7"
+        },
+        {
+            "name": "Repulsion",
+            "line": "Abomination",
+            "level": "7"
+        },
+        {
+            "name": "Revive",
+            "line": "Revive",
+            "level": "8"
+        },
+        {
+            "name": "Greater Imprecation",
+            "line": "Imprecate",
+            "level": "9"
+        },
+        {
+            "name": "Enduring Breath",
+            "line": "Enduring Breath",
+            "level": "9"
+        },
+        {
+            "name": "Greater Curse",
+            "line": "Atrophy",
+            "level": "10"
+        },
+        {
+            "name": "Sacrificial Heal",
+            "line": "Sacrificial Restoration",
+            "level": "10"
+        },
+        {
+            "name": "Infection",
+            "line": "Putrefy",
+            "level": "11"
+        },
+        {
+            "name": "Spirit Guide",
+            "line": "Spirit Guide",
+            "level": "11"
+        },
+        {
+            "name": "Spectral Ward",
+            "line": "Ancient Shroud",
+            "level": "12"
+        },
+        {
+            "name": "Spectral Ward",
+            "line": "Spectral Ward",
+            "level": "12"
+        },
+        {
+            "name": "Fearful Chant",
+            "line": "Terror Chant",
+            "level": "13"
+        },
+        {
+            "name": "Spirit of the Wolf",
+            "line": "Spirit of the Wolf",
+            "level": "13"
+        },
+        {
+            "name": "Accretion",
+            "line": "Wild Accretion",
+            "level": "14"
+        },
+        {
+            "name": "Ward of Spirit",
+            "line": "Carrion Warding",
+            "level": "14"
+        },
+        {
+            "name": "Greater Balm",
+            "line": "Dire Balm",
+            "level": "15"
+        },
+        {
+            "name": "Eidolic Ward",
+            "line": "Eidolic Ward",
+            "level": "15"
+        },
+        {
+            "name": "Fortune",
+            "line": "Harbinger",
+            "level": "16"
+        },
+        {
+            "name": "Efflux",
+            "line": "Noxious Efflux",
+            "level": "16"
+        },
+        {
+            "name": "Sickening Imprecation",
+            "line": "Imprecate",
+            "level": "17"
+        },
+        {
+            "name": "Greater Sacrificial Heal",
+            "line": "Sacrificial Restoration",
+            "level": "18"
+        },
+        {
+            "name": "Vehement",
+            "line": "Vehemence",
+            "level": "18"
+        },
+        {
+            "name": "Greater Shroud",
+            "line": "Shroud of Armor",
+            "level": "19"
+        },
+        {
+            "name": "Ghostly Ward",
+            "line": "Ancient Shroud",
+            "level": "19"
+        },
+        {
+            "name": "Baleful Countenance",
+            "line": "Sinister Countenance",
+            "level": "20"
+        },
+        {
+            "name": "Revulsion",
+            "line": "Abomination",
+            "level": "21"
+        },
+        {
+            "name": "Untreated Balm",
+            "line": "Dire Balm",
+            "level": "22"
+        },
+        {
+            "name": "Reanimate",
+            "line": "Reanimate",
+            "level": "22"
+        },
+        {
+            "name": "Abominus",
+            "line": "Abominus",
+            "level": "23"
+        },
+        {
+            "name": "Fulginous Sphere",
+            "line": "Fuliginous Whip",
+            "level": "23"
+        },
+        {
+            "name": "Degeneration",
+            "line": "Atrophy",
+            "level": "24"
+        },
+        {
+            "name": "Contamination",
+            "line": "Putrefy",
+            "level": "25"
+        },
+        {
+            "name": "Spectral Guard",
+            "line": "Ancient Shroud",
+            "level": "26"
+        },
+        {
+            "name": "Curse of Shielding",
+            "line": "Bane of Warding",
+            "level": "26"
+        },
+        {
+            "name": "Devigorating Chant",
+            "line": "Terror Chant",
+            "level": "27"
+        },
+        {
+            "name": "Profane Accretion",
+            "line": "Wild Accretion",
+            "level": "28"
+        },
+        {
+            "name": "Seeping Eschar",
+            "line": "Carrion Warding",
+            "level": "28"
+        },
+        {
+            "name": "Putrified Balm",
+            "line": "Dire Balm",
+            "level": "29"
+        },
+        {
+            "name": "Distill Soul",
+            "line": "Crystallize Soul",
+            "level": "29"
+        },
+        {
+            "name": "Foreboding",
+            "line": "Harbinger",
+            "level": "30"
+        },
+        {
+            "name": "Dire Effluence",
+            "line": "Noxious Efflux",
+            "level": "30"
+        },
+        {
+            "name": "Vile Imprecation",
+            "line": "Imprecate",
+            "level": "31"
+        },
+        {
+            "name": "Sacrificial Aid",
+            "line": "Sacrificial Restoration",
+            "level": "32"
+        },
+        {
+            "name": "Vehemence",
+            "line": "Vehemence",
+            "level": "32"
+        },
+        {
+            "name": "Aphotic Touch",
+            "line": "Absolute Corruption",
+            "level": "32"
+        },
+        {
+            "name": "Dire Shroud",
+            "line": "Shroud of Armor",
+            "level": "33"
+        },
+        {
+            "name": "Sinister Countenance",
+            "line": "Sinister Countenance",
+            "level": "34"
+        },
+        {
+            "name": "Loathing",
+            "line": "Abomination",
+            "level": "35"
+        },
+        {
+            "name": "Tendrils of Fear",
+            "line": "Tendrils of Horror",
+            "level": "35"
+        },
+        {
+            "name": "Umbral Trap",
+            "line": "Umbral Trap",
+            "level": "35"
+        },
+        {
+            "name": "Senescence",
+            "line": "Senescence",
+            "level": "36"
+        },
+        {
+            "name": "Fulginous Coil",
+            "line": "Fuliginous Whip",
+            "level": "37"
+        },
+        {
+            "name": "Atrophy",
+            "line": "Atrophy",
+            "level": "38"
+        },
+        {
+            "name": "Suppuration",
+            "line": "Putrefy",
+            "level": "39"
+        },
+        {
+            "name": "Primordial Terror",
+            "line": "Ancient Terror",
+            "level": "39"
+        },
+        {
+            "name": "Malefic Shroud",
+            "line": "Ancient Shroud",
+            "level": "40"
+        },
+        {
+            "name": "Bane of Shielding",
+            "line": "Bane of Warding",
+            "level": "40"
+        },
+        {
+            "name": "Devitalizing Chant",
+            "line": "Terror Chant",
+            "level": "41"
+        },
+        {
+            "name": "Eerie Avenger",
+            "line": "Ancestral Avenger",
+            "level": "41"
+        },
+        {
+            "name": "Venal Accretion",
+            "line": "Wild Accretion",
+            "level": "42"
+        },
+        {
+            "name": "Carrion Shield",
+            "line": "Carrion Warding",
+            "level": "42"
+        },
+        {
+            "name": "Mail of Souls",
+            "line": "Mail of Souls",
+            "level": "42"
+        },
+        {
+            "name": "Fetid Balm",
+            "line": "Dire Balm",
+            "level": "43"
+        },
+        {
+            "name": "Cyrstallize Soul",
+            "line": "Crystallize Soul",
+            "level": "43"
+        },
+        {
+            "name": "Harbinger",
+            "line": "Harbinger",
+            "level": "44"
+        },
+        {
+            "name": "Baleful Efflux",
+            "line": "Noxious Efflux",
+            "level": "44"
+        },
+        {
+            "name": "Ruinous Imprecation",
+            "line": "Imprecate",
+            "level": "45"
+        },
+        {
+            "name": "Dread Invective",
+            "line": "Invective",
+            "level": "45"
+        },
+        {
+            "name": "Sacrifical Alleviation",
+            "line": "Sacrificial Restoration",
+            "level": "46"
+        },
+        {
+            "name": "Voracity",
+            "line": "Vehemence",
+            "level": "46"
+        },
+        {
+            "name": "Aphotic Corruption",
+            "line": "Absolute Corruption",
+            "level": "46"
+        },
+        {
+            "name": "Ghastly Shroud",
+            "line": "Shroud of Armor",
+            "level": "47"
+        },
+        {
+            "name": "Loathsome Seal",
+            "line": "Abhorrent Seal",
+            "level": "47"
+        },
+        {
+            "name": "Malefic Countenance",
+            "line": "Sinister Countenance",
+            "level": "48"
+        },
+        {
+            "name": "Purulence",
+            "line": "Purulence",
+            "level": "48"
+        },
+        {
+            "name": "Abhorrence",
+            "line": "Abomination",
+            "level": "49"
+        },
+        {
+            "name": "Tendrils of Terror",
+            "line": "Tendrils of Horror",
+            "level": "49"
+        },
+        {
+            "name": "Vivication",
+            "line": "Vivication",
+            "level": "50"
+        },
+        {
+            "name": "Maelstrom of Dismay",
+            "line": "Maelstrom",
+            "level": "50"
+        },
+        {
+            "name": "Fulginous Tendril",
+            "line": "Fuliginous Whip",
+            "level": "51"
+        },
+        {
+            "name": "Degenerate",
+            "line": "Atrophy",
+            "level": "52"
+        },
+        {
+            "name": "Forced Cannibalize",
+            "line": "Soul Cannibalize",
+            "level": "52"
+        },
+        {
+            "name": "Infestation",
+            "line": "Putrefy",
+            "level": "53"
+        },
+        {
+            "name": "Primeval Terror",
+            "line": "Ancient Terror",
+            "level": "53"
+        },
+        {
+            "name": "Calamitous Shroud",
+            "line": "Ancient Shroud",
+            "level": "54"
+        },
+        {
+            "name": "Bane Of Guarding",
+            "line": "Bane of Warding",
+            "level": "54"
+        },
+        {
+            "name": "Extenuating Chant",
+            "line": "Terror Chant",
+            "level": "55"
+        },
+        {
+            "name": "Ghostly Avenger",
+            "line": "Ancestral Avenger",
+            "level": "55"
+        },
+        {
+            "name": "Voice of the Ancestors",
+            "line": "Voice of the Ancestors",
+            "level": "55"
+        },
+        {
+            "name": "Banal Accretion",
+            "line": "Wild Accretion",
+            "level": "56"
+        },
+        {
+            "name": "Carrion Aegis",
+            "line": "Carrion Warding",
+            "level": "56"
+        },
+        {
+            "name": "Mail of Spirits",
+            "line": "Mail of Souls",
+            "level": "56"
+        },
+        {
+            "name": "Putrid Balm",
+            "line": "Dire Balm",
+            "level": "57"
+        },
+        {
+            "name": "Crystallize Spirit",
+            "line": "Crystallize Soul",
+            "level": "57"
+        },
+        {
+            "name": "Portent",
+            "line": "Harbinger",
+            "level": "58"
+        },
+        {
+            "name": "Malevolent Efflux",
+            "line": "Noxious Efflux",
+            "level": "58"
+        },
+        {
+            "name": "Spiritual Circle",
+            "line": "Spiritual Circle",
+            "level": "58"
+        },
+        {
+            "name": "Ruinous Anathema",
+            "line": "Imprecate",
+            "level": "59"
+        },
+        {
+            "name": "Dire Invective",
+            "line": "Invective",
+            "level": "59"
+        },
+        {
+            "name": "Sacrificial Deliverance",
+            "line": "Sacrificial Restoration",
+            "level": "60"
+        },
+        {
+            "name": "Rapacity",
+            "line": "Vehemence",
+            "level": "60"
+        },
+        {
+            "name": "Caliginous Corruption",
+            "line": "Absolute Corruption",
+            "level": "60"
+        },
+        {
+            "name": "Abhorrent Shroud",
+            "line": "Shroud of Armor",
+            "level": "61"
+        },
+        {
+            "name": "Abhorrent Seal",
+            "line": "Abhorrent Seal",
+            "level": "61"
+        },
+        {
+            "name": "Woeful Countenance",
+            "line": "Sinister Countenance",
+            "level": "62"
+        },
+        {
+            "name": "Tendrils of Horror",
+            "line": "Tendrils of Horror",
+            "level": "63"
+        },
+        {
+            "name": "Malignancy",
+            "line": "Abomination",
+            "level": "64"
+        },
+        {
+            "name": "Fulginous Dominion",
+            "line": "Fuliginous Whip",
+            "level": "65"
+        },
+        {
+            "name": "Defile",
+            "line": "Defile",
+            "level": "65"
+        },
+        {
+            "name": "Abasement",
+            "line": "Atrophy",
+            "level": "66"
+        },
+        {
+            "name": "Putrefy",
+            "line": "Putrefy",
+            "level": "67"
+        },
+        {
+            "name": "Ancient Terror",
+            "line": "Ancient Terror",
+            "level": "67"
+        },
+        {
+            "name": "Malignant Shroud",
+            "line": "Ancient Shroud",
+            "level": "68"
+        },
+        {
+            "name": "Bane Of Protection",
+            "line": "Bane of Warding",
+            "level": "68"
+        },
+        {
+            "name": "Torpid Chant",
+            "line": "Terror Chant",
+            "level": "69"
+        },
+        {
+            "name": "Spirit Avenger",
+            "line": "Ancestral Avenger",
+            "level": "69"
+        },
+        {
+            "name": "Impious Accretion",
+            "line": "Wild Accretion",
+            "level": "70"
+        },
+        {
+            "name": "Carrion Bulwark",
+            "line": "Carrion Warding",
+            "level": "70"
+        },
+        {
+            "name": "Mail of Phantoms",
+            "line": "Mail of Souls",
+            "level": "70"
+        },
+        {
+            "name": "Maelstrom",
+            "line": "Maelstrom",
+            "level": "70"
+        },
+        {
+            "name": "Dire Balm",
+            "line": "Dire Balm",
+            "level": "71"
+        },
+        {
+            "name": "Crystallize Essence",
+            "line": "Crystallize Soul",
+            "level": "71"
+        },
+        {
+            "name": "Imprecate",
+            "line": "Imprecate",
+            "level": "72"
+        },
+        {
+            "name": "Precognition",
+            "line": "Harbinger",
+            "level": "72"
+        },
+        {
+            "name": "Noxious Efflux",
+            "line": "Noxious Efflux",
+            "level": "72"
+        },
+        {
+            "name": "Soul Cannibalize",
+            "line": "Soul Cannibalize",
+            "level": "72"
+        },
+        {
+            "name": "Sacrificial Restoration",
+            "line": "Sacrificial Restoration",
+            "level": "73"
+        },
+        {
+            "name": "Enormity",
+            "line": "Vehemence",
+            "level": "73"
+        },
+        {
+            "name": "Invective",
+            "line": "Invective",
+            "level": "73"
+        },
+        {
+            "name": "Shroud Of Armor",
+            "line": "Shroud of Armor",
+            "level": "74"
+        },
+        {
+            "name": "Absolute Corruption",
+            "line": "Absolute Corruption",
+            "level": "74"
+        },
+        {
+            "name": "Words of the Ancestors",
+            "line": "Voice of the Ancestors",
+            "level": "74"
+        },
+        {
+            "name": "Hideous Seal",
+            "line": "Abhorrent Seal",
+            "level": "75"
+        },
+        {
+            "name": "Abomination",
+            "line": "Abomination",
+            "level": "76"
+        },
+        {
+            "name": "Countenance",
+            "line": "Sinister Countenance",
+            "level": "76"
+        },
+        {
+            "name": "Spiritual Shrine",
+            "line": "Spiritual Circle",
+            "level": "76"
+        },
+        {
+            "name": "Fuliginous Whip",
+            "line": "Fuliginous Whip",
+            "level": "77"
+        },
+        {
+            "name": "Panic",
+            "line": "Ancient Terror",
+            "level": "77"
+        },
+        {
+            "name": "Malis",
+            "line": "Putrefy",
+            "level": "78"
+        },
+        {
+            "name": "Ancient Shroud",
+            "line": "Ancient Shroud",
+            "level": "78"
+        },
+        {
+            "name": "Emaciate",
+            "line": "Defile",
+            "level": "78"
+        },
+        {
+            "name": "Terror Chant",
+            "line": "Terror Chant",
+            "level": "79"
+        },
+        {
+            "name": "Carrion Warding",
+            "line": "Carrion Warding",
+            "level": "79"
+        },
+        {
+            "name": "Bane Of Warding",
+            "line": "Bane of Warding",
+            "level": "79"
+        },
+        {
+            "name": "Wild Accretion",
+            "line": "Wild Accretion",
+            "level": "80"
+        },
+        {
+            "name": "Ancestral Avenger",
+            "line": "Ancestral Avenger",
+            "level": "80"
+        },
+        {
+            "name": "Pandemonium",
+            "line": "Maelstrom",
+            "level": "80"
+        },
+        {
+            "name": "Deathward",
+            "line": "Deathward",
+            "level": "80"
+        },
+        {
+            "name": "Cure Curse",
+            "line": "Cure Curse",
+            "level": "80"
+        }
+    ]
+}

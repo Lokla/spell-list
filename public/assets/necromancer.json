@@ -1,0 +1,815 @@
+{
+    "class": "Necromancer",
+    "spells": [
+        {
+            "name": "Rot",
+            "line": "Soulrot",
+            "level": "1"
+        },
+        {
+            "name": "Summon Minion",
+            "line": "Undead Knight",
+            "level": "1"
+        },
+        {
+            "name": "Heal Minion",
+            "line": "Necrotic Reconstruction",
+            "level": "2"
+        },
+        {
+            "name": "Plague",
+            "line": "Pandemic",
+            "level": "2"
+        },
+        {
+            "name": "Coil",
+            "line": "Bloodcoil",
+            "level": "3"
+        },
+        {
+            "name": "Magi's Shielding",
+            "line": "Magi's Shielding",
+            "level": "4"
+        },
+        {
+            "name": "Arcane Augur",
+            "line": "Arcane Augur",
+            "level": "5"
+        },
+        {
+            "name": "Bind Sight",
+            "line": "Bind Sight",
+            "level": "5"
+        },
+        {
+            "name": "Chain",
+            "line": "Chains of Torment",
+            "level": "5"
+        },
+        {
+            "name": "Greater Rot",
+            "line": "Soulrot",
+            "level": "6"
+        },
+        {
+            "name": "Cure Arcane",
+            "line": "Cure Arcane",
+            "level": "6"
+        },
+        {
+            "name": "Favor of the Dead",
+            "line": "Unholy Covenant",
+            "level": "7"
+        },
+        {
+            "name": "Locusts",
+            "line": "Pandemic",
+            "level": "8"
+        },
+        {
+            "name": "See Invisibility",
+            "line": "See Invisibility",
+            "level": "9"
+        },
+        {
+            "name": "Dispel Magic",
+            "line": "Dispel Magic",
+            "level": "9"
+        },
+        {
+            "name": "Dark Coil",
+            "line": "Bloodcoil",
+            "level": "10"
+        },
+        {
+            "name": "Shrink Servant",
+            "line": "Shrink Servant",
+            "level": "10"
+        },
+        {
+            "name": "Aggression",
+            "line": "Howl of the Damned",
+            "level": "11"
+        },
+        {
+            "name": "Seething Rot",
+            "line": "Soulrot",
+            "level": "12"
+        },
+        {
+            "name": "Summon Servant",
+            "line": "Undead Knight",
+            "level": "12"
+        },
+        {
+            "name": "Mark of the Dead",
+            "line": "Teachings of the Underworld",
+            "level": "12"
+        },
+        {
+            "name": "Bleeding Ritual",
+            "line": "Bloody Ritual",
+            "level": "13"
+        },
+        {
+            "name": "Aqueous Stone",
+            "line": "Aqueous Stone",
+            "level": "13"
+        },
+        {
+            "name": "Repair Bones",
+            "line": "Necrotic Reconstruction",
+            "level": "14"
+        },
+        {
+            "name": "Grisly Defense",
+            "line": "Grisly Protection",
+            "level": "14"
+        },
+        {
+            "name": "Necromantic Mark",
+            "line": "Necromantic Pact",
+            "level": "14"
+        },
+        {
+            "name": "Call Servant",
+            "line": "Call Servant",
+            "level": "15"
+        },
+        {
+            "name": "Invisibility",
+            "line": "Invisibility",
+            "level": "15"
+        },
+        {
+            "name": "Grasp",
+            "line": "Grasping Bones",
+            "level": "16"
+        },
+        {
+            "name": "Siphon Cloud",
+            "line": "Bloodcloud",
+            "level": "16"
+        },
+        {
+            "name": "Withering Coil",
+            "line": "Bloodcoil",
+            "level": "17"
+        },
+        {
+            "name": "Dark Heart",
+            "line": "Dark Heart",
+            "level": "18"
+        },
+        {
+            "name": "Enchain",
+            "line": "Chains of Torment",
+            "level": "19"
+        },
+        {
+            "name": "Rotten Blast",
+            "line": "Soulrot",
+            "level": "20"
+        },
+        {
+            "name": "Grim Spellbinder",
+            "line": "Grim Sorcerer",
+            "level": "20"
+        },
+        {
+            "name": "Lifetap",
+            "line": "Lifetap",
+            "level": "20"
+        },
+        {
+            "name": "Favor of the Fallen",
+            "line": "Unholy Covenant",
+            "level": "21"
+        },
+        {
+            "name": "Clinging Darkness",
+            "line": "Dooming Darkness",
+            "level": "21"
+        },
+        {
+            "name": "Blight",
+            "line": "Pandemic",
+            "level": "22"
+        },
+        {
+            "name": "Unliving Eyes",
+            "line": "Unliving Eyes",
+            "level": "23"
+        },
+        {
+            "name": "Swarm of Rats",
+            "line": "Blighted Horde",
+            "level": "23"
+        },
+        {
+            "name": "Undying Adherent",
+            "line": "Undead Knight",
+            "level": "24"
+        },
+        {
+            "name": "Fear",
+            "line": "Fear",
+            "level": "24"
+        },
+        {
+            "name": "Boon of the Lifeless",
+            "line": "Howl of the Damned",
+            "level": "25"
+        },
+        {
+            "name": "Grisly Mark",
+            "line": "Mortality Mark",
+            "level": "25"
+        },
+        {
+            "name": "Mark of the Miasmic",
+            "line": "Teachings of the Underworld",
+            "level": "26"
+        },
+        {
+            "name": "Bloody Ritual",
+            "line": "Bloody Ritual",
+            "level": "27"
+        },
+        {
+            "name": "Mend Bones",
+            "line": "Necrotic Reconstruction",
+            "level": "28"
+        },
+        {
+            "name": "Grisly Brace",
+            "line": "Grisly Protection",
+            "level": "28"
+        },
+        {
+            "name": "Necromantic Rune",
+            "line": "Necromantic Pact",
+            "level": "28"
+        },
+        {
+            "name": "Pestilential Blast",
+            "line": "Soulrot",
+            "level": "29"
+        },
+        {
+            "name": "Grasping Bones",
+            "line": "Grasping Bones",
+            "level": "30"
+        },
+        {
+            "name": "Breath of the Unearthed",
+            "line": "Bloodcloud",
+            "level": "30"
+        },
+        {
+            "name": "Withering Affliction",
+            "line": "Bloodcoil",
+            "level": "31"
+        },
+        {
+            "name": "Shadowy Stalker",
+            "line": "Nightshade",
+            "level": "32"
+        },
+        {
+            "name": "Chains of Torment",
+            "line": "Chains of Torment",
+            "level": "33"
+        },
+        {
+            "name": "Transfer Life",
+            "line": "Transfer Life",
+            "level": "33"
+        },
+        {
+            "name": "Grim Thulian",
+            "line": "Grim Sorcerer",
+            "level": "34"
+        },
+        {
+            "name": "Unholy Covenant",
+            "line": "Unholy Covenant",
+            "level": "35"
+        },
+        {
+            "name": "Draw Life",
+            "line": "Lifetap",
+            "level": "35"
+        },
+        {
+            "name": "Ghastly Stench",
+            "line": "Awaken Grave",
+            "level": "35"
+        },
+        {
+            "name": "Swarm of Bats",
+            "line": "Vampire Bats",
+            "level": "35"
+        },
+        {
+            "name": "Locust Swarm",
+            "line": "Pandemic",
+            "level": "36"
+        },
+        {
+            "name": "Decaying Darkness",
+            "line": "Dooming Darkness",
+            "level": "36"
+        },
+        {
+            "name": "Plague of Rats",
+            "line": "Blighted Horde",
+            "level": "37"
+        },
+        {
+            "name": "Rotting Thrall",
+            "line": "Undead Knight",
+            "level": "38"
+        },
+        {
+            "name": "Terrors",
+            "line": "Fear",
+            "level": "38"
+        },
+        {
+            "name": "Words of the Wicked",
+            "line": "Howl of the Damned",
+            "level": "39"
+        },
+        {
+            "name": "Horrific Mark",
+            "line": "Mortality Mark",
+            "level": "39"
+        },
+        {
+            "name": "Teachings of the Dead",
+            "line": "Teachings of the Underworld",
+            "level": "40"
+        },
+        {
+            "name": "Rending Frenzy",
+            "line": "Rending",
+            "level": "40"
+        },
+        {
+            "name": "Deathly Pallor",
+            "line": "Deathly Pallor",
+            "level": "40"
+        },
+        {
+            "name": "Devour Health",
+            "line": "Bloody Ritual",
+            "level": "41"
+        },
+        {
+            "name": "Necrotic Mending",
+            "line": "Necrotic Reconstruction",
+            "level": "42"
+        },
+        {
+            "name": "Grisly Stele",
+            "line": "Grisly Protection",
+            "level": "42"
+        },
+        {
+            "name": "Necromantic Symbol",
+            "line": "Necromantic Pact",
+            "level": "42"
+        },
+        {
+            "name": "Skinrot",
+            "line": "Soulrot",
+            "level": "43"
+        },
+        {
+            "name": "Convulse",
+            "line": "Grasping Bones",
+            "level": "44"
+        },
+        {
+            "name": "Accursed Cloud",
+            "line": "Bloodcloud",
+            "level": "44"
+        },
+        {
+            "name": "Death's Coil",
+            "line": "Bloodcoil",
+            "level": "45"
+        },
+        {
+            "name": "Shadowy Assassin",
+            "line": "Nightshade",
+            "level": "46"
+        },
+        {
+            "name": "Eternal Bindings",
+            "line": "Chains of Torment",
+            "level": "47"
+        },
+        {
+            "name": "Exchange Life",
+            "line": "Transfer Life",
+            "level": "47"
+        },
+        {
+            "name": "Grim Terror",
+            "line": "Grim Sorcerer",
+            "level": "48"
+        },
+        {
+            "name": "Revivication",
+            "line": "Revivication",
+            "level": "48"
+        },
+        {
+            "name": "Aspect of Undead",
+            "line": "Unholy Covenant",
+            "level": "49"
+        },
+        {
+            "name": "Stench of the Grave",
+            "line": "Awaken Grave",
+            "level": "49"
+        },
+        {
+            "name": "Torrential Plague",
+            "line": "Pandemic",
+            "level": "50"
+        },
+        {
+            "name": "Siphons",
+            "line": "Lifetap",
+            "level": "50"
+        },
+        {
+            "name": "Lich",
+            "line": "Lich",
+            "level": "50"
+        },
+        {
+            "name": "Dooming Darkness",
+            "line": "Dooming Darkness",
+            "level": "51"
+        },
+        {
+            "name": "Blighted Pack",
+            "line": "Blighted Horde",
+            "level": "51"
+        },
+        {
+            "name": "Diseased Servant",
+            "line": "Undead Knight",
+            "level": "52"
+        },
+        {
+            "name": "Fright",
+            "line": "Fear",
+            "level": "52"
+        },
+        {
+            "name": "Drawing of Souls",
+            "line": "Siphoning of Souls",
+            "level": "52"
+        },
+        {
+            "name": "Voice of the Departed",
+            "line": "Howl of the Damned",
+            "level": "53"
+        },
+        {
+            "name": "Abominable Mark",
+            "line": "Mortality Mark",
+            "level": "53"
+        },
+        {
+            "name": "Horde of Bats",
+            "line": "Vampire Bats",
+            "level": "53"
+        },
+        {
+            "name": "Teachings of the Shadows",
+            "line": "Teachings of the Underworld",
+            "level": "54"
+        },
+        {
+            "name": "Rending Fury",
+            "line": "Rending",
+            "level": "54"
+        },
+        {
+            "name": "Devour Vitae",
+            "line": "Bloody Ritual",
+            "level": "55"
+        },
+        {
+            "name": "Control Undeath",
+            "line": "Control Undead",
+            "level": "55"
+        },
+        {
+            "name": "Necrotic Replenishment",
+            "line": "Necrotic Reconstruction",
+            "level": "56"
+        },
+        {
+            "name": "Grisly Ward",
+            "line": "Grisly Protection",
+            "level": "56"
+        },
+        {
+            "name": "Necromantic Insignia",
+            "line": "Necromantic Pact",
+            "level": "56"
+        },
+        {
+            "name": "Death Rot",
+            "line": "Soulrot",
+            "level": "57"
+        },
+        {
+            "name": "Constrict",
+            "line": "Grasping Bones",
+            "level": "58"
+        },
+        {
+            "name": "Infernal Cloud",
+            "line": "Bloodcloud",
+            "level": "58"
+        },
+        {
+            "name": "Consumption",
+            "line": "Consumption",
+            "level": "58"
+        },
+        {
+            "name": "Deathly Coil",
+            "line": "Bloodcoil",
+            "level": "59"
+        },
+        {
+            "name": "Nightshade",
+            "line": "Nightshade",
+            "level": "60"
+        },
+        {
+            "name": "Eternal Chains",
+            "line": "Chains of Torment",
+            "level": "61"
+        },
+        {
+            "name": "Displace Life",
+            "line": "Transfer Life",
+            "level": "61"
+        },
+        {
+            "name": "Grim Heretic",
+            "line": "Grim Sorcerer",
+            "level": "62"
+        },
+        {
+            "name": "Favor of the Infernal",
+            "line": "Unholy Covenant",
+            "level": "63"
+        },
+        {
+            "name": "Awaken Grave",
+            "line": "Awaken Grave",
+            "level": "63"
+        },
+        {
+            "name": "Torrential Pestilence",
+            "line": "Pandemic",
+            "level": "64"
+        },
+        {
+            "name": "Abate Life",
+            "line": "Lifetap",
+            "level": "64"
+        },
+        {
+            "name": "Blighted Horde",
+            "line": "Blighted Horde",
+            "level": "65"
+        },
+        {
+            "name": "Undead Tide",
+            "line": "Undead Horde",
+            "level": "65"
+        },
+        {
+            "name": "Undying Dreadnought",
+            "line": "Undead Knight",
+            "level": "66"
+        },
+        {
+            "name": "Dread",
+            "line": "Fear",
+            "level": "66"
+        },
+        {
+            "name": "Howl of the Damned",
+            "line": "Howl of the Damned",
+            "level": "67"
+        },
+        {
+            "name": "Loathsome Mark",
+            "line": "Mortality Mark",
+            "level": "67"
+        },
+        {
+            "name": "Teachings of the Underworld",
+            "line": "Teachings of the Underworld",
+            "level": "68"
+        },
+        {
+            "name": "Rending Fervor",
+            "line": "Rending",
+            "level": "68"
+        },
+        {
+            "name": "Devour Essence",
+            "line": "Bloody Ritual",
+            "level": "69"
+        },
+        {
+            "name": "Necrotic Reformation",
+            "line": "Necrotic Reconstruction",
+            "level": "70"
+        },
+        {
+            "name": "Grisly Bulwark",
+            "line": "Grisly Protection",
+            "level": "70"
+        },
+        {
+            "name": "Necromantic Brand",
+            "line": "Necromantic Pact",
+            "level": "70"
+        },
+        {
+            "name": "Archlich",
+            "line": "Lich",
+            "level": "70"
+        },
+        {
+            "name": "Soulrot",
+            "line": "Soulrot",
+            "level": "71"
+        },
+        {
+            "name": "Bloodcloud",
+            "line": "Bloodcloud",
+            "level": "71"
+        },
+        {
+            "name": "Vampire Bats",
+            "line": "Vampire Bats",
+            "level": "71"
+        },
+        {
+            "name": "Bloodcoil",
+            "line": "Bloodcoil",
+            "level": "72"
+        },
+        {
+            "name": "Plot",
+            "line": "Grasping Bones",
+            "level": "72"
+        },
+        {
+            "name": "Siphoning of Souls",
+            "line": "Siphoning of Souls",
+            "level": "72"
+        },
+        {
+            "name": "Chains of Eternity",
+            "line": "Chains of Torment",
+            "level": "73"
+        },
+        {
+            "name": "Shadowblade",
+            "line": "Nightshade",
+            "level": "73"
+        },
+        {
+            "name": "Miragul's Dark Heart Summoning",
+            "line": "Miragul's Dark Heart Summoning",
+            "level": "73"
+        },
+        {
+            "name": "Filter Life",
+            "line": "Transfer Life",
+            "level": "74"
+        },
+        {
+            "name": "Control Undead",
+            "line": "Control Undead",
+            "level": "74"
+        },
+        {
+            "name": "Grave Favors",
+            "line": "Unholy Covenant",
+            "level": "75"
+        },
+        {
+            "name": "Grim Sorcerer",
+            "line": "Grim Sorcerer",
+            "level": "75"
+        },
+        {
+            "name": "Grave Disturbance",
+            "line": "Awaken Grave",
+            "level": "75"
+        },
+        {
+            "name": "Pandemic",
+            "line": "Pandemic",
+            "level": "76"
+        },
+        {
+            "name": "Drain Life",
+            "line": "Lifetap",
+            "level": "76"
+        },
+        {
+            "name": "Gluttony",
+            "line": "Consumption",
+            "level": "76"
+        },
+        {
+            "name": "Undead Knight",
+            "line": "Undead Knight",
+            "level": "77"
+        },
+        {
+            "name": "Pack of Imps",
+            "line": "Blighted Horde",
+            "level": "77"
+        },
+        {
+            "name": "Horror",
+            "line": "Fear",
+            "level": "77"
+        },
+        {
+            "name": "Howl From Beyond",
+            "line": "Howl of the Damned",
+            "level": "78"
+        },
+        {
+            "name": "Mortality Mark",
+            "line": "Mortality Mark",
+            "level": "78"
+        },
+        {
+            "name": "Rending",
+            "line": "Rending",
+            "level": "78"
+        },
+        {
+            "name": "Undead Horde",
+            "line": "Undead Horde",
+            "level": "78"
+        },
+        {
+            "name": "Teachings of the Undead",
+            "line": "Teachings of the Underworld",
+            "level": "79"
+        },
+        {
+            "name": "Devour Vigor",
+            "line": "Bloody Ritual",
+            "level": "79"
+        },
+        {
+            "name": "Necrotic Reconstruction",
+            "line": "Necrotic Reconstruction",
+            "level": "80"
+        },
+        {
+            "name": "Grisly Protection",
+            "line": "Grisly Protection",
+            "level": "80"
+        },
+        {
+            "name": "Necromantic Pact",
+            "line": "Necromantic Pact",
+            "level": "80"
+        },
+        {
+            "name": "Demilich",
+            "line": "Lich",
+            "level": "80"
+        },
+        {
+            "name": "Vampirism",
+            "line": "Vampirism",
+            "level": "80"
+        }
+    ]
+}

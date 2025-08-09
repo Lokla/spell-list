@@ -1,0 +1,297 @@
+.character-management {
+  padding: 2rem 0;
+  min-height: calc(100vh - 100px);
+}
+
+.character-management h2 {
+  color: #343a40;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.character-actions {
+  margin-bottom: 2rem;
+  text-align: center;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.primary-btn {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.primary-btn:hover {
+  opacity: 0.9;
+}
+
+.primary-btn:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.secondary-btn {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: opacity 0.3s ease;
+}
+
+.secondary-btn:hover {
+  opacity: 0.9;
+}
+
+.create-form {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.import-form {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.create-form h3 {
+  color: #495057;
+  margin: 0 0 1.5rem 0;
+  text-align: center;
+}
+
+.import-form h3 {
+  color: #495057;
+  margin: 0 0 1.5rem 0;
+  text-align: center;
+}
+
+.import-content {
+  text-align: center;
+}
+
+.file-input-container {
+  margin: 2rem 0;
+}
+
+.file-input {
+  display: none;
+}
+
+.file-input-label {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: opacity 0.3s ease;
+}
+
+.file-input-label:hover {
+  opacity: 0.9;
+}
+
+.import-notes {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  text-align: left;
+}
+
+.import-notes p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: #495057;
+  font-weight: 500;
+}
+
+.form-group input,
+.form-group select {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid #e9ecef;
+  border-radius: 6px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+.form-actions {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.character-list h3 {
+  color: #495057;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.characters-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.character-card {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  position: relative;
+}
+
+.character-card:hover {
+  transform: translateY(-2px);
+}
+
+.character-actions-icons {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  gap: 8px;
+}
+
+.icon-btn {
+  background: transparent;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.icon-btn:hover {
+  background-color: rgba(0,0,0,0.1);
+}
+
+.edit-icon:hover {
+  background-color: rgba(59, 130, 246, 0.1);
+}
+
+.apply-noquality-icon:hover {
+  background-color: rgba(34, 197, 94, 0.1);
+}
+
+.export-icon:hover {
+  background-color: rgba(168, 85, 247, 0.1);
+}
+
+.delete-icon:hover {
+  background-color: rgba(239, 68, 68, 0.1);
+}
+
+.character-info {
+  padding-right: 60px; /* Make room for action icons */
+}
+
+.character-info h4 {
+  color: #343a40;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.3rem;
+}
+
+.character-class {
+  color: #667eea;
+  font-weight: 600;
+  margin: 0 0 0.25rem 0;
+}
+
+.character-level {
+  color: #6c757d;
+  margin: 0 0 0.25rem 0;
+}
+
+.spell-count {
+  color: #6c757d;
+  margin: 0 0 1rem 0;
+  font-size: 0.9rem;
+}
+
+.character-main-actions {
+  margin-top: 12px;
+}
+
+.spell-list-btn {
+  background: #667eea;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+  width: 100%;
+}
+
+.spell-list-btn:hover {
+  background: #5a6fd8;
+}
+
+.no-characters {
+  text-align: center;
+  padding: 3rem;
+  color: #6c757d;
+  background: #f8f9fa;
+  border-radius: 12px;
+}
+
+@media (max-width: 768px) {
+  .character-management {
+    padding: 1rem 0;
+  }
+  
+  .create-form {
+    margin: 0 1rem 2rem 1rem;
+  }
+  
+  .characters-grid {
+    grid-template-columns: 1fr;
+  }
+}

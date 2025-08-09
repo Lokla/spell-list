@@ -1,0 +1,791 @@
+{
+    "class": "Illusionist",
+    "noquality": ["Magi's Shielding","Arcane Augur","Bind Sight","Cure Arcane","See Invisibility","Dispel Magic","Shrink Servant","Blink","Veil of the Unseen","Call Servant","Shift Vision","Illusory Mask","Barrier of Intellect"],
+    "spells": [
+        {
+            "name": "Phantasmal Shock",
+            "line": "Ultraviolet Beam",
+            "level": "1"
+        },
+        {
+            "name": "Sleep",
+            "line": "Entrance",
+            "level": "1"
+        },
+        {
+            "name": "Confusion",
+            "line": "Paranoia",
+            "level": "2"
+        },
+        {
+            "name": "Personae",
+            "line": "Personae Reflection",
+            "level": "2"
+        },
+        {
+            "name": "Migraine",
+            "line": "Brainburst",
+            "level": "3"
+        },
+        {
+            "name": "Magi's Shielding",
+            "line": "Magi's Shielding",
+            "level": "4"
+        },
+        {
+            "name": "Binding Light",
+            "line": "Lockdown",
+            "level": "5"
+        },
+        {
+            "name": "Arcane Augur",
+            "line": "Arcane Augur",
+            "level": "5"
+        },
+        {
+            "name": "Bind Sight",
+            "line": "Bind Sight",
+            "level": "5"
+        },
+        {
+            "name": "Phantasmal Blast",
+            "line": "Ultraviolet Beam",
+            "level": "6"
+        },
+        {
+            "name": "Cure Arcane",
+            "line": "Cure Arcane",
+            "level": "6"
+        },
+        {
+            "name": "Aspect of Thought",
+            "line": "Aspect of Genius",
+            "level": "7"
+        },
+        {
+            "name": "Storm of Colors",
+            "line": "Chromatic Storm",
+            "level": "8"
+        },
+        {
+            "name": "See Invisibility",
+            "line": "See Invisibility",
+            "level": "9"
+        },
+        {
+            "name": "Dispel Magic",
+            "line": "Dispel Magic",
+            "level": "9"
+        },
+        {
+            "name": "Personae Twin",
+            "line": "Personae Reflection",
+            "level": "10"
+        },
+        {
+            "name": "Greater Migraine",
+            "line": "Brainburst",
+            "level": "10"
+        },
+        {
+            "name": "Shrink Servant",
+            "line": "Shrink Servant",
+            "level": "10"
+        },
+        {
+            "name": "Headache",
+            "line": "Aneurysm",
+            "level": "11"
+        },
+        {
+            "name": "Phantasmal Jolt",
+            "line": "Ultraviolet Beam",
+            "level": "12"
+        },
+        {
+            "name": "Trance",
+            "line": "Entrance",
+            "level": "12"
+        },
+        {
+            "name": "Rune of Thought",
+            "line": "Rune of Thought",
+            "level": "12"
+        },
+        {
+            "name": "Paranoia",
+            "line": "Paranoia",
+            "level": "13"
+        },
+        {
+            "name": "Tap Mind",
+            "line": "Extract Mana",
+            "level": "13"
+        },
+        {
+            "name": "Sadness",
+            "line": "Nightmare",
+            "level": "14"
+        },
+        {
+            "name": "Blink",
+            "line": "Blink",
+            "level": "15"
+        },
+        {
+            "name": "Veil of the Unseen",
+            "line": "Veil of the Unseen",
+            "level": "15"
+        },
+        {
+            "name": "Call Servant",
+            "line": "Call Servant",
+            "level": "15"
+        },
+        {
+            "name": "Bewilderment",
+            "line": "Bewilderment",
+            "level": "16"
+        },
+        {
+            "name": "Overwhelming Silence",
+            "line": "Speechless",
+            "level": "16"
+        },
+        {
+            "name": "Lobotomy",
+            "line": "Brainburst",
+            "level": "17"
+        },
+        {
+            "name": "Scintillation",
+            "line": "Epiphany",
+            "level": "18"
+        },
+        {
+            "name": "Locking Light",
+            "line": "Lockdown",
+            "level": "19"
+        },
+        {
+            "name": "Phantasmal Ray",
+            "line": "Ultraviolet Beam",
+            "level": "20"
+        },
+        {
+            "name": "Personae Split",
+            "line": "Personae Reflection",
+            "level": "20"
+        },
+        {
+            "name": "Disappointment",
+            "line": "Dismay",
+            "level": "20"
+        },
+        {
+            "name": "Alacrity",
+            "line": "Rapidity",
+            "level": "20"
+        },
+        {
+            "name": "Blessing of the Prism",
+            "line": "Aspect of Genius",
+            "level": "21"
+        },
+        {
+            "name": "Chromatic Storm",
+            "line": "Chromatic Storm",
+            "level": "22"
+        },
+        {
+            "name": "Shift Vision",
+            "line": "Shift Vision",
+            "level": "23"
+        },
+        {
+            "name": "Phantasmal Splendor",
+            "line": "Phantasmal Awe",
+            "level": "23"
+        },
+        {
+            "name": "Entrance",
+            "line": "Entrance",
+            "level": "24"
+        },
+        {
+            "name": "Illusory Mask",
+            "line": "Illusory Mask",
+            "level": "24"
+        },
+        {
+            "name": "Psychic Assailant",
+            "line": "Aneurysm",
+            "level": "25"
+        },
+        {
+            "name": "Fleeting Thoughts",
+            "line": "Flash of Brilliance",
+            "level": "25"
+        },
+        {
+            "name": "Rune of Understanding",
+            "line": "Rune of Thought",
+            "level": "26"
+        },
+        {
+            "name": "Uncertainty",
+            "line": "Paranoia",
+            "level": "27"
+        },
+        {
+            "name": "Excruciating Reverie",
+            "line": "Extract Mana",
+            "level": "27"
+        },
+        {
+            "name": "Nightmare",
+            "line": "Nightmare",
+            "level": "28"
+        },
+        {
+            "name": "Prismatic Discord",
+            "line": "Prismatic Chaos",
+            "level": "28"
+        },
+        {
+            "name": "Phantasmal Charge",
+            "line": "Ultraviolet Beam",
+            "level": "29"
+        },
+        {
+            "name": "Bewildering Cascade",
+            "line": "Bewilderment",
+            "level": "30"
+        },
+        {
+            "name": "Speechless",
+            "line": "Speechless",
+            "level": "30"
+        },
+        {
+            "name": "Tormenting Visions",
+            "line": "Brainburst",
+            "level": "31"
+        },
+        {
+            "name": "Construct of Order",
+            "line": "Construct of Order",
+            "level": "32"
+        },
+        {
+            "name": "Personae Shift",
+            "line": "Personae Reflection",
+            "level": "33"
+        },
+        {
+            "name": "Lock Mind",
+            "line": "Lockdown",
+            "level": "33"
+        },
+        {
+            "name": "Scintillating Aura",
+            "line": "Epiphany",
+            "level": "33"
+        },
+        {
+            "name": "Celerity",
+            "line": "Rapidity",
+            "level": "34"
+        },
+        {
+            "name": "Mental Bulwark",
+            "line": "Aspect of Genius",
+            "level": "35"
+        },
+        {
+            "name": "Misfortune",
+            "line": "Dismay",
+            "level": "35"
+        },
+        {
+            "name": "Mana Cloak",
+            "line": "Mana Cloak",
+            "level": "35"
+        },
+        {
+            "name": "Intensity",
+            "line": "Synergism",
+            "level": "35"
+        },
+        {
+            "name": "Cerebral Tempest",
+            "line": "Chromatic Storm",
+            "level": "36"
+        },
+        {
+            "name": "Phantasmal Grandeur",
+            "line": "Phantasmal Awe",
+            "level": "37"
+        },
+        {
+            "name": "Capture Mind",
+            "line": "Entrance",
+            "level": "38"
+        },
+        {
+            "name": "Aneurysm",
+            "line": "Aneurysm",
+            "level": "39"
+        },
+        {
+            "name": "Fleeting Sentiment",
+            "line": "Flash of Brilliance",
+            "level": "39"
+        },
+        {
+            "name": "Seal of Comprehension",
+            "line": "Rune of Thought",
+            "level": "40"
+        },
+        {
+            "name": "Convincing Regalia",
+            "line": "Regalia",
+            "level": "40"
+        },
+        {
+            "name": "Barrier of Intellect",
+            "line": "Barrier of Intellect",
+            "level": "40"
+        },
+        {
+            "name": "Drain Will",
+            "line": "Paranoia",
+            "level": "41"
+        },
+        {
+            "name": "Siphon Self",
+            "line": "Extract Mana",
+            "level": "41"
+        },
+        {
+            "name": "Wither Hope",
+            "line": "Nightmare",
+            "level": "42"
+        },
+        {
+            "name": "Prismatic Strife",
+            "line": "Prismatic Chaos",
+            "level": "42"
+        },
+        {
+            "name": "Scorching Beam",
+            "line": "Ultraviolet Beam",
+            "level": "43"
+        },
+        {
+            "name": "Stunning Array",
+            "line": "Bewilderment",
+            "level": "44"
+        },
+        {
+            "name": "Mind Drain",
+            "line": "Speechless",
+            "level": "44"
+        },
+        {
+            "name": "Lobotomize",
+            "line": "Brainburst",
+            "level": "45"
+        },
+        {
+            "name": "Construct of Logic",
+            "line": "Construct of Order",
+            "level": "46"
+        },
+        {
+            "name": "Personae Duplicate",
+            "line": "Personae Reflection",
+            "level": "47"
+        },
+        {
+            "name": "Terrifying Vision",
+            "line": "Lockdown",
+            "level": "47"
+        },
+        {
+            "name": "Insight",
+            "line": "Epiphany",
+            "level": "47"
+        },
+        {
+            "name": "Legerity",
+            "line": "Rapidity",
+            "level": "48"
+        },
+        {
+            "name": "Devitalizing Stare",
+            "line": "Manatap",
+            "level": "48"
+        },
+        {
+            "name": "Aspect of Mind",
+            "line": "Aspect of Genius",
+            "level": "49"
+        },
+        {
+            "name": "Dynamism",
+            "line": "Synergism",
+            "level": "49"
+        },
+        {
+            "name": "Psychotic Spectrum",
+            "line": "Chromatic Storm",
+            "level": "50"
+        },
+        {
+            "name": "Dismay",
+            "line": "Dismay",
+            "level": "50"
+        },
+        {
+            "name": "Color Shower",
+            "line": "Chromatic Shower",
+            "level": "50"
+        },
+        {
+            "name": "Phantasmal Brilliance",
+            "line": "Phantasmal Awe",
+            "level": "51"
+        },
+        {
+            "name": "Abduct Mind",
+            "line": "Entrance",
+            "level": "52"
+        },
+        {
+            "name": "Savante",
+            "line": "Savante",
+            "level": "52"
+        },
+        {
+            "name": "Embolism",
+            "line": "Aneurysm",
+            "level": "53"
+        },
+        {
+            "name": "Transient Sentiment",
+            "line": "Flash of Brilliance",
+            "level": "53"
+        },
+        {
+            "name": "Mana Cover",
+            "line": "Mana Cloak",
+            "level": "53"
+        },
+        {
+            "name": "Seal of Ingenuity",
+            "line": "Rune of Thought",
+            "level": "54"
+        },
+        {
+            "name": "Brilliant Regalia",
+            "line": "Regalia",
+            "level": "54"
+        },
+        {
+            "name": "Sap Will",
+            "line": "Paranoia",
+            "level": "55"
+        },
+        {
+            "name": "Essence Siphon",
+            "line": "Extract Mana",
+            "level": "55"
+        },
+        {
+            "name": "Illusory Allies",
+            "line": "Illusory Allies",
+            "level": "55"
+        },
+        {
+            "name": "Devour Hope",
+            "line": "Nightmare",
+            "level": "56"
+        },
+        {
+            "name": "Prismatic Chaos",
+            "line": "Prismatic Chaos",
+            "level": "56"
+        },
+        {
+            "name": "Shimmering Beam",
+            "line": "Ultraviolet Beam",
+            "level": "57"
+        },
+        {
+            "name": "Dazzling Array",
+            "line": "Bewilderment",
+            "level": "58"
+        },
+        {
+            "name": "Drain Thought",
+            "line": "Speechless",
+            "level": "58"
+        },
+        {
+            "name": "Spellshield",
+            "line": "Spellshield",
+            "level": "58"
+        },
+        {
+            "name": "Brainburst",
+            "line": "Brainburst",
+            "level": "59"
+        },
+        {
+            "name": "Construct of Reason",
+            "line": "Construct of Order",
+            "level": "60"
+        },
+        {
+            "name": "Personae Mirror",
+            "line": "Personae Reflection",
+            "level": "61"
+        },
+        {
+            "name": "Lockdown",
+            "line": "Lockdown",
+            "level": "61"
+        },
+        {
+            "name": "Epiphany",
+            "line": "Epiphany",
+            "level": "61"
+        },
+        {
+            "name": "Rapidity",
+            "line": "Rapidity",
+            "level": "62"
+        },
+        {
+            "name": "Devitalizing Gazes",
+            "line": "Manatap",
+            "level": "62"
+        },
+        {
+            "name": "Aspect of Lucidity",
+            "line": "Aspect of Genius",
+            "level": "63"
+        },
+        {
+            "name": "Synergism",
+            "line": "Synergism",
+            "level": "63"
+        },
+        {
+            "name": "Ultraviolet Storm",
+            "line": "Chromatic Storm",
+            "level": "64"
+        },
+        {
+            "name": "Tribulation",
+            "line": "Dismay",
+            "level": "64"
+        },
+        {
+            "name": "Phantasmal Resplendance",
+            "line": "Phantasmal Awe",
+            "level": "65"
+        },
+        {
+            "name": "Phase",
+            "line": "Phase",
+            "level": "65"
+        },
+        {
+            "name": "Empty Mind",
+            "line": "Entrance",
+            "level": "66"
+        },
+        {
+            "name": "Tumor",
+            "line": "Aneurysm",
+            "level": "67"
+        },
+        {
+            "name": "Momentary Sentiment",
+            "line": "Flash of Brilliance",
+            "level": "67"
+        },
+        {
+            "name": "Seal of Ascention",
+            "line": "Rune of Thought",
+            "level": "68"
+        },
+        {
+            "name": "Lustrous Regalia",
+            "line": "Regalia",
+            "level": "68"
+        },
+        {
+            "name": "Forsake Will",
+            "line": "Paranoia",
+            "level": "69"
+        },
+        {
+            "name": "Extract Essence",
+            "line": "Extract Mana",
+            "level": "69"
+        },
+        {
+            "name": "Abolish Hope",
+            "line": "Nightmare",
+            "level": "70"
+        },
+        {
+            "name": "Pristmatic Havoc",
+            "line": "Prismatic Chaos",
+            "level": "70"
+        },
+        {
+            "name": "Solar Shower",
+            "line": "Chromatic Shower",
+            "level": "70"
+        },
+        {
+            "name": "Ultraviolet Beam",
+            "line": "Ultraviolet Beam",
+            "level": "71"
+        },
+        {
+            "name": "Bedazzlement",
+            "line": "Bewilderment",
+            "level": "71"
+        },
+        {
+            "name": "Mana Shroud",
+            "line": "Mana Cloak",
+            "level": "71"
+        },
+        {
+            "name": "Brainclot",
+            "line": "Brainburst",
+            "level": "72"
+        },
+        {
+            "name": "Drain Consciousness",
+            "line": "Speechless",
+            "level": "72"
+        },
+        {
+            "name": "Inhibition",
+            "line": "Lockdown",
+            "level": "73"
+        },
+        {
+            "name": "Percolate",
+            "line": "Epiphany",
+            "level": "73"
+        },
+        {
+            "name": "Construct of Rationality",
+            "line": "Construct of Order",
+            "level": "73"
+        },
+        {
+            "name": "Personae Reflection",
+            "line": "Personae Reflection",
+            "level": "74"
+        },
+        {
+            "name": "Manatap",
+            "line": "Manatap",
+            "level": "74"
+        },
+        {
+            "name": "Illusory Group",
+            "line": "Illusory Allies",
+            "level": "74"
+        },
+        {
+            "name": "Aspect of Genius",
+            "line": "Aspect of Genius",
+            "level": "75"
+        },
+        {
+            "name": "Tandem",
+            "line": "Synergism",
+            "level": "75"
+        },
+        {
+            "name": "Gamma Storm",
+            "line": "Chromatic Storm",
+            "level": "76"
+        },
+        {
+            "name": "Daunted",
+            "line": "Dismay",
+            "level": "76"
+        },
+        {
+            "name": "Mindless",
+            "line": "Entrance",
+            "level": "77"
+        },
+        {
+            "name": "Phantasmal Awe",
+            "line": "Phantasmal Awe",
+            "level": "77"
+        },
+        {
+            "name": "Lesion",
+            "line": "Aneurysm",
+            "level": "78"
+        },
+        {
+            "name": "Flash of Brilliance",
+            "line": "Flash of Brilliance",
+            "level": "78"
+        },
+        {
+            "name": "Regalia",
+            "line": "Regalia",
+            "level": "78"
+        },
+        {
+            "name": "Withdrawl",
+            "line": "Paranoia",
+            "level": "79"
+        },
+        {
+            "name": "Seal of Invention",
+            "line": "Rune of Thought",
+            "level": "79"
+        },
+        {
+            "name": "Extract Mana",
+            "line": "Extract Mana",
+            "level": "79"
+        },
+        {
+            "name": "Pessimism",
+            "line": "Nightmare",
+            "level": "80"
+        },
+        {
+            "name": "Prismatic Adornment",
+            "line": "Prismatic Chaos",
+            "level": "80"
+        },
+        {
+            "name": "Chromatic Shower",
+            "line": "Chromatic Shower",
+            "level": "80"
+        },
+        {
+            "name": "Doppleganger",
+            "line": "Doppleganger",
+            "level": "80"
+        }
+    ]
+}

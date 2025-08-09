@@ -1,0 +1,780 @@
+{
+    "class": "Swashbuckler",
+    "spells": [
+        {
+            "name": "Sneak",
+            "line": "Sneak",
+            "level": "1"
+        },
+        {
+            "name": "Tracking",
+            "line": "Tracking",
+            "level": "1"
+        },
+        {
+            "name": "Swipe",
+            "line": "Flash of Steel",
+            "level": "1"
+        },
+        {
+            "name": "Pincer",
+            "line": "Shanghai",
+            "level": "2"
+        },
+        {
+            "name": "Spine Attack",
+            "line": "Viscerate",
+            "level": "2"
+        },
+        {
+            "name": "Circle Attack",
+            "line": "Lucky Gambit",
+            "level": "3"
+        },
+        {
+            "name": "Pathfinding",
+            "line": "Pathfinding",
+            "level": "4"
+        },
+        {
+            "name": "Cheap Shot",
+            "line": "Cheap Shot",
+            "level": "4"
+        },
+        {
+            "name": "Lucky Break",
+            "line": "Lucky Break",
+            "level": "5"
+        },
+        {
+            "name": "Slice",
+            "line": "Kidney Stab",
+            "level": "5"
+        },
+        {
+            "name": "Evade",
+            "line": "Evade",
+            "level": "6"
+        },
+        {
+            "name": "Hold",
+            "line": "Hangman's Noose",
+            "level": "7"
+        },
+        {
+            "name": "Steel Swipe",
+            "line": "Flash of Steel",
+            "level": "8"
+        },
+        {
+            "name": "Dirty Tricks",
+            "line": "Double-Cross",
+            "level": "8"
+        },
+        {
+            "name": "Route",
+            "line": "Shanghai",
+            "level": "9"
+        },
+        {
+            "name": "Viscerate",
+            "line": "Viscerate",
+            "level": "10"
+        },
+        {
+            "name": "Smuggle",
+            "line": "Smuggle",
+            "level": "11"
+        },
+        {
+            "name": "Quick Flurry",
+            "line": "Snap of the Wrist",
+            "level": "12"
+        },
+        {
+            "name": "Rash Advance",
+            "line": "Daring Advance",
+            "level": "13"
+        },
+        {
+            "name": "Flight of Foot",
+            "line": "Bladeweaver",
+            "level": "13"
+        },
+        {
+            "name": "Circle Blade",
+            "line": "Lucky Gambit",
+            "level": "14"
+        },
+        {
+            "name": "Edged Swipe",
+            "line": "Flash of Steel",
+            "level": "15"
+        },
+        {
+            "name": "Poke",
+            "line": "Razor Edge",
+            "level": "15"
+        },
+        {
+            "name": "Cold Throw",
+            "line": "Arctic Blast",
+            "level": "16"
+        },
+        {
+            "name": "Avoid Notice",
+            "line": "Avoid Blame",
+            "level": "17"
+        },
+        {
+            "name": "Divert",
+            "line": "Evade",
+            "level": "18"
+        },
+        {
+            "name": "Fancy Footwork",
+            "line": "Fancy Footwork",
+            "level": "18"
+        },
+        {
+            "name": "Gut Slice",
+            "line": "Kidney Stab",
+            "level": "19"
+        },
+        {
+            "name": "Stay Low",
+            "line": "Shadow Slip",
+            "level": "19"
+        },
+        {
+            "name": "Flamboyant Swathe",
+            "line": "Dashing Swathe",
+            "level": "20"
+        },
+        {
+            "name": "Swarthy Distraction",
+            "line": "Swarthy Deception",
+            "level": "20"
+        },
+        {
+            "name": "Shanghai",
+            "line": "Shanghai",
+            "level": "21"
+        },
+        {
+            "name": "Flashy Trick",
+            "line": "Double-Cross",
+            "level": "22"
+        },
+        {
+            "name": "Undercut",
+            "line": "Hamstring",
+            "level": "22"
+        },
+        {
+            "name": "Neutralize",
+            "line": "Hangman's Noose",
+            "level": "23"
+        },
+        {
+            "name": "Unfriendly Reminder",
+            "line": "Viscerate",
+            "level": "24"
+        },
+        {
+            "name": "Gibe",
+            "line": "Tease",
+            "level": "24"
+        },
+        {
+            "name": "Escape",
+            "line": "Escape",
+            "level": "25"
+        },
+        {
+            "name": "Snap of The Wrist",
+            "line": "Snap of the Wrist",
+            "level": "26"
+        },
+        {
+            "name": "Disarming Grin",
+            "line": "Disarming Grin",
+            "level": "26"
+        },
+        {
+            "name": "Risky Advance",
+            "line": "Daring Advance",
+            "level": "27"
+        },
+        {
+            "name": "Flight of Fancy",
+            "line": "Bladeweaver",
+            "level": "27"
+        },
+        {
+            "name": "Deft Rush",
+            "line": "Lucky Gambit",
+            "level": "28"
+        },
+        {
+            "name": "Flurry of Arms",
+            "line": "Flurry of Blades",
+            "level": "28"
+        },
+        {
+            "name": "Playful Swipe",
+            "line": "Flash of Steel",
+            "level": "29"
+        },
+        {
+            "name": "Nimble Cut",
+            "line": "Razor Edge",
+            "level": "29"
+        },
+        {
+            "name": "Watery Shot",
+            "line": "Arctic Blast",
+            "level": "30"
+        },
+        {
+            "name": "False Blade",
+            "line": "Devious Blade",
+            "level": "30"
+        },
+        {
+            "name": "Avoid Attention",
+            "line": "Avoid Blame",
+            "level": "31"
+        },
+        {
+            "name": "Slip",
+            "line": "Evade",
+            "level": "32"
+        },
+        {
+            "name": "Smirking Defense",
+            "line": "Fancy Footwork",
+            "level": "32"
+        },
+        {
+            "name": "Feigned Bravado",
+            "line": "Spurious Bravado",
+            "level": "32"
+        },
+        {
+            "name": "Kidney Blow",
+            "line": "Kidney Stab",
+            "level": "33"
+        },
+        {
+            "name": "Lie Low",
+            "line": "Shadow Slip",
+            "level": "33"
+        },
+        {
+            "name": "Rakish Swathe",
+            "line": "Dashing Swathe",
+            "level": "34"
+        },
+        {
+            "name": "Swarthy Deception",
+            "line": "Swarthy Deception",
+            "level": "34"
+        },
+        {
+            "name": "Ambuscade",
+            "line": "Shanghai",
+            "level": "35"
+        },
+        {
+            "name": "Ruthless Cunning",
+            "line": "Ruthless Cunning",
+            "level": "35"
+        },
+        {
+            "name": "Tricky Display",
+            "line": "Double-Cross",
+            "level": "36"
+        },
+        {
+            "name": "Hamstring",
+            "line": "Hamstring",
+            "level": "36"
+        },
+        {
+            "name": "Checkmate",
+            "line": "Hangman's Noose",
+            "level": "37"
+        },
+        {
+            "name": "Cat's Paw",
+            "line": "Viscerate",
+            "level": "38"
+        },
+        {
+            "name": "Reproach",
+            "line": "Tease",
+            "level": "38"
+        },
+        {
+            "name": "Artful Finesse",
+            "line": "Perfect Finesse",
+            "level": "39"
+        },
+        {
+            "name": "Uncanny Speed",
+            "line": "Snap of the Wrist",
+            "level": "40"
+        },
+        {
+            "name": "Disarming Smirk",
+            "line": "Disarming Grin",
+            "level": "40"
+        },
+        {
+            "name": "Daring Advance",
+            "line": "Daring Advance",
+            "level": "41"
+        },
+        {
+            "name": "Bladeweaver",
+            "line": "Bladeweaver",
+            "level": "41"
+        },
+        {
+            "name": "Lucky Gambit",
+            "line": "Lucky Gambit",
+            "level": "42"
+        },
+        {
+            "name": "Flurry of Blades",
+            "line": "Flurry of Blades",
+            "level": "42"
+        },
+        {
+            "name": "Flash of Steel",
+            "line": "Flash of Steel",
+            "level": "43"
+        },
+        {
+            "name": "Razor Edge",
+            "line": "Razor Edge",
+            "level": "43"
+        },
+        {
+            "name": "Frigid Blast",
+            "line": "Arctic Blast",
+            "level": "44"
+        },
+        {
+            "name": "Treacherous Blade",
+            "line": "Devious Blade",
+            "level": "44"
+        },
+        {
+            "name": "Flamboyant Strike",
+            "line": "Flamboyant Strike",
+            "level": "44"
+        },
+        {
+            "name": "Avoid Blame",
+            "line": "Avoid Blame",
+            "level": "45"
+        },
+        {
+            "name": "Evasion",
+            "line": "Evade",
+            "level": "46"
+        },
+        {
+            "name": "Dexterous Slashing",
+            "line": "Fancy Footwork",
+            "level": "46"
+        },
+        {
+            "name": "False Bravado",
+            "line": "Spurious Bravado",
+            "level": "46"
+        },
+        {
+            "name": "Disheartening Guile",
+            "line": "Kidney Stab",
+            "level": "47"
+        },
+        {
+            "name": "Shadow Slip",
+            "line": "Shadow Slip",
+            "level": "47"
+        },
+        {
+            "name": "Brilliant Swathe",
+            "line": "Dashing Swathe",
+            "level": "48"
+        },
+        {
+            "name": "Swarthy Diversion",
+            "line": "Swarthy Deception",
+            "level": "48"
+        },
+        {
+            "name": "Brazen Thrust",
+            "line": "Shanghai",
+            "level": "49"
+        },
+        {
+            "name": "Deriding Chicanery",
+            "line": "Double-Cross",
+            "level": "50"
+        },
+        {
+            "name": "Disable",
+            "line": "Hamstring",
+            "level": "50"
+        },
+        {
+            "name": "Inspired Daring",
+            "line": "Inspired Daring",
+            "level": "50"
+        },
+        {
+            "name": "Hangman's Noose",
+            "line": "Hangman's Noose",
+            "level": "51"
+        },
+        {
+            "name": "Mark's Remorse",
+            "line": "Viscerate",
+            "level": "52"
+        },
+        {
+            "name": "Admonish",
+            "line": "Tease",
+            "level": "52"
+        },
+        {
+            "name": "Hurricane",
+            "line": "Hurricane",
+            "level": "52"
+        },
+        {
+            "name": "Ingenious Finesse",
+            "line": "Perfect Finesse",
+            "level": "53"
+        },
+        {
+            "name": "Uncanny Reflexes",
+            "line": "Snap of the Wrist",
+            "level": "54"
+        },
+        {
+            "name": "Disarming Leer",
+            "line": "Disarming Grin",
+            "level": "54"
+        },
+        {
+            "name": "Audacious Advance",
+            "line": "Daring Advance",
+            "level": "55"
+        },
+        {
+            "name": "Battleweaver",
+            "line": "Bladeweaver",
+            "level": "55"
+        },
+        {
+            "name": "Hail of Steel",
+            "line": "Storm of Steel",
+            "level": "55"
+        },
+        {
+            "name": "Lucky Ruse",
+            "line": "Lucky Gambit",
+            "level": "56"
+        },
+        {
+            "name": "Fury of Blades",
+            "line": "Flurry of Blades",
+            "level": "56"
+        },
+        {
+            "name": "Dazzling Steel",
+            "line": "Flash of Steel",
+            "level": "57"
+        },
+        {
+            "name": "Razor Point",
+            "line": "Razor Edge",
+            "level": "57"
+        },
+        {
+            "name": "Arctic Blast",
+            "line": "Arctic Blast",
+            "level": "58"
+        },
+        {
+            "name": "Devious Blade",
+            "line": "Devious Blade",
+            "level": "58"
+        },
+        {
+            "name": "Gaudy Strike",
+            "line": "Flamboyant Strike",
+            "level": "58"
+        },
+        {
+            "name": "Lung Puncture",
+            "line": "Lung Puncture",
+            "level": "58"
+        },
+        {
+            "name": "Avoid Censure",
+            "line": "Avoid Blame",
+            "level": "59"
+        },
+        {
+            "name": "Elude",
+            "line": "Evade",
+            "level": "60"
+        },
+        {
+            "name": "Agile Slashing",
+            "line": "Fancy Footwork",
+            "level": "60"
+        },
+        {
+            "name": "Spurious Bravado",
+            "line": "Spurious Bravado",
+            "level": "60"
+        },
+        {
+            "name": "Guile",
+            "line": "Kidney Stab",
+            "level": "61"
+        },
+        {
+            "name": "Hideaway",
+            "line": "Shadow Slip",
+            "level": "61"
+        },
+        {
+            "name": "Dashing Swathe",
+            "line": "Dashing Swathe",
+            "level": "62"
+        },
+        {
+            "name": "Swarthy Disorder",
+            "line": "Swarthy Deception",
+            "level": "62"
+        },
+        {
+            "name": "Brazening",
+            "line": "Shanghai",
+            "level": "63"
+        },
+        {
+            "name": "Double-cross",
+            "line": "Double-Cross",
+            "level": "64"
+        },
+        {
+            "name": "Impair",
+            "line": "Hamstring",
+            "level": "64"
+        },
+        {
+            "name": "Constrain",
+            "line": "Hangman's Noose",
+            "level": "65"
+        },
+        {
+            "name": "En Garde",
+            "line": "En Garde",
+            "level": "65"
+        },
+        {
+            "name": "Plunder",
+            "line": "Viscerate",
+            "level": "66"
+        },
+        {
+            "name": "Berate",
+            "line": "Tease",
+            "level": "66"
+        },
+        {
+            "name": "Perfect Finesse",
+            "line": "Perfect Finesse",
+            "level": "67"
+        },
+        {
+            "name": "Uncanny Response",
+            "line": "Snap of the Wrist",
+            "level": "68"
+        },
+        {
+            "name": "Disarming Sneer",
+            "line": "Disarming Grin",
+            "level": "68"
+        },
+        {
+            "name": "Dauntless Advance",
+            "line": "Daring Advance",
+            "level": "69"
+        },
+        {
+            "name": "Steelweaver",
+            "line": "Bladeweaver",
+            "level": "69"
+        },
+        {
+            "name": "Lucky Ploy",
+            "line": "Lucky Gambit",
+            "level": "70"
+        },
+        {
+            "name": "Whirl of Blades",
+            "line": "Flurry of Blades",
+            "level": "70"
+        },
+        {
+            "name": "Inspiration",
+            "line": "Inspired Daring",
+            "level": "70"
+        },
+        {
+            "name": "Bedazzling Steel",
+            "line": "Flash of Steel",
+            "level": "71"
+        },
+        {
+            "name": "Eye Point",
+            "line": "Razor Edge",
+            "level": "71"
+        },
+        {
+            "name": "Velium Throw",
+            "line": "Arctic Blast",
+            "level": "71"
+        },
+        {
+            "name": "Avoid",
+            "line": "Avoid Blame",
+            "level": "72"
+        },
+        {
+            "name": "Blame Blade",
+            "line": "Devious Blade",
+            "level": "72"
+        },
+        {
+            "name": "Flashy Strike",
+            "line": "Flamboyant Strike",
+            "level": "72"
+        },
+        {
+            "name": "Baffle",
+            "line": "Evade",
+            "level": "73"
+        },
+        {
+            "name": "Dexterous Stance",
+            "line": "Fancy Footwork",
+            "level": "73"
+        },
+        {
+            "name": "Kidney Stab",
+            "line": "Kidney Stab",
+            "level": "74"
+        },
+        {
+            "name": "Swathe",
+            "line": "Dashing Swathe",
+            "level": "74"
+        },
+        {
+            "name": "Storm of Steel",
+            "line": "Storm of Steel",
+            "level": "74"
+        },
+        {
+            "name": "Stealthy Charge",
+            "line": "Shanghai",
+            "level": "75"
+        },
+        {
+            "name": "Trickery",
+            "line": "Double-Cross",
+            "level": "75"
+        },
+        {
+            "name": "Heel Cut",
+            "line": "Hamstring",
+            "level": "75"
+        },
+        {
+            "name": "Bound",
+            "line": "Hangman's Noose",
+            "level": "76"
+        },
+        {
+            "name": "Lung Bleed",
+            "line": "Lung Puncture",
+            "level": "76"
+        },
+        {
+            "name": "Sack",
+            "line": "Viscerate",
+            "level": "77"
+        },
+        {
+            "name": "Tease",
+            "line": "Tease",
+            "level": "77"
+        },
+        {
+            "name": "Uncanny Thrusts",
+            "line": "Snap of the Wrist",
+            "level": "78"
+        },
+        {
+            "name": "Disarm",
+            "line": "Disarming Grin",
+            "level": "78"
+        },
+        {
+            "name": "On Guard",
+            "line": "En Garde",
+            "level": "78"
+        },
+        {
+            "name": "Adventurous Advance",
+            "line": "Daring Advance",
+            "level": "79"
+        },
+        {
+            "name": "Weaver",
+            "line": "Bladeweaver",
+            "level": "79"
+        },
+        {
+            "name": "Lucky Whirl",
+            "line": "Lucky Gambit",
+            "level": "80"
+        },
+        {
+            "name": "Triple Blades",
+            "line": "Flurry of Blades",
+            "level": "80"
+        },
+        {
+            "name": "Insight",
+            "line": "Inspired Daring",
+            "level": "80"
+        },
+        {
+            "name": "Sleight of Hand",
+            "line": "Sleight of Hand",
+            "level": "80"
+        }
+    ]
+}

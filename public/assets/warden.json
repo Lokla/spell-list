@@ -1,0 +1,800 @@
+{
+    "class": "Warden",
+    "spells": [
+        {
+            "name": "Minor Bloom",
+            "line": "Sylvan Bloom",
+            "level": "1"
+        },
+        {
+            "name": "Fire",
+            "line": "Dawnstrike",
+            "level": "1"
+        },
+        {
+            "name": "Barbs",
+            "line": "Thorncoat",
+            "level": "2"
+        },
+        {
+            "name": "Cold",
+            "line": "Icefall",
+            "level": "3"
+        },
+        {
+            "name": "Minor Florescense",
+            "line": "Nature's Embrace",
+            "level": "3"
+        },
+        {
+            "name": "Minor Vigor",
+            "line": "Aspect of the Forest",
+            "level": "4"
+        },
+        {
+            "name": "Divine Providence",
+            "line": "Divine Providence",
+            "level": "5"
+        },
+        {
+            "name": "Protection of the Willow",
+            "line": "Armor of Seasons",
+            "level": "5"
+        },
+        {
+            "name": "Summon Food and Water",
+            "line": "Summon Food and Water",
+            "level": "6"
+        },
+        {
+            "name": "Cure",
+            "line": "Cure",
+            "level": "6"
+        },
+        {
+            "name": "Bloom",
+            "line": "Sylvan Bloom",
+            "level": "7"
+        },
+        {
+            "name": "Root",
+            "line": "Root",
+            "level": "7"
+        },
+        {
+            "name": "Revive",
+            "line": "Revive",
+            "level": "8"
+        },
+        {
+            "name": "Greater Fire",
+            "line": "Dawnstrike",
+            "level": "9"
+        },
+        {
+            "name": "Enduring Breath",
+            "line": "Enduring Breath",
+            "level": "9"
+        },
+        {
+            "name": "Nettlecoat",
+            "line": "Thorncoat",
+            "level": "10"
+        },
+        {
+            "name": "Florescense",
+            "line": "Nature's Embrace",
+            "level": "10"
+        },
+        {
+            "name": "Snare",
+            "line": "Snare",
+            "level": "10"
+        },
+        {
+            "name": "Chill",
+            "line": "Icefall",
+            "level": "11"
+        },
+        {
+            "name": "Favor of the Phoenix",
+            "line": "Favor of the Phoenix",
+            "level": "11"
+        },
+        {
+            "name": "Regrowth",
+            "line": "Photosynthesis",
+            "level": "12"
+        },
+        {
+            "name": "Spirit of the Wolf",
+            "line": "Spirit of the Wolf",
+            "level": "13"
+        },
+        {
+            "name": "Willow",
+            "line": "Willow Wisp",
+            "level": "13"
+        },
+        {
+            "name": "Winds of Renewal",
+            "line": "Healstorm",
+            "level": "14"
+        },
+        {
+            "name": "Sylvan Wind",
+            "line": "Winds of Healing",
+            "level": "14"
+        },
+        {
+            "name": "Greater Bloom",
+            "line": "Sylvan Bloom",
+            "level": "15"
+        },
+        {
+            "name": "Sylvan Touch",
+            "line": "Sylvan Touch",
+            "level": "15"
+        },
+        {
+            "name": "Vigor",
+            "line": "Aspect of the Forest",
+            "level": "16"
+        },
+        {
+            "name": "Verdure",
+            "line": "Essence of the Great Bear",
+            "level": "16"
+        },
+        {
+            "name": "Flame",
+            "line": "Dawnstrike",
+            "level": "17"
+        },
+        {
+            "name": "Effloresce",
+            "line": "Nature's Embrace",
+            "level": "18"
+        },
+        {
+            "name": "Favor of the Wild",
+            "line": "Favor of the Wild",
+            "level": "18"
+        },
+        {
+            "name": "Willowskin",
+            "line": "Armor of Seasons",
+            "level": "19"
+        },
+        {
+            "name": "Greater Regrowth",
+            "line": "Photosynthesis",
+            "level": "19"
+        },
+        {
+            "name": "Protector of the Forest",
+            "line": "Warden of the Forest",
+            "level": "20"
+        },
+        {
+            "name": "Ensnaring Roots",
+            "line": "Root",
+            "level": "21"
+        },
+        {
+            "name": "Natures Healing",
+            "line": "Sylvan Bloom",
+            "level": "22"
+        },
+        {
+            "name": "Nature's Touch",
+            "line": "Nature's Touch",
+            "level": "22"
+        },
+        {
+            "name": "Nereid's Boon",
+            "line": "Nereid's Boon",
+            "level": "23"
+        },
+        {
+            "name": "Cold Snap",
+            "line": "Frostbite",
+            "level": "23"
+        },
+        {
+            "name": "Barbcoat",
+            "line": "Thorncoat",
+            "level": "24"
+        },
+        {
+            "name": "Frost",
+            "line": "Icefall",
+            "level": "25"
+        },
+        {
+            "name": "Blessing of the Grove",
+            "line": "Photosynthesis",
+            "level": "26"
+        },
+        {
+            "name": "Primeval Instinct",
+            "line": "Instinct",
+            "level": "26"
+        },
+        {
+            "name": "Wisp",
+            "line": "Willow Wisp",
+            "level": "27"
+        },
+        {
+            "name": "Blessing of Earth",
+            "line": "Healstorm",
+            "level": "28"
+        },
+        {
+            "name": "Healing Breeze",
+            "line": "Winds of Healing",
+            "level": "28"
+        },
+        {
+            "name": "Natures Caress",
+            "line": "Sylvan Bloom",
+            "level": "29"
+        },
+        {
+            "name": "Favor of the Untamed",
+            "line": "Ward of the Untamed",
+            "level": "29"
+        },
+        {
+            "name": "Oakskin",
+            "line": "Aspect of the Forest",
+            "level": "30"
+        },
+        {
+            "name": "Perennial Essence",
+            "line": "Essence of the Great Bear",
+            "level": "30"
+        },
+        {
+            "name": "Summers Flame",
+            "line": "Dawnstrike",
+            "level": "31"
+        },
+        {
+            "name": "Natures Embrace",
+            "line": "Nature's Embrace",
+            "level": "32"
+        },
+        {
+            "name": "Blessing Of Wild",
+            "line": "Favor of the Wild",
+            "level": "32"
+        },
+        {
+            "name": "Winds of Frost",
+            "line": "Winds of Permafrost",
+            "level": "32"
+        },
+        {
+            "name": "Protection of the Seasons",
+            "line": "Armor of Seasons",
+            "level": "33"
+        },
+        {
+            "name": "Warden of the Forest",
+            "line": "Warden of the Forest",
+            "level": "34"
+        },
+        {
+            "name": "Grasping Roots",
+            "line": "Root",
+            "level": "35"
+        },
+        {
+            "name": "Spirit of the Bat",
+            "line": "Spirit of the Bat",
+            "level": "35"
+        },
+        {
+            "name": "Numbing Spores",
+            "line": "Regenerating Spores",
+            "level": "35"
+        },
+        {
+            "name": "Equinox",
+            "line": "Equinox",
+            "level": "36"
+        },
+        {
+            "name": "Frostbite",
+            "line": "Frostbite",
+            "level": "37"
+        },
+        {
+            "name": "Bramblecoat",
+            "line": "Thorncoat",
+            "level": "38"
+        },
+        {
+            "name": "Bitter Frost",
+            "line": "Icefall",
+            "level": "39"
+        },
+        {
+            "name": "Verdurous Journey",
+            "line": "Verdurous Journey",
+            "level": "39"
+        },
+        {
+            "name": "Chloroplast",
+            "line": "Photosynthesis",
+            "level": "40"
+        },
+        {
+            "name": "Primal Instinct",
+            "line": "Instinct",
+            "level": "40"
+        },
+        {
+            "name": "Sylph",
+            "line": "Willow Wisp",
+            "level": "41"
+        },
+        {
+            "name": "Nature's Reprieve",
+            "line": "Nature's Renewal",
+            "level": "41"
+        },
+        {
+            "name": "Chlorostorm",
+            "line": "Healstorm",
+            "level": "42"
+        },
+        {
+            "name": "Gale of Healing",
+            "line": "Winds of Healing",
+            "level": "42"
+        },
+        {
+            "name": "Sighs",
+            "line": "Verdant Whisper",
+            "level": "42"
+        },
+        {
+            "name": "Sylvan Waters",
+            "line": "Sylvan Bloom",
+            "level": "43"
+        },
+        {
+            "name": "Praise of the Untamed",
+            "line": "Ward of the Untamed",
+            "level": "43"
+        },
+        {
+            "name": "Aspect of the Owl",
+            "line": "Aspect of the Forest",
+            "level": "44"
+        },
+        {
+            "name": "Essence of the Kodiak",
+            "line": "Essence of the Great Bear",
+            "level": "44"
+        },
+        {
+            "name": "Solar Burn",
+            "line": "Dawnstrike",
+            "level": "45"
+        },
+        {
+            "name": "Duststorms",
+            "line": "Sandstorm",
+            "level": "45"
+        },
+        {
+            "name": "Verdant Rapture",
+            "line": "Nature's Embrace",
+            "level": "46"
+        },
+        {
+            "name": "Benison of the Wild",
+            "line": "Favor of the Wild",
+            "level": "46"
+        },
+        {
+            "name": "Winds of Winter",
+            "line": "Winds of Permafrost",
+            "level": "46"
+        },
+        {
+            "name": "Spirit of the Oak",
+            "line": "Armor of Seasons",
+            "level": "47"
+        },
+        {
+            "name": "Undergrowths",
+            "line": "Undergrowth",
+            "level": "47"
+        },
+        {
+            "name": "Steward of the Forest",
+            "line": "Warden of the Forest",
+            "level": "48"
+        },
+        {
+            "name": "Sylvan Embrace",
+            "line": "Sylvan Embrace",
+            "level": "48"
+        },
+        {
+            "name": "Seizing Vines",
+            "line": "Root",
+            "level": "49"
+        },
+        {
+            "name": "Tranquilizing Spores",
+            "line": "Regenerating Spores",
+            "level": "49"
+        },
+        {
+            "name": "Reincarnation",
+            "line": "Reincarnation",
+            "level": "50"
+        },
+        {
+            "name": "Genesis",
+            "line": "Hierophantic Genesis",
+            "level": "50"
+        },
+        {
+            "name": "Wintry Cold",
+            "line": "Frostbite",
+            "level": "51"
+        },
+        {
+            "name": "Thorncoat",
+            "line": "Thorncoat",
+            "level": "52"
+        },
+        {
+            "name": "Tunare's Watch",
+            "line": "Tunare's Watch",
+            "level": "52"
+        },
+        {
+            "name": "Hoarfrost",
+            "line": "Icefall",
+            "level": "53"
+        },
+        {
+            "name": "Senses of the Bat",
+            "line": "Spirit of the Bat",
+            "level": "53"
+        },
+        {
+            "name": "Wild Growth",
+            "line": "Photosynthesis",
+            "level": "54"
+        },
+        {
+            "name": "Natural Instinct",
+            "line": "Instinct",
+            "level": "54"
+        },
+        {
+            "name": "Silver Sylph",
+            "line": "Willow Wisp",
+            "level": "55"
+        },
+        {
+            "name": "Nature's Respite",
+            "line": "Nature's Renewal",
+            "level": "55"
+        },
+        {
+            "name": "Nature's Ally",
+            "line": "Nature's Pack",
+            "level": "55"
+        },
+        {
+            "name": "Wild Chlorostorm",
+            "line": "Healstorm",
+            "level": "56"
+        },
+        {
+            "name": "Winds of Healing",
+            "line": "Winds of Healing",
+            "level": "56"
+        },
+        {
+            "name": "Verdant Whisper",
+            "line": "Verdant Whisper",
+            "level": "56"
+        },
+        {
+            "name": "Sylvan Streams",
+            "line": "Sylvan Bloom",
+            "level": "57"
+        },
+        {
+            "name": "Exhaltation of the Untamed",
+            "line": "Ward of the Untamed",
+            "level": "57"
+        },
+        {
+            "name": "Aspect of the Hawk",
+            "line": "Aspect of the Forest",
+            "level": "58"
+        },
+        {
+            "name": "Essence of the Great Bear",
+            "line": "Essence of the Great Bear",
+            "level": "58"
+        },
+        {
+            "name": "Protecting Grove",
+            "line": "Healing Grove",
+            "level": "58"
+        },
+        {
+            "name": "Solar Flame",
+            "line": "Dawnstrike",
+            "level": "59"
+        },
+        {
+            "name": "Sandstorm",
+            "line": "Sandstorm",
+            "level": "59"
+        },
+        {
+            "name": "Verdant Bliss",
+            "line": "Nature's Embrace",
+            "level": "60"
+        },
+        {
+            "name": "Benediction of the Wild",
+            "line": "Favor of the Wild",
+            "level": "60"
+        },
+        {
+            "name": "Winds of Arctic Cold",
+            "line": "Winds of Permafrost",
+            "level": "60"
+        },
+        {
+            "name": "Protection of the Oak",
+            "line": "Armor of Seasons",
+            "level": "61"
+        },
+        {
+            "name": "Bracken",
+            "line": "Undergrowth",
+            "level": "61"
+        },
+        {
+            "name": "Patron of the Forest",
+            "line": "Warden of the Forest",
+            "level": "62"
+        },
+        {
+            "name": "Regenerative Spores",
+            "line": "Regenerating Spores",
+            "level": "63"
+        },
+        {
+            "name": "Trapping Vines",
+            "line": "Root",
+            "level": "64"
+        },
+        {
+            "name": "Glacial Cold",
+            "line": "Frostbite",
+            "level": "65"
+        },
+        {
+            "name": "Tranquility",
+            "line": "Tranquility",
+            "level": "65"
+        },
+        {
+            "name": "Spikecoat",
+            "line": "Thorncoat",
+            "level": "66"
+        },
+        {
+            "name": "Subzero",
+            "line": "Icefall",
+            "level": "67"
+        },
+        {
+            "name": "Greater Chloroplast",
+            "line": "Photosynthesis",
+            "level": "68"
+        },
+        {
+            "name": "Primitive Instinct",
+            "line": "Instinct",
+            "level": "68"
+        },
+        {
+            "name": "Ancient Sylph",
+            "line": "Willow Wisp",
+            "level": "69"
+        },
+        {
+            "name": "Nature's Regrowth",
+            "line": "Nature's Renewal",
+            "level": "69"
+        },
+        {
+            "name": "Fierce Clorostorm",
+            "line": "Healstorm",
+            "level": "70"
+        },
+        {
+            "name": "Wave of Healing",
+            "line": "Winds of Healing",
+            "level": "70"
+        },
+        {
+            "name": "Verdant Gasp",
+            "line": "Verdant Whisper",
+            "level": "70"
+        },
+        {
+            "name": "Hierophantic Advent",
+            "line": "Hierophantic Genesis",
+            "level": "70"
+        },
+        {
+            "name": "Sylvan Bloom",
+            "line": "Sylvan Bloom",
+            "level": "71"
+        },
+        {
+            "name": "Ward of the Untamed",
+            "line": "Ward of the Untamed",
+            "level": "71"
+        },
+        {
+            "name": "Aspect of the Bat",
+            "line": "Spirit of the Bat",
+            "level": "71"
+        },
+        {
+            "name": "Dawnstrike",
+            "line": "Dawnstrike",
+            "level": "72"
+        },
+        {
+            "name": "Aspect of the Forest",
+            "line": "Aspect of the Forest",
+            "level": "72"
+        },
+        {
+            "name": "Essence of the Polar Bear",
+            "line": "Essence of the Great Bear",
+            "level": "72"
+        },
+        {
+            "name": "Grand Florescence",
+            "line": "Nature's Embrace",
+            "level": "73"
+        },
+        {
+            "name": "Master of the Wild",
+            "line": "Favor of the Wild",
+            "level": "73"
+        },
+        {
+            "name": "Gale",
+            "line": "Sandstorm",
+            "level": "73"
+        },
+        {
+            "name": "Armor of Seasons",
+            "line": "Armor of Seasons",
+            "level": "74"
+        },
+        {
+            "name": "Winds of Permafrost",
+            "line": "Winds of Permafrost",
+            "level": "74"
+        },
+        {
+            "name": "Nature's Pack",
+            "line": "Nature's Pack",
+            "level": "74"
+        },
+        {
+            "name": "Regenerating Spores",
+            "line": "Regenerating Spores",
+            "level": "75"
+        },
+        {
+            "name": "Underbrush",
+            "line": "Undergrowth",
+            "level": "75"
+        },
+        {
+            "name": "Holding Vines",
+            "line": "Root",
+            "level": "76"
+        },
+        {
+            "name": "Defender of the Forest",
+            "line": "Warden of the Forest",
+            "level": "76"
+        },
+        {
+            "name": "Healing Grove",
+            "line": "Healing Grove",
+            "level": "76"
+        },
+        {
+            "name": "Razorcoat",
+            "line": "Thorncoat",
+            "level": "77"
+        },
+        {
+            "name": "Velium Frost",
+            "line": "Frostbite",
+            "level": "77"
+        },
+        {
+            "name": "Icefall",
+            "line": "Icefall",
+            "level": "78"
+        },
+        {
+            "name": "Photosynthesis",
+            "line": "Photosynthesis",
+            "level": "78"
+        },
+        {
+            "name": "Purity",
+            "line": "Tranquility",
+            "level": "78"
+        },
+        {
+            "name": "Willow Wisp",
+            "line": "Willow Wisp",
+            "level": "79"
+        },
+        {
+            "name": "Healstorm",
+            "line": "Healstorm",
+            "level": "79"
+        },
+        {
+            "name": "Instinct",
+            "line": "Instinct",
+            "level": "79"
+        },
+        {
+            "name": "Tide of Healing",
+            "line": "Winds of Healing",
+            "level": "80"
+        },
+        {
+            "name": "Nature's Renewal",
+            "line": "Nature's Renewal",
+            "level": "80"
+        },
+        {
+            "name": "Hierophantic Provenance",
+            "line": "Hierophantic Genesis",
+            "level": "80"
+        },
+        {
+            "name": "Cure Curse",
+            "line": "Cure Curse",
+            "level": "80"
+        },
+        {
+            "name": "Faerie Ally",
+            "line": "Faerie Ally",
+            "level": "80"
+        }
+    ]
+}

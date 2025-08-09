@@ -1,0 +1,810 @@
+{
+    "class": "Ranger",
+    "spells": [
+        {
+            "name": "Stealth",
+            "line": "Stealth",
+            "level": "1"
+        },
+        {
+            "name": "Searing Strike",
+            "line": "Lightning Strike",
+            "level": "1"
+        },
+        {
+            "name": "Tracking",
+            "line": "Tracking",
+            "level": "1"
+        },
+        {
+            "name": "Back Fire",
+            "line": "Rear Shot",
+            "level": "2"
+        },
+        {
+            "name": "Stalker Strike",
+            "line": "Emberstrike",
+            "level": "2"
+        },
+        {
+            "name": "Double Shot",
+            "line": "Searing Shot",
+            "level": "3"
+        },
+        {
+            "name": "Pathfinding",
+            "line": "Pathfinding",
+            "level": "4"
+        },
+        {
+            "name": "Cheap Shot",
+            "line": "Cheap Shot",
+            "level": "4"
+        },
+        {
+            "name": "Sneak Attack",
+            "line": "Sneak Attack",
+            "level": "5"
+        },
+        {
+            "name": "Lucky Break",
+            "line": "Lucky Break",
+            "level": "5"
+        },
+        {
+            "name": "Evade",
+            "line": "Evade",
+            "level": "6"
+        },
+        {
+            "name": "Ensnare",
+            "line": "Ensnare",
+            "level": "7"
+        },
+        {
+            "name": "Blazing Strike",
+            "line": "Lightning Strike",
+            "level": "8"
+        },
+        {
+            "name": "Trap",
+            "line": "Snipe",
+            "level": "8"
+        },
+        {
+            "name": "Shadowfire",
+            "line": "Emberstrike",
+            "level": "9"
+        },
+        {
+            "name": "Shadow Leap",
+            "line": "Ranger's Blade",
+            "level": "10"
+        },
+        {
+            "name": "Reconnoiter",
+            "line": "Primal Reflexes",
+            "level": "11"
+        },
+        {
+            "name": "Bleeding Cut",
+            "line": "Bloody Reminder",
+            "level": "12"
+        },
+        {
+            "name": "Hunter's Instinct",
+            "line": "Hunter's Instinct",
+            "level": "13"
+        },
+        {
+            "name": "Lunge",
+            "line": "Immobilizing Lunge",
+            "level": "13"
+        },
+        {
+            "name": "Stalk",
+            "line": "Stalk",
+            "level": "14"
+        },
+        {
+            "name": "Shocking Strike",
+            "line": "Lightning Strike",
+            "level": "15"
+        },
+        {
+            "name": "Back Shot",
+            "line": "Rear Shot",
+            "level": "15"
+        },
+        {
+            "name": "Heated Shot",
+            "line": "Searing Shot",
+            "level": "16"
+        },
+        {
+            "name": "Archer's Stance",
+            "line": "Archer's Fury",
+            "level": "17"
+        },
+        {
+            "name": "Divert",
+            "line": "Evade",
+            "level": "18"
+        },
+        {
+            "name": "Survival Instincts",
+            "line": "Survival Instincts",
+            "level": "18"
+        },
+        {
+            "name": "Hidden Attack",
+            "line": "Sneak Attack",
+            "level": "19"
+        },
+        {
+            "name": "Pounce",
+            "line": "Natural Selection",
+            "level": "19"
+        },
+        {
+            "name": "Wounding Arrow",
+            "line": "Crippling Arrow",
+            "level": "20"
+        },
+        {
+            "name": "Makeshift Arrows",
+            "line": "Makeshift Arrows",
+            "level": "20"
+        },
+        {
+            "name": "Shadowflame",
+            "line": "Emberstrike",
+            "level": "21"
+        },
+        {
+            "name": "Corner",
+            "line": "Snipe",
+            "level": "22"
+        },
+        {
+            "name": "Steady Aim",
+            "line": "Focus Aim",
+            "level": "22"
+        },
+        {
+            "name": "Impede",
+            "line": "Ensnare",
+            "level": "23"
+        },
+        {
+            "name": "Shadow Lunge",
+            "line": "Ranger's Blade",
+            "level": "24"
+        },
+        {
+            "name": "Trick Shot",
+            "line": "Trick Shot",
+            "level": "24"
+        },
+        {
+            "name": "Natural Instinct",
+            "line": "Primal Reflexes",
+            "level": "25"
+        },
+        {
+            "name": "Escape",
+            "line": "Escape",
+            "level": "25"
+        },
+        {
+            "name": "Leaping Cut",
+            "line": "Bloody Reminder",
+            "level": "26"
+        },
+        {
+            "name": "Hidden Shot",
+            "line": "Hidden Shot",
+            "level": "26"
+        },
+        {
+            "name": "Forester's Insight",
+            "line": "Hunter's Instinct",
+            "level": "27"
+        },
+        {
+            "name": "Lunging Thrust",
+            "line": "Immobilizing Lunge",
+            "level": "27"
+        },
+        {
+            "name": "Shadow",
+            "line": "Stalk",
+            "level": "28"
+        },
+        {
+            "name": "Triple Shot",
+            "line": "Triple Shot",
+            "level": "28"
+        },
+        {
+            "name": "Lightning Strike",
+            "line": "Lightning Strike",
+            "level": "29"
+        },
+        {
+            "name": "Sniping Shot",
+            "line": "Rear Shot",
+            "level": "29"
+        },
+        {
+            "name": "Flaming Shot",
+            "line": "Searing Shot",
+            "level": "30"
+        },
+        {
+            "name": "Rip",
+            "line": "Arrow Rip",
+            "level": "30"
+        },
+        {
+            "name": "Arrow Flurry",
+            "line": "Archer's Fury",
+            "level": "31"
+        },
+        {
+            "name": "Slip",
+            "line": "Evade",
+            "level": "32"
+        },
+        {
+            "name": "Adroit",
+            "line": "Survival Instincts",
+            "level": "32"
+        },
+        {
+            "name": "Miracle Shot",
+            "line": "Miracle Shot",
+            "level": "32"
+        },
+        {
+            "name": "Pouncing Attack",
+            "line": "Sneak Attack",
+            "level": "33"
+        },
+        {
+            "name": "Spring",
+            "line": "Natural Selection",
+            "level": "33"
+        },
+        {
+            "name": "Crippling Arrow",
+            "line": "Crippling Arrow",
+            "level": "34"
+        },
+        {
+            "name": "Salvaged Arrows",
+            "line": "Makeshift Arrows",
+            "level": "34"
+        },
+        {
+            "name": "Raven Embers",
+            "line": "Emberstrike",
+            "level": "35"
+        },
+        {
+            "name": "Honed Reflexes",
+            "line": "Honed Reflexes",
+            "level": "35"
+        },
+        {
+            "name": "Pick Off",
+            "line": "Snipe",
+            "level": "36"
+        },
+        {
+            "name": "Take Aim",
+            "line": "Focus Aim",
+            "level": "36"
+        },
+        {
+            "name": "Entrap",
+            "line": "Ensnare",
+            "level": "37"
+        },
+        {
+            "name": "Crippling Blade",
+            "line": "Ranger's Blade",
+            "level": "38"
+        },
+        {
+            "name": "Trick Arrow",
+            "line": "Trick Shot",
+            "level": "38"
+        },
+        {
+            "name": "Primal Reflexes",
+            "line": "Primal Reflexes",
+            "level": "39"
+        },
+        {
+            "name": "Deadly Reminder",
+            "line": "Bloody Reminder",
+            "level": "40"
+        },
+        {
+            "name": "Hidden Fire",
+            "line": "Hidden Shot",
+            "level": "40"
+        },
+        {
+            "name": "Predatory Fury",
+            "line": "Killing Instinct",
+            "level": "40"
+        },
+        {
+            "name": "Veil of the Forest",
+            "line": "Hunter's Instinct",
+            "level": "41"
+        },
+        {
+            "name": "Survival of the Fittest",
+            "line": "Immobilizing Lunge",
+            "level": "41"
+        },
+        {
+            "name": "Surveil",
+            "line": "Stalk",
+            "level": "42"
+        },
+        {
+            "name": "Triple Fire",
+            "line": "Triple Shot",
+            "level": "42"
+        },
+        {
+            "name": "Blazing Thrust",
+            "line": "Lightning Strike",
+            "level": "43"
+        },
+        {
+            "name": "Culling The Herd",
+            "line": "Rear Shot",
+            "level": "43"
+        },
+        {
+            "name": "Sharp Shot",
+            "line": "Searing Shot",
+            "level": "44"
+        },
+        {
+            "name": "Tear",
+            "line": "Arrow Rip",
+            "level": "44"
+        },
+        {
+            "name": "Leg Shot",
+            "line": "Snaring Shot",
+            "level": "44"
+        },
+        {
+            "name": "Arrow Frenzy",
+            "line": "Archer's Fury",
+            "level": "45"
+        },
+        {
+            "name": "Evasion",
+            "line": "Evade",
+            "level": "46"
+        },
+        {
+            "name": "Dance Of Leaves",
+            "line": "Survival Instincts",
+            "level": "46"
+        },
+        {
+            "name": "Miracle Arrow",
+            "line": "Miracle Shot",
+            "level": "46"
+        },
+        {
+            "name": "Longshank",
+            "line": "Sneak Attack",
+            "level": "47"
+        },
+        {
+            "name": "Natural Selection",
+            "line": "Natural Selection",
+            "level": "47"
+        },
+        {
+            "name": "Debilitating Arrow",
+            "line": "Crippling Arrow",
+            "level": "48"
+        },
+        {
+            "name": "Backup Quiver",
+            "line": "Makeshift Arrows",
+            "level": "48"
+        },
+        {
+            "name": "Tanglethorn",
+            "line": "Emberstrike",
+            "level": "49"
+        },
+        {
+            "name": "Snipe",
+            "line": "Snipe",
+            "level": "50"
+        },
+        {
+            "name": "Focus Fire",
+            "line": "Focus Aim",
+            "level": "50"
+        },
+        {
+            "name": "Storm Of Arrows",
+            "line": "Storm of Arrows",
+            "level": "50"
+        },
+        {
+            "name": "Forester's Noose",
+            "line": "Ensnare",
+            "level": "51"
+        },
+        {
+            "name": "Dire Blade",
+            "line": "Ranger's Blade",
+            "level": "52"
+        },
+        {
+            "name": "Confusion Arrow",
+            "line": "Trick Shot",
+            "level": "52"
+        },
+        {
+            "name": "Thorny Trap",
+            "line": "Thorny Trap",
+            "level": "52"
+        },
+        {
+            "name": "Primal Agility",
+            "line": "Primal Reflexes",
+            "level": "53"
+        },
+        {
+            "name": "Fatal Reminder",
+            "line": "Bloody Reminder",
+            "level": "54"
+        },
+        {
+            "name": "Stealthy Fire",
+            "line": "Hidden Shot",
+            "level": "54"
+        },
+        {
+            "name": "Brutal Instinct",
+            "line": "Killing Instinct",
+            "level": "54"
+        },
+        {
+            "name": "Shroud of the Forest",
+            "line": "Hunter's Instinct",
+            "level": "55"
+        },
+        {
+            "name": "Lunging Blade",
+            "line": "Immobilizing Lunge",
+            "level": "55"
+        },
+        {
+            "name": "Stream of Arrows",
+            "line": "Stream of Arrows",
+            "level": "55"
+        },
+        {
+            "name": "Improved Surveil",
+            "line": "Stalk",
+            "level": "56"
+        },
+        {
+            "name": "Triple Arrow",
+            "line": "Triple Shot",
+            "level": "56"
+        },
+        {
+            "name": "Shocking Thrust",
+            "line": "Lightning Strike",
+            "level": "57"
+        },
+        {
+            "name": "Culling The Weak",
+            "line": "Rear Shot",
+            "level": "57"
+        },
+        {
+            "name": "Precise Shot",
+            "line": "Searing Shot",
+            "level": "58"
+        },
+        {
+            "name": "Arrow Rip",
+            "line": "Arrow Rip",
+            "level": "58"
+        },
+        {
+            "name": "Snaring Shot",
+            "line": "Snaring Shot",
+            "level": "58"
+        },
+        {
+            "name": "Sniper Shot",
+            "line": "Sniper Shot",
+            "level": "58"
+        },
+        {
+            "name": "Archer's Frenzy",
+            "line": "Archer's Fury",
+            "level": "59"
+        },
+        {
+            "name": "Elude",
+            "line": "Evade",
+            "level": "60"
+        },
+        {
+            "name": "Dance Of Trees",
+            "line": "Survival Instincts",
+            "level": "60"
+        },
+        {
+            "name": "Amazing Shot",
+            "line": "Miracle Shot",
+            "level": "60"
+        },
+        {
+            "name": "Longblade",
+            "line": "Sneak Attack",
+            "level": "61"
+        },
+        {
+            "name": "Selection",
+            "line": "Natural Selection",
+            "level": "61"
+        },
+        {
+            "name": "Devitalizing Arrow",
+            "line": "Crippling Arrow",
+            "level": "62"
+        },
+        {
+            "name": "Reclaimed Arrows",
+            "line": "Makeshift Arrows",
+            "level": "62"
+        },
+        {
+            "name": "Emberstrike",
+            "line": "Emberstrike",
+            "level": "63"
+        },
+        {
+            "name": "Cover Fire",
+            "line": "Snipe",
+            "level": "64"
+        },
+        {
+            "name": "Focus Aim",
+            "line": "Focus Aim",
+            "level": "64"
+        },
+        {
+            "name": "Vines",
+            "line": "Ensnare",
+            "level": "65"
+        },
+        {
+            "name": "Hawk Dive",
+            "line": "Hawk Attack",
+            "level": "65"
+        },
+        {
+            "name": "Ranger's Blade",
+            "line": "Ranger's Blade",
+            "level": "66"
+        },
+        {
+            "name": "Confounding Arrow",
+            "line": "Trick Shot",
+            "level": "66"
+        },
+        {
+            "name": "Killing Instinct",
+            "line": "Killing Instinct",
+            "level": "67"
+        },
+        {
+            "name": "Mortal Reminder",
+            "line": "Bloody Reminder",
+            "level": "68"
+        },
+        {
+            "name": "Veiled Fire",
+            "line": "Hidden Shot",
+            "level": "68"
+        },
+        {
+            "name": "Cloak of the Forest",
+            "line": "Hunter's Instinct",
+            "level": "69"
+        },
+        {
+            "name": "Lunging Joust",
+            "line": "Immobilizing Lunge",
+            "level": "69"
+        },
+        {
+            "name": "Surveillance",
+            "line": "Stalk",
+            "level": "70"
+        },
+        {
+            "name": "Triple Volley",
+            "line": "Triple Shot",
+            "level": "70"
+        },
+        {
+            "name": "Rain Of Arrows",
+            "line": "Storm of Arrows",
+            "level": "70"
+        },
+        {
+            "name": "Jolting Strike",
+            "line": "Lightning Strike",
+            "level": "71"
+        },
+        {
+            "name": "Rear Shot",
+            "line": "Rear Shot",
+            "level": "71"
+        },
+        {
+            "name": "Searing Shot",
+            "line": "Searing Shot",
+            "level": "71"
+        },
+        {
+            "name": "Archer's Fury",
+            "line": "Archer's Fury",
+            "level": "72"
+        },
+        {
+            "name": "Arrow Tear",
+            "line": "Arrow Rip",
+            "level": "72"
+        },
+        {
+            "name": "Roped Shot",
+            "line": "Snaring Shot",
+            "level": "72"
+        },
+        {
+            "name": "Spiked Trap",
+            "line": "Thorny Trap",
+            "level": "72"
+        },
+        {
+            "name": "Baffle",
+            "line": "Evade",
+            "level": "73"
+        },
+        {
+            "name": "Dance of the Forest",
+            "line": "Survival Instincts",
+            "level": "73"
+        },
+        {
+            "name": "Fittest Survival",
+            "line": "Natural Selection",
+            "level": "73"
+        },
+        {
+            "name": "Amazing Arrow",
+            "line": "Miracle Shot",
+            "level": "73"
+        },
+        {
+            "name": "Longstab",
+            "line": "Sneak Attack",
+            "level": "74"
+        },
+        {
+            "name": "Vulnerable Arrow",
+            "line": "Crippling Arrow",
+            "level": "74"
+        },
+        {
+            "name": "Used Arrows",
+            "line": "Makeshift Arrows",
+            "level": "74"
+        },
+        {
+            "name": "Repeating Arrows",
+            "line": "Stream of Arrows",
+            "level": "74"
+        },
+        {
+            "name": "Combustion Strike",
+            "line": "Emberstrike",
+            "level": "75"
+        },
+        {
+            "name": "Vulnerability",
+            "line": "Snipe",
+            "level": "75"
+        },
+        {
+            "name": "Rope",
+            "line": "Ensnare",
+            "level": "76"
+        },
+        {
+            "name": "Sniper Arrow",
+            "line": "Sniper Shot",
+            "level": "76"
+        },
+        {
+            "name": "Kunark Blade",
+            "line": "Ranger's Blade",
+            "level": "77"
+        },
+        {
+            "name": "Blame Arrow",
+            "line": "Trick Shot",
+            "level": "77"
+        },
+        {
+            "name": "Bloody Reminder",
+            "line": "Bloody Reminder",
+            "level": "78"
+        },
+        {
+            "name": "Stealth Fire",
+            "line": "Hidden Shot",
+            "level": "78"
+        },
+        {
+            "name": "Hawk Attack",
+            "line": "Hawk Attack",
+            "level": "78"
+        },
+        {
+            "name": "Shroud Of Kunark",
+            "line": "Hunter's Instinct",
+            "level": "79"
+        },
+        {
+            "name": "Immobilizing Lunge",
+            "line": "Immobilizing Lunge",
+            "level": "79"
+        },
+        {
+            "name": "Spy",
+            "line": "Stalk",
+            "level": "80"
+        },
+        {
+            "name": "Triple Burst",
+            "line": "Triple Shot",
+            "level": "80"
+        },
+        {
+            "name": "Shower Of Arrows",
+            "line": "Storm of Arrows",
+            "level": "80"
+        },
+        {
+            "name": "Coverage",
+            "line": "Coverage",
+            "level": "80"
+        }
+    ]
+}

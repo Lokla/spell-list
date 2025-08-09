@@ -1,0 +1,800 @@
+{
+    "class": "Warlock",
+    "spells": [
+        {
+            "name": "Corrosive Strike",
+            "line": "Dissolve",
+            "level": "1"
+        },
+        {
+            "name": "Stop Breath",
+            "line": "Vacuum Field",
+            "level": "1"
+        },
+        {
+            "name": "Poison Cloud",
+            "line": "Cataclysm",
+            "level": "2"
+        },
+        {
+            "name": "Erupt",
+            "line": "Acid",
+            "level": "3"
+        },
+        {
+            "name": "Magi's Shielding",
+            "line": "Magi's Shielding",
+            "level": "4"
+        },
+        {
+            "name": "Arcane Augur",
+            "line": "Arcane Augur",
+            "level": "5"
+        },
+        {
+            "name": "Bind Sight",
+            "line": "Bind Sight",
+            "level": "5"
+        },
+        {
+            "name": "Bind",
+            "line": "Netherous Bind",
+            "level": "5"
+        },
+        {
+            "name": "Corrosive Blast",
+            "line": "Dissolve",
+            "level": "6"
+        },
+        {
+            "name": "Cure Arcane",
+            "line": "Cure Arcane",
+            "level": "6"
+        },
+        {
+            "name": "Boon of the Shadows",
+            "line": "Aspect of Darkness",
+            "level": "7"
+        },
+        {
+            "name": "Gas Cloud",
+            "line": "Dark Nebula",
+            "level": "8"
+        },
+        {
+            "name": "See Invisibility",
+            "line": "See Invisibility",
+            "level": "9"
+        },
+        {
+            "name": "Dispel Magic",
+            "line": "Dispel Magic",
+            "level": "9"
+        },
+        {
+            "name": "Emanate",
+            "line": "Acid",
+            "level": "10"
+        },
+        {
+            "name": "Interference",
+            "line": "Nullify",
+            "level": "10"
+        },
+        {
+            "name": "Suffocation",
+            "line": "Dark Pyre",
+            "level": "10"
+        },
+        {
+            "name": "Venomous Grasp",
+            "line": "Grasp of Bertoxxulous",
+            "level": "11"
+        },
+        {
+            "name": "Corrosive Bolt",
+            "line": "Dissolve",
+            "level": "12"
+        },
+        {
+            "name": "Spellbinding Pact",
+            "line": "Dark Pact",
+            "level": "12"
+        },
+        {
+            "name": "Shorten Breath",
+            "line": "Vacuum Field",
+            "level": "13"
+        },
+        {
+            "name": "Tap Void",
+            "line": "Void Contract",
+            "level": "13"
+        },
+        {
+            "name": "Suffocate",
+            "line": "Cataclysm",
+            "level": "14"
+        },
+        {
+            "name": "Concussive",
+            "line": "Concussive",
+            "level": "15"
+        },
+        {
+            "name": "Summon Shadows",
+            "line": "Summon Shadows",
+            "level": "15"
+        },
+        {
+            "name": "Freeze",
+            "line": "Encase",
+            "level": "16"
+        },
+        {
+            "name": "Shadowy Emanations",
+            "line": "Acid",
+            "level": "17"
+        },
+        {
+            "name": "Boon of the Dark",
+            "line": "Boon of the Damned",
+            "level": "18"
+        },
+        {
+            "name": "Fearful Bind",
+            "line": "Netherous Bind",
+            "level": "19"
+        },
+        {
+            "name": "Noxious Blast",
+            "line": "Dissolve",
+            "level": "20"
+        },
+        {
+            "name": "Negative Absolution",
+            "line": "Absolution",
+            "level": "20"
+        },
+        {
+            "name": "Poisonous Veil",
+            "line": "Shroud of Bertoxxulous",
+            "level": "20"
+        },
+        {
+            "name": "Boon of the Void",
+            "line": "Aspect of Darkness",
+            "level": "21"
+        },
+        {
+            "name": "Putrid Cloud",
+            "line": "Dark Nebula",
+            "level": "22"
+        },
+        {
+            "name": "Shadowsight",
+            "line": "Shadowsight",
+            "level": "23"
+        },
+        {
+            "name": "Dark Distortion",
+            "line": "Distortion",
+            "level": "23"
+        },
+        {
+            "name": "Nullification",
+            "line": "Nullify",
+            "level": "24"
+        },
+        {
+            "name": "Suffocating Breath",
+            "line": "Dark Pyre",
+            "level": "24"
+        },
+        {
+            "name": "Dark Siphoning",
+            "line": "Dark Siphoning",
+            "level": "24"
+        },
+        {
+            "name": "Venomous Runes",
+            "line": "Grasp of Bertoxxulous",
+            "level": "25"
+        },
+        {
+            "name": "Curse of Darkness",
+            "line": "Curse of Darkness",
+            "level": "25"
+        },
+        {
+            "name": "Dark Pact",
+            "line": "Dark Pact",
+            "level": "26"
+        },
+        {
+            "name": "Steal Breath",
+            "line": "Vacuum Field",
+            "level": "27"
+        },
+        {
+            "name": "Invite Void",
+            "line": "Void Contract",
+            "level": "27"
+        },
+        {
+            "name": "Suffocating Cloud",
+            "line": "Cataclysm",
+            "level": "28"
+        },
+        {
+            "name": "Curse of Null",
+            "line": "Curse of Void",
+            "level": "28"
+        },
+        {
+            "name": "Noxious Bolt",
+            "line": "Dissolve",
+            "level": "29"
+        },
+        {
+            "name": "Flashfreeze",
+            "line": "Encase",
+            "level": "30"
+        },
+        {
+            "name": "Dark Emanations",
+            "line": "Acid",
+            "level": "31"
+        },
+        {
+            "name": "Abhorrent Gift",
+            "line": "Gift of Bertoxxulous",
+            "level": "32"
+        },
+        {
+            "name": "Paralyzing Fear",
+            "line": "Netherous Bind",
+            "level": "33"
+        },
+        {
+            "name": "Boon of the Shadowed",
+            "line": "Boon of the Damned",
+            "level": "33"
+        },
+        {
+            "name": "Strength of Void",
+            "line": "Mana Trickle",
+            "level": "33"
+        },
+        {
+            "name": "Null Absolution",
+            "line": "Absolution",
+            "level": "34"
+        },
+        {
+            "name": "Bolster Energy",
+            "line": "Aspect of Darkness",
+            "level": "35"
+        },
+        {
+            "name": "Poisonous Shroud",
+            "line": "Shroud of Bertoxxulous",
+            "level": "35"
+        },
+        {
+            "name": "Ice Flame",
+            "line": "Flames of Velious",
+            "level": "35"
+        },
+        {
+            "name": "Aura of Darkness",
+            "line": "Aura of Void",
+            "level": "35"
+        },
+        {
+            "name": "Grievous Blast",
+            "line": "Dark Nebula",
+            "level": "36"
+        },
+        {
+            "name": "Nil Distortion",
+            "line": "Distortion",
+            "level": "37"
+        },
+        {
+            "name": "Vulian Interference",
+            "line": "Nullify",
+            "level": "38"
+        },
+        {
+            "name": "Dark Pyre",
+            "line": "Dark Pyre",
+            "level": "38"
+        },
+        {
+            "name": "Pillagings",
+            "line": "Dark Siphoning",
+            "level": "38"
+        },
+        {
+            "name": "Toxic Grasp",
+            "line": "Grasp of Bertoxxulous",
+            "level": "39"
+        },
+        {
+            "name": "Curse of Emptiness",
+            "line": "Curse of Darkness",
+            "level": "39"
+        },
+        {
+            "name": "Seal of Dark Rumination",
+            "line": "Dark Pact",
+            "level": "40"
+        },
+        {
+            "name": "Bony Grasp",
+            "line": "Skeletal Grasp",
+            "level": "40"
+        },
+        {
+            "name": "Nullmail",
+            "line": "Nullmail",
+            "level": "40"
+        },
+        {
+            "name": "Chaotic Maelstrom",
+            "line": "Vacuum Field",
+            "level": "41"
+        },
+        {
+            "name": "Grisly Contract",
+            "line": "Void Contract",
+            "level": "41"
+        },
+        {
+            "name": "Abysmal Fury",
+            "line": "Cataclysm",
+            "level": "42"
+        },
+        {
+            "name": "Curse of Nil",
+            "line": "Curse of Void",
+            "level": "42"
+        },
+        {
+            "name": "Soul Flay",
+            "line": "Dissolve",
+            "level": "43"
+        },
+        {
+            "name": "Deter",
+            "line": "Encase",
+            "level": "44"
+        },
+        {
+            "name": "Torment of Shadows",
+            "line": "Acid",
+            "level": "45"
+        },
+        {
+            "name": "Wicked Gift",
+            "line": "Gift of Bertoxxulous",
+            "level": "46"
+        },
+        {
+            "name": "Cower",
+            "line": "Netherous Bind",
+            "level": "47"
+        },
+        {
+            "name": "Vulian Gift",
+            "line": "Boon of the Damned",
+            "level": "47"
+        },
+        {
+            "name": "Endow Energy",
+            "line": "Mana Trickle",
+            "level": "47"
+        },
+        {
+            "name": "Nil Absolution",
+            "line": "Absolution",
+            "level": "48"
+        },
+        {
+            "name": "Netheros",
+            "line": "Netherlord",
+            "level": "48"
+        },
+        {
+            "name": "Aspect of Darkness",
+            "line": "Aspect of Darkness",
+            "level": "49"
+        },
+        {
+            "name": "Aura of Emptiness",
+            "line": "Aura of Void",
+            "level": "49"
+        },
+        {
+            "name": "Dark Nebula",
+            "line": "Dark Nebula",
+            "level": "50"
+        },
+        {
+            "name": "Nihilism",
+            "line": "Shroud of Bertoxxulous",
+            "level": "50"
+        },
+        {
+            "name": "Devastation",
+            "line": "Apocalypse",
+            "level": "50"
+        },
+        {
+            "name": "Null Distortion",
+            "line": "Distortion",
+            "level": "51"
+        },
+        {
+            "name": "Vulian Intrusion",
+            "line": "Nullify",
+            "level": "52"
+        },
+        {
+            "name": "Shadowed Pyre",
+            "line": "Dark Pyre",
+            "level": "52"
+        },
+        {
+            "name": "Shadowed Pillaging",
+            "line": "Dark Siphoning",
+            "level": "52"
+        },
+        {
+            "name": "Dark Infestation",
+            "line": "Dark Infestation",
+            "level": "52"
+        },
+        {
+            "name": "Virulent Grasp",
+            "line": "Grasp of Bertoxxulous",
+            "level": "53"
+        },
+        {
+            "name": "Curse of Desolation",
+            "line": "Curse of Darkness",
+            "level": "53"
+        },
+        {
+            "name": "Glacialflame",
+            "line": "Flames of Velious",
+            "level": "53"
+        },
+        {
+            "name": "Seal of Ebon Thought",
+            "line": "Dark Pact",
+            "level": "54"
+        },
+        {
+            "name": "Skeletal Grasp",
+            "line": "Skeletal Grasp",
+            "level": "54"
+        },
+        {
+            "name": "Anarchic Maelstrom",
+            "line": "Vacuum Field",
+            "level": "55"
+        },
+        {
+            "name": "Ghastly Contract",
+            "line": "Void Contract",
+            "level": "55"
+        },
+        {
+            "name": "Null Caress",
+            "line": "Null Caress",
+            "level": "55"
+        },
+        {
+            "name": "Boundless Fury",
+            "line": "Cataclysm",
+            "level": "56"
+        },
+        {
+            "name": "Curse of Nothingness",
+            "line": "Curse of Void",
+            "level": "56"
+        },
+        {
+            "name": "Soul Blister",
+            "line": "Dissolve",
+            "level": "57"
+        },
+        {
+            "name": "Thwart",
+            "line": "Encase",
+            "level": "58"
+        },
+        {
+            "name": "Netheros Realm",
+            "line": "Netheros Realm",
+            "level": "58"
+        },
+        {
+            "name": "Scourge of Shadows",
+            "line": "Acid",
+            "level": "59"
+        },
+        {
+            "name": "Corrupt Gift",
+            "line": "Gift of Bertoxxulous",
+            "level": "60"
+        },
+        {
+            "name": "Cowering Bind",
+            "line": "Netherous Bind",
+            "level": "61"
+        },
+        {
+            "name": "Boon of hte Damned",
+            "line": "Boon of the Damned",
+            "level": "61"
+        },
+        {
+            "name": "Bestow Energy",
+            "line": "Mana Trickle",
+            "level": "61"
+        },
+        {
+            "name": "Void Absolution",
+            "line": "Absolution",
+            "level": "62"
+        },
+        {
+            "name": "Netherlord",
+            "line": "Netherlord",
+            "level": "62"
+        },
+        {
+            "name": "Aspect of Night",
+            "line": "Aspect of Darkness",
+            "level": "63"
+        },
+        {
+            "name": "Aura of Nihility",
+            "line": "Aura of Void",
+            "level": "63"
+        },
+        {
+            "name": "Nebula",
+            "line": "Dark Nebula",
+            "level": "64"
+        },
+        {
+            "name": "Nihilistics",
+            "line": "Shroud of Bertoxxulous",
+            "level": "64"
+        },
+        {
+            "name": "Void Distortion",
+            "line": "Distortion",
+            "level": "65"
+        },
+        {
+            "name": "Rift",
+            "line": "Rift",
+            "level": "65"
+        },
+        {
+            "name": "Vulian Nullification",
+            "line": "Nullify",
+            "level": "66"
+        },
+        {
+            "name": "War Pyre",
+            "line": "Dark Pyre",
+            "level": "66"
+        },
+        {
+            "name": "Phantom Pillaging",
+            "line": "Dark Siphoning",
+            "level": "66"
+        },
+        {
+            "name": "Malignant Grasp",
+            "line": "Grasp of Bertoxxulous",
+            "level": "67"
+        },
+        {
+            "name": "Curse of Isolation",
+            "line": "Curse of Darkness",
+            "level": "67"
+        },
+        {
+            "name": "Seal of Dismal Logic",
+            "line": "Dark Pact",
+            "level": "68"
+        },
+        {
+            "name": "Spectral Grasp",
+            "line": "Skeletal Grasp",
+            "level": "68"
+        },
+        {
+            "name": "Tumultuous Maelstrom",
+            "line": "Vacuum Field",
+            "level": "69"
+        },
+        {
+            "name": "Terrible Deeds",
+            "line": "Void Contract",
+            "level": "69"
+        },
+        {
+            "name": "Chaostorm",
+            "line": "Cataclysm",
+            "level": "70"
+        },
+        {
+            "name": "Curse of Void",
+            "line": "Curse of Void",
+            "level": "70"
+        },
+        {
+            "name": "Apocalypse",
+            "line": "Apocalypse",
+            "level": "70"
+        },
+        {
+            "name": "Dissolve",
+            "line": "Dissolve",
+            "level": "71"
+        },
+        {
+            "name": "Flames of Velious",
+            "line": "Flames of Velious",
+            "level": "71"
+        },
+        {
+            "name": "Acid",
+            "line": "Acid",
+            "level": "72"
+        },
+        {
+            "name": "Encase",
+            "line": "Encase",
+            "level": "72"
+        },
+        {
+            "name": "Brood Infestation",
+            "line": "Dark Infestation",
+            "level": "72"
+        },
+        {
+            "name": "Netherous Bind",
+            "line": "Netherous Bind",
+            "level": "73"
+        },
+        {
+            "name": "Boon of Solitude",
+            "line": "Boon of the Damned",
+            "level": "73"
+        },
+        {
+            "name": "Gift of Bertoxxulous",
+            "line": "Gift of Bertoxxulous",
+            "level": "73"
+        },
+        {
+            "name": "Mana Trickle",
+            "line": "Mana Trickle",
+            "level": "74"
+        },
+        {
+            "name": "Netherbeast",
+            "line": "Netherlord",
+            "level": "74"
+        },
+        {
+            "name": "Aspect of Moon",
+            "line": "Aspect of Darkness",
+            "level": "75"
+        },
+        {
+            "name": "Absolution",
+            "line": "Absolution",
+            "level": "75"
+        },
+        {
+            "name": "Aura of Void",
+            "line": "Aura of Void",
+            "level": "75"
+        },
+        {
+            "name": "Radiation",
+            "line": "Dark Nebula",
+            "level": "76"
+        },
+        {
+            "name": "Shroud of Bertoxxulous",
+            "line": "Shroud of Bertoxxulous",
+            "level": "76"
+        },
+        {
+            "name": "Nullify",
+            "line": "Nullify",
+            "level": "77"
+        },
+        {
+            "name": "Vacuum Chamber",
+            "line": "Dark Pyre",
+            "level": "77"
+        },
+        {
+            "name": "Distortion",
+            "line": "Distortion",
+            "level": "77"
+        },
+        {
+            "name": "Pillaging",
+            "line": "Dark Siphoning",
+            "level": "77"
+        },
+        {
+            "name": "Grasp of Bertoxxulous",
+            "line": "Grasp of Bertoxxulous",
+            "level": "78"
+        },
+        {
+            "name": "Curse of Luclin",
+            "line": "Curse of Darkness",
+            "level": "78"
+        },
+        {
+            "name": "Dead Grasp",
+            "line": "Skeletal Grasp",
+            "level": "78"
+        },
+        {
+            "name": "Upheaval",
+            "line": "Rift",
+            "level": "78"
+        },
+        {
+            "name": "Vacuum Field",
+            "line": "Vacuum Field",
+            "level": "79"
+        },
+        {
+            "name": "Mage's Pact",
+            "line": "Dark Pact",
+            "level": "79"
+        },
+        {
+            "name": "Void Contract",
+            "line": "Void Contract",
+            "level": "79"
+        },
+        {
+            "name": "Cataclysm",
+            "line": "Cataclysm",
+            "level": "80"
+        },
+        {
+            "name": "Curse of Humility",
+            "line": "Curse of Void",
+            "level": "80"
+        },
+        {
+            "name": "Armageddon",
+            "line": "Apocalypse",
+            "level": "80"
+        },
+        {
+            "name": "Acid Storm",
+            "line": "Acid Storm",
+            "level": "80"
+        }
+    ]
+}

@@ -1,0 +1,259 @@
+{
+  "classSpells": {
+    "Fury": {
+      "className": "Fury",
+      "spellLines": [
+        {
+          "spellLineId": "natures_salve",
+          "spellLineName": "Nature's Salve",
+          "description": "Healing spell line for restoring health over time",
+          "spellType": "Heal",
+          "spells": [
+            {
+              "spellId": "natures_salve_1",
+              "name": "Minor Salve",
+              "level": 1,
+              "description": "A minor healing spell that restores health over time"
+            },
+            {
+              "spellId": "natures_salve_2",
+              "name": "Salve",
+              "level": 7,
+              "description": "A healing spell that restores health over time"
+            },
+            {
+              "spellId": "natures_salve_3",
+              "name": "Greater Salve",
+              "level": 15,
+              "description": "A greater healing spell that restores health over time"
+            },
+            {
+              "spellId": "natures_salve_4",
+              "name": "Predatory Salve",
+              "level": 29,
+              "description": "A predatory healing spell that restores health over time"
+            },
+            {
+              "spellId": "natures_salve_5",
+              "name": "Natures Salve",
+              "level": 22,
+              "description": "Nature's healing spell that restores health over time"
+            },
+            {
+              "spellId": "natures_salve_6",
+              "name": "Feral Salve",
+              "level": 43,
+              "description": "A feral healing spell that restores health over time"
+            },
+            {
+              "spellId": "natures_salve_7",
+              "name": "Wild Salve",
+              "level": 57,
+              "description": "A wild healing spell that restores health over time"
+            },
+            {
+              "spellId": "natures_salve_8",
+              "name": "Dire Salve",
+              "level": 71,
+              "description": "A dire healing spell that restores health over time"
+            }
+          ]
+        },
+        {
+          "spellLineId": "death_swarm",
+          "spellLineName": "Death Swarm",
+          "description": "Damage over time spell line using insect swarms",
+          "spellType": "DoT",
+          "spells": [
+            {
+              "spellId": "death_swarm_1",
+              "name": "Stinging Insects",
+              "level": 1,
+              "description": "Summons stinging insects to attack the target"
+            },
+            {
+              "spellId": "death_swarm_2",
+              "name": "Stinging Swarm",
+              "level": 9,
+              "description": "Summons a stinging swarm to attack the target"
+            },
+            {
+              "spellId": "death_swarm_3",
+              "name": "Provoking Swarm",
+              "level": 17,
+              "description": "Summons a provoking swarm to attack the target"
+            },
+            {
+              "spellId": "death_swarm_4",
+              "name": "Deadly Swarm",
+              "level": 31,
+              "description": "Summons a deadly swarm to attack the target"
+            },
+            {
+              "spellId": "death_swarm_5",
+              "name": "Dooming Swarm",
+              "level": 45,
+              "description": "Summons a dooming swarm to attack the target"
+            },
+            {
+              "spellId": "death_swarm_6",
+              "name": "Killing Swarm",
+              "level": 59,
+              "description": "Summons a killing swarm to attack the target"
+            },
+            {
+              "spellId": "death_swarm_7",
+              "name": "Death Swarm",
+              "level": 72,
+              "description": "Summons a death swarm to attack the target"
+            }
+          ]
+        },
+        {
+          "spellLineId": "thornskin",
+          "spellLineName": "Thornskin",
+          "description": "Defensive spell line that damages attackers",
+          "spellType": "Buff",
+          "spells": [
+            {
+              "spellId": "thornskin_1",
+              "name": "Bristles",
+              "level": 2,
+              "description": "Covers the caster in bristles that damage attackers"
+            },
+            {
+              "spellId": "thornskin_2",
+              "name": "Bristleskin",
+              "level": 10,
+              "description": "Covers the caster in bristleskin that damages attackers"
+            },
+            {
+              "spellId": "thornskin_3",
+              "name": "Bristlepelt",
+              "level": 24,
+              "description": "Covers the caster in bristlepelt that damages attackers"
+            },
+            {
+              "spellId": "thornskin_4",
+              "name": "Barbed Skin",
+              "level": 38,
+              "description": "Covers the caster in barbed skin that damages attackers"
+            },
+            {
+              "spellId": "thornskin_5",
+              "name": "Thornskin",
+              "level": 52,
+              "description": "Covers the caster in thornskin that damages attackers"
+            },
+            {
+              "spellId": "thornskin_6",
+              "name": "Spineskin",
+              "level": 66,
+              "description": "Covers the caster in spineskin that damages attackers"
+            },
+            {
+              "spellId": "thornskin_7",
+              "name": "Quillskin",
+              "level": 77,
+              "description": "Covers the caster in quillskin that damages attackers"
+            }
+          ]
+        },
+        {
+          "spellLineId": "tempest",
+          "spellLineName": "Tempest",
+          "description": "Area effect damage spell line using wind and storms",
+          "spellType": "AoE",
+          "spells": [
+            {
+              "spellId": "tempest_1",
+              "name": "Squall",
+              "level": 3,
+              "description": "Creates a small squall to damage nearby enemies"
+            },
+            {
+              "spellId": "tempest_2",
+              "name": "Twirl",
+              "level": 11,
+              "description": "Creates a twirling wind to damage nearby enemies"
+            },
+            {
+              "spellId": "tempest_3",
+              "name": "Cyclone",
+              "level": 25,
+              "description": "Creates a cyclone to damage nearby enemies"
+            },
+            {
+              "spellId": "tempest_4",
+              "name": "Whirlwind",
+              "level": 39,
+              "description": "Creates a whirlwind to damage nearby enemies"
+            },
+            {
+              "spellId": "tempest_5",
+              "name": "Waterspout",
+              "level": 53,
+              "description": "Creates a waterspout to damage nearby enemies"
+            },
+            {
+              "spellId": "tempest_6",
+              "name": "Tempest",
+              "level": 67,
+              "description": "Creates a tempest to damage nearby enemies"
+            },
+            {
+              "spellId": "tempest_7",
+              "name": "Typhoon",
+              "level": 78,
+              "description": "Creates a typhoon to damage nearby enemies"
+            }
+          ]
+        },
+        {
+          "spellLineId": "thunderbolt",
+          "spellLineName": "Thunderbolt",
+          "description": "Direct damage lightning spell line",
+          "spellType": "Damage",
+          "spells": [
+            {
+              "spellId": "thunderbolt_1",
+              "name": "Strike of Thunder",
+              "level": 23,
+              "description": "Strikes the target with thunder"
+            },
+            {
+              "spellId": "thunderbolt_2",
+              "name": "Strike of Storms",
+              "level": 37,
+              "description": "Strikes the target with storms"
+            },
+            {
+              "spellId": "thunderbolt_3",
+              "name": "Bolt of Storms",
+              "level": 51,
+              "description": "Hurls a bolt of storms at the target"
+            },
+            {
+              "spellId": "thunderbolt_4",
+              "name": "Thunderbolt",
+              "level": 65,
+              "description": "Hurls a thunderbolt at the target"
+            },
+            {
+              "spellId": "thunderbolt_5",
+              "name": "Lightning Bolt",
+              "level": 77,
+              "description": "Hurls a lightning bolt at the target"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2025-08-09",
+    "source": "EverQuest II Official Spell Data",
+    "description": "EQ2 spell data structure for character spell planning"
+  }
+}

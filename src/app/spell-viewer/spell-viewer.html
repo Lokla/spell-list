@@ -1,0 +1,42 @@
+<div class="spell-viewer">
+  <div class="container">
+    <h2>Character Spell Books</h2>
+    
+    <div class="character-selector" *ngIf="characters.length > 0">
+      <label for="characterSelect">Select Character:</label>
+      <select id="characterSelect" [(ngModel)]="selectedCharacterId" (change)="onCharacterChange()" class="character-select">
+        <option value="">Choose a character...</option>
+        <option *ngFor="let character of characters" [value]="character.id">
+          {{ character.name }} ({{ character.class }}, Level {{ character.level }})
+        </option>
+      </select>
+    </div>
+
+    <div class="character-spells" *ngIf="selectedCharacter">
+      <div class="character-info">
+        <h3>{{ selectedCharacter.name }}</h3>
+        <p class="character-details">{{ selectedCharacter.class }} - Level {{ selectedCharacter.level }}</p>
+        <p class="spell-count">{{ selectedCharacter.spells.length }} spell(s) available</p>
+      </div>
+
+      <div class="spells-grid" *ngIf="selectedCharacter.spells.length > 0">
+        <div class="spell-card" *ngFor="let spell of selectedCharacter.spells">
+          <div class="spell-header">
+            <h4 class="spell-name">{{ spell.name }}</h4>
+            <span class="spell-level">Level {{ spell.level }}</span>
+          </div>
+          <p class="spell-line">{{ spell.line }}</p>
+        </div>
+      </div>
+
+      <div class="no-spells" *ngIf="selectedCharacter.spells.length === 0">
+        <p>No spells available for this character yet.</p>
+        <button class="refresh-btn" (click)="refreshCharacterSpells()">Load Spells</button>
+      </div>
+    </div>
+
+    <div class="no-characters" *ngIf="characters.length === 0">
+      <p>No characters created yet. Create a character first to view their spell book.</p>
+    </div>
+  </div>
+</div>

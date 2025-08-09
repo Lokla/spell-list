@@ -1,0 +1,845 @@
+{
+    "class": "Dirge",
+    "spells": [
+        {
+            "name": "Shroud",
+            "line": "Shroud",
+            "level": "1"
+        },
+        {
+            "name": "Singing Strike",
+            "line": "Thuri's Doleful Thrust",
+            "level": "1"
+        },
+        {
+            "name": "Tracking",
+            "line": "Tracking",
+            "level": "1"
+        },
+        {
+            "name": "Harl's Athletic Tune",
+            "line": "Harl's Rousing Tune",
+            "level": "2"
+        },
+        {
+            "name": "Haunting Strike",
+            "line": "Misfortune's Kiss",
+            "level": "2"
+        },
+        {
+            "name": "Offensive Boon",
+            "line": "Songster's Luck",
+            "level": "3"
+        },
+        {
+            "name": "Shriek",
+            "line": "Luda's Nefarious Wail",
+            "level": "3"
+        },
+        {
+            "name": "Pathfinding",
+            "line": "Pathfinding",
+            "level": "4"
+        },
+        {
+            "name": "Cheap Shot",
+            "line": "Cheap Shot",
+            "level": "4"
+        },
+        {
+            "name": "Side Blade",
+            "line": "Daro's Dull Blade",
+            "level": "5"
+        },
+        {
+            "name": "Lucky Break",
+            "line": "Lucky Break",
+            "level": "5"
+        },
+        {
+            "name": "Evade",
+            "line": "Evade",
+            "level": "6"
+        },
+        {
+            "name": "Verlien's Keen of Slowness",
+            "line": "Verlien's Keen of Despair",
+            "level": "7"
+        },
+        {
+            "name": "Singing Blade",
+            "line": "Thuri's Doleful Thrust",
+            "level": "8"
+        },
+        {
+            "name": "Tarven's Confounding Chorus",
+            "line": "Tarven's Crippling Crescendo",
+            "level": "8"
+        },
+        {
+            "name": "Wailing Strike",
+            "line": "Misfortune's Kiss",
+            "level": "9"
+        },
+        {
+            "name": "Harl's Rousing Tune",
+            "line": "Harl's Rousing Tune",
+            "level": "10"
+        },
+        {
+            "name": "Diseased Blade",
+            "line": "Darksong Blade",
+            "level": "11"
+        },
+        {
+            "name": "Piercing Shriek",
+            "line": "Luda's Nefarious Wail",
+            "level": "12"
+        },
+        {
+            "name": "Bria's Stirring Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "13"
+        },
+        {
+            "name": "Selo's Accelerando",
+            "line": "Selo's Accelerando",
+            "level": "13"
+        },
+        {
+            "name": "Deaths Door",
+            "line": "Death's Door",
+            "level": "13"
+        },
+        {
+            "name": "Relentless Tune",
+            "line": "Riana's Relentless Tune",
+            "level": "14"
+        },
+        {
+            "name": "Singing Thrust",
+            "line": "Thuri's Doleful Thrust",
+            "level": "15"
+        },
+        {
+            "name": "Dissonance",
+            "line": "Jarol's Sorrowful Requiem",
+            "level": "15"
+        },
+        {
+            "name": "Sapping Shot",
+            "line": "Jael's Dreadful Deprivation",
+            "level": "16"
+        },
+        {
+            "name": "Songster's Luck",
+            "line": "Songster's Luck",
+            "level": "17"
+        },
+        {
+            "name": "Divert",
+            "line": "Evade",
+            "level": "18"
+        },
+        {
+            "name": "Jael's Elusion",
+            "line": "Jael's Mysterious Mettle",
+            "level": "18"
+        },
+        {
+            "name": "Dull Blade",
+            "line": "Daro's Dull Blade",
+            "level": "19"
+        },
+        {
+            "name": "Reproaching Discante",
+            "line": "Disheartening Descant",
+            "level": "19"
+        },
+        {
+            "name": "Noxious Chorus",
+            "line": "Noxious Symphony",
+            "level": "20"
+        },
+        {
+            "name": "Lanet's Excruciating Scream",
+            "line": "Lanet's Excruciating Scream",
+            "level": "20"
+        },
+        {
+            "name": "Misfortunes Kiss",
+            "line": "Misfortune's Kiss",
+            "level": "21"
+        },
+        {
+            "name": "Tarven's Crippling Crescendo",
+            "line": "Tarven's Crippling Crescendo",
+            "level": "22"
+        },
+        {
+            "name": "Crypt's Quiet",
+            "line": "Dead Calm",
+            "level": "22"
+        },
+        {
+            "name": "Verlien's Enigmatic Falsetto",
+            "line": "Verlien's Keen of Despair",
+            "level": "23"
+        },
+        {
+            "name": "Harl's Quickening Euphony",
+            "line": "Harl's Rousing Tune",
+            "level": "24"
+        },
+        {
+            "name": "Clara's Chaotic Cacophony",
+            "line": "Clara's Chaotic Cacophony",
+            "level": "24"
+        },
+        {
+            "name": "Darksong Blade",
+            "line": "Darksong Blade",
+            "level": "25"
+        },
+        {
+            "name": "Escape",
+            "line": "Escape",
+            "level": "25"
+        },
+        {
+            "name": "Luda's Wicked Warble",
+            "line": "Luda's Nefarious Wail",
+            "level": "26"
+        },
+        {
+            "name": "Garsin's Funeral March",
+            "line": "Garsin's Funeral March",
+            "level": "26"
+        },
+        {
+            "name": "Bria's Thrilling Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "27"
+        },
+        {
+            "name": "Selo's Rhythm of Speed",
+            "line": "Selo's Accelerando",
+            "level": "27"
+        },
+        {
+            "name": "Deaths Scent",
+            "line": "Death's Door",
+            "level": "27"
+        },
+        {
+            "name": "Riana's Relentless Tune",
+            "line": "Riana's Relentless Tune",
+            "level": "28"
+        },
+        {
+            "name": "Cry of the Departed",
+            "line": "Howl of Death",
+            "level": "28"
+        },
+        {
+            "name": "Thuri's Doleful Thrust",
+            "line": "Thuri's Doleful Thrust",
+            "level": "29"
+        },
+        {
+            "name": "Dissonant Rhythm",
+            "line": "Jarol's Sorrowful Requiem",
+            "level": "29"
+        },
+        {
+            "name": "Thuri's Sapping Shot",
+            "line": "Jael's Dreadful Deprivation",
+            "level": "30"
+        },
+        {
+            "name": "Daro's Doleful Dirge",
+            "line": "Daro's Sorrowful Dirge",
+            "level": "30"
+        },
+        {
+            "name": "Lucky Boon",
+            "line": "Songster's Luck",
+            "level": "31"
+        },
+        {
+            "name": "Slip",
+            "line": "Evade",
+            "level": "32"
+        },
+        {
+            "name": "Jael's Mysterious Mettle",
+            "line": "Jael's Mysterious Mettle",
+            "level": "32"
+        },
+        {
+            "name": "Hyran's Angry Sonata",
+            "line": "Hyran's Seething Sonata",
+            "level": "32"
+        },
+        {
+            "name": "Daro's Dull Blade",
+            "line": "Daro's Dull Blade",
+            "level": "33"
+        },
+        {
+            "name": "Discouraging Discante",
+            "line": "Disheartening Descant",
+            "level": "33"
+        },
+        {
+            "name": "Noxious Symphony",
+            "line": "Noxious Symphony",
+            "level": "34"
+        },
+        {
+            "name": "Lanet's Agonizing Scream",
+            "line": "Lanet's Excruciating Scream",
+            "level": "34"
+        },
+        {
+            "name": "Delusory Trill",
+            "line": "Misfortune's Kiss",
+            "level": "35"
+        },
+        {
+            "name": "Zander's Choral Rebuff",
+            "line": "Zander's Choral Rebuff",
+            "level": "35"
+        },
+        {
+            "name": "Tarven's Bedeviled Undersong",
+            "line": "Tarven's Crippling Crescendo",
+            "level": "36"
+        },
+        {
+            "name": "Grave's Peace",
+            "line": "Dead Calm",
+            "level": "36"
+        },
+        {
+            "name": "Verlien's Keen of Woe",
+            "line": "Verlien's Keen of Despair",
+            "level": "37"
+        },
+        {
+            "name": "Harl's Kindling Strain",
+            "line": "Harl's Rousing Tune",
+            "level": "38"
+        },
+        {
+            "name": "Clara's Crazed Cacophony",
+            "line": "Clara's Chaotic Cacophony",
+            "level": "38"
+        },
+        {
+            "name": "Afflicted Blade",
+            "line": "Darksong Blade",
+            "level": "39"
+        },
+        {
+            "name": "Luda's Fiendish Howl",
+            "line": "Luda's Nefarious Wail",
+            "level": "40"
+        },
+        {
+            "name": "Garsin's Burial March",
+            "line": "Garsin's Funeral March",
+            "level": "40"
+        },
+        {
+            "name": "Wail of Woe",
+            "line": "Hymn of Horror",
+            "level": "40"
+        },
+        {
+            "name": "Bria's Exalting Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "41"
+        },
+        {
+            "name": "Selo's Accelerating Chorus",
+            "line": "Selo's Accelerando",
+            "level": "41"
+        },
+        {
+            "name": "Lithe Disbelief",
+            "line": "Death's Door",
+            "level": "41"
+        },
+        {
+            "name": "Riana's Spiteful Sustain",
+            "line": "Riana's Relentless Tune",
+            "level": "42"
+        },
+        {
+            "name": "Cry of the Dead",
+            "line": "Howl of Death",
+            "level": "42"
+        },
+        {
+            "name": "Bereavement",
+            "line": "Thuri's Doleful Thrust",
+            "level": "43"
+        },
+        {
+            "name": "Melancholy Requiem",
+            "line": "Jarol's Sorrowful Requiem",
+            "level": "43"
+        },
+        {
+            "name": "Jael's Dreadful Depletion",
+            "line": "Jael's Dreadful Deprivation",
+            "level": "44"
+        },
+        {
+            "name": "Daro's Sorrowful Dirge",
+            "line": "Daro's Sorrowful Dirge",
+            "level": "44"
+        },
+        {
+            "name": "Elegy at Death's Door",
+            "line": "Elegy at Death's Door",
+            "level": "44"
+        },
+        {
+            "name": "Discordant Boon",
+            "line": "Songster's Luck",
+            "level": "45"
+        },
+        {
+            "name": "Evasion",
+            "line": "Evade",
+            "level": "46"
+        },
+        {
+            "name": "Wailing Elusion",
+            "line": "Jael's Mysterious Mettle",
+            "level": "46"
+        },
+        {
+            "name": "Hyran's Raging Sonata",
+            "line": "Hyran's Seething Sonata",
+            "level": "46"
+        },
+        {
+            "name": "Guttural Shriek",
+            "line": "Daro's Dull Blade",
+            "level": "47"
+        },
+        {
+            "name": "Oppressive Discante",
+            "line": "Disheartening Descant",
+            "level": "47"
+        },
+        {
+            "name": "Noxious Concerto",
+            "line": "Noxious Symphony",
+            "level": "48"
+        },
+        {
+            "name": "Lanet's Violent Scream",
+            "line": "Lanet's Excruciating Scream",
+            "level": "48"
+        },
+        {
+            "name": "Garsins Haunting Wail",
+            "line": "Misfortune's Kiss",
+            "level": "49"
+        },
+        {
+            "name": "Tarven's Cantankerous Verse",
+            "line": "Tarven's Crippling Crescendo",
+            "level": "50"
+        },
+        {
+            "name": "Tomb's Stillness",
+            "line": "Dead Calm",
+            "level": "50"
+        },
+        {
+            "name": "Wail of the Banshee",
+            "line": "Wail of the Banshee",
+            "level": "50"
+        },
+        {
+            "name": "Verlien's Keen of Despair",
+            "line": "Verlien's Keen of Despair",
+            "level": "51"
+        },
+        {
+            "name": "Harl's Rousing Strain",
+            "line": "Harl's Rousing Tune",
+            "level": "52"
+        },
+        {
+            "name": "Clara's Cataclysmic Cacophony",
+            "line": "Clara's Chaotic Cacophony",
+            "level": "52"
+        },
+        {
+            "name": "Percussion of Stone",
+            "line": "Percussion of Stone",
+            "level": "52"
+        },
+        {
+            "name": "Void Blade",
+            "line": "Darksong Blade",
+            "level": "53"
+        },
+        {
+            "name": "Magic Rebuff",
+            "line": "Zander's Choral Rebuff",
+            "level": "53"
+        },
+        {
+            "name": "Luda's Heinous Cry",
+            "line": "Luda's Nefarious Wail",
+            "level": "54"
+        },
+        {
+            "name": "Garsin's Burial Chant",
+            "line": "Garsin's Funeral March",
+            "level": "54"
+        },
+        {
+            "name": "Hymn of Horror",
+            "line": "Hymn of Horror",
+            "level": "54"
+        },
+        {
+            "name": "Bria's Glorifying Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "55"
+        },
+        {
+            "name": "Selo's Speed of Sound",
+            "line": "Selo's Accelerando",
+            "level": "55"
+        },
+        {
+            "name": "Supple Disdain",
+            "line": "Death's Door",
+            "level": "55"
+        },
+        {
+            "name": "Scream of Death",
+            "line": "Scream of Death",
+            "level": "55"
+        },
+        {
+            "name": "Riana's Scornful Sustain",
+            "line": "Riana's Relentless Tune",
+            "level": "56"
+        },
+        {
+            "name": "Howl of the Dead",
+            "line": "Howl of Death",
+            "level": "56"
+        },
+        {
+            "name": "Grievance",
+            "line": "Thuri's Doleful Thrust",
+            "level": "57"
+        },
+        {
+            "name": "Jarol's Sorrowful Requiem",
+            "line": "Jarol's Sorrowful Requiem",
+            "level": "57"
+        },
+        {
+            "name": "Jael's Dreadful Deprivation",
+            "line": "Jael's Dreadful Deprivation",
+            "level": "58"
+        },
+        {
+            "name": "Daro's Disconsolate Dirge",
+            "line": "Daro's Sorrowful Dirge",
+            "level": "58"
+        },
+        {
+            "name": "Cacophony of Blades",
+            "line": "Cacophony of Blades",
+            "level": "58"
+        },
+        {
+            "name": "Elegy of Awakening",
+            "line": "Elegy of Awakening",
+            "level": "58"
+        },
+        {
+            "name": "Dissonant Boon",
+            "line": "Songster's Luck",
+            "level": "59"
+        },
+        {
+            "name": "Elude",
+            "line": "Evade",
+            "level": "60"
+        },
+        {
+            "name": "Screeching Elusion",
+            "line": "Jael's Mysterious Mettle",
+            "level": "60"
+        },
+        {
+            "name": "Hyran's Seething Sonata",
+            "line": "Hyran's Seething Sonata",
+            "level": "60"
+        },
+        {
+            "name": "Shrieking Stab",
+            "line": "Daro's Dull Blade",
+            "level": "61"
+        },
+        {
+            "name": "Disheartening Discante",
+            "line": "Disheartening Descant",
+            "level": "61"
+        },
+        {
+            "name": "Noxious Dissertation",
+            "line": "Noxious Symphony",
+            "level": "62"
+        },
+        {
+            "name": "Lanet's Tumultuous Scream",
+            "line": "Lanet's Excruciating Scream",
+            "level": "62"
+        },
+        {
+            "name": "Garsins Grim Acclamation",
+            "line": "Misfortune's Kiss",
+            "level": "63"
+        },
+        {
+            "name": "Tarven's Quarrelsome Rhyme",
+            "line": "Tarven's Crippling Crescendo",
+            "level": "64"
+        },
+        {
+            "name": "Tomb's Calm",
+            "line": "Dead Calm",
+            "level": "64"
+        },
+        {
+            "name": "Verlien's Keen of Calamity",
+            "line": "Verlien's Keen of Despair",
+            "level": "65"
+        },
+        {
+            "name": "Oration of Sacrifice",
+            "line": "Oration of Sacrifice",
+            "level": "65"
+        },
+        {
+            "name": "Harl's Awakening Strain",
+            "line": "Harl's Rousing Tune",
+            "level": "66"
+        },
+        {
+            "name": "Clara's Catastrophic Cacophony",
+            "line": "Clara's Chaotic Cacophony",
+            "level": "66"
+        },
+        {
+            "name": "Infected Blade",
+            "line": "Darksong Blade",
+            "level": "67"
+        },
+        {
+            "name": "Luda's Nefarious Wail",
+            "line": "Luda's Nefarious Wail",
+            "level": "68"
+        },
+        {
+            "name": "Garsin's Haunting March",
+            "line": "Garsin's Funeral March",
+            "level": "68"
+        },
+        {
+            "name": "Wail of Horror",
+            "line": "Hymn of Horror",
+            "level": "68"
+        },
+        {
+            "name": "Bria's Inspiring Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "69"
+        },
+        {
+            "name": "Death Bearer",
+            "line": "Death's Door",
+            "level": "69"
+        },
+        {
+            "name": "Riana's Maligning Sustain",
+            "line": "Riana's Relentless Tune",
+            "level": "70"
+        },
+        {
+            "name": "Wail of the Dead",
+            "line": "Howl of Death",
+            "level": "70"
+        },
+        {
+            "name": "Banshee",
+            "line": "Wail of the Banshee",
+            "level": "70"
+        },
+        {
+            "name": "Siphon Blade",
+            "line": "Thuri's Doleful Thrust",
+            "level": "71"
+        },
+        {
+            "name": "Dissonant Requiem",
+            "line": "Jarol's Sorrowful Requiem",
+            "level": "71"
+        },
+        {
+            "name": "Deprivating Shot",
+            "line": "Jael's Dreadful Deprivation",
+            "level": "71"
+        },
+        {
+            "name": "Spell Rebuff",
+            "line": "Zander's Choral Rebuff",
+            "level": "71"
+        },
+        {
+            "name": "Weapon Boon",
+            "line": "Songster's Luck",
+            "level": "72"
+        },
+        {
+            "name": "Emotional Dirge",
+            "line": "Daro's Sorrowful Dirge",
+            "level": "72"
+        },
+        {
+            "name": "Baffle",
+            "line": "Evade",
+            "level": "73"
+        },
+        {
+            "name": "Weapon Elusion",
+            "line": "Jael's Mysterious Mettle",
+            "level": "73"
+        },
+        {
+            "name": "Devigorating Discante",
+            "line": "Disheartening Descant",
+            "level": "73"
+        },
+        {
+            "name": "Shriek Blade",
+            "line": "Daro's Dull Blade",
+            "level": "74"
+        },
+        {
+            "name": "Noxious Tempo",
+            "line": "Noxious Symphony",
+            "level": "74"
+        },
+        {
+            "name": "Lanet's Scream",
+            "line": "Lanet's Excruciating Scream",
+            "level": "74"
+        },
+        {
+            "name": "Scream of Blood",
+            "line": "Scream of Death",
+            "level": "74"
+        },
+        {
+            "name": "Grim Strike",
+            "line": "Misfortune's Kiss",
+            "level": "75"
+        },
+        {
+            "name": "Rhyming Curse",
+            "line": "Tarven's Crippling Crescendo",
+            "level": "75"
+        },
+        {
+            "name": "Dead Calm",
+            "line": "Dead Calm",
+            "level": "75"
+        },
+        {
+            "name": "Keen Tactics",
+            "line": "Verlien's Keen of Despair",
+            "level": "76"
+        },
+        {
+            "name": "Vile Blade",
+            "line": "Darksong Blade",
+            "level": "76"
+        },
+        {
+            "name": "Chimes of Blades",
+            "line": "Cacophony of Blades",
+            "level": "76"
+        },
+        {
+            "name": "Athletic Strain",
+            "line": "Harl's Rousing Tune",
+            "level": "77"
+        },
+        {
+            "name": "Clara's Cacophony",
+            "line": "Clara's Chaotic Cacophony",
+            "level": "77"
+        },
+        {
+            "name": "Penetrating Shriek",
+            "line": "Luda's Nefarious Wail",
+            "level": "78"
+        },
+        {
+            "name": "Fearful March",
+            "line": "Garsin's Funeral March",
+            "level": "78"
+        },
+        {
+            "name": "Speech of Sacrifice",
+            "line": "Oration of Sacrifice",
+            "level": "78"
+        },
+        {
+            "name": "Power Ballad",
+            "line": "Bria's Inspiring Ballad",
+            "level": "79"
+        },
+        {
+            "name": "Deaths Edge",
+            "line": "Death's Door",
+            "level": "79"
+        },
+        {
+            "name": "Riana's Indignant Sustain",
+            "line": "Riana's Relentless Tune",
+            "level": "80"
+        },
+        {
+            "name": "Howl of Death",
+            "line": "Howl of Death",
+            "level": "80"
+        },
+        {
+            "name": "Cry of The Banshee",
+            "line": "Wail of the Banshee",
+            "level": "80"
+        },
+        {
+            "name": "Gravitas",
+            "line": "Gravitas",
+            "level": "80"
+        }
+    ]
+}
