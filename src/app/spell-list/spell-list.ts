@@ -28,7 +28,7 @@ export class SpellListComponent implements OnInit {
 
   // Filter options
   hiddenQualities: Set<string> = new Set();
-  hideSpellsAboveLevel70 = false;
+  hideSpellsAboveLevel70 = true;
   hideOutlevelledSpells = false;
   filteredSpells: SpellWithReplacement[] = [];
   showFilters = false;
