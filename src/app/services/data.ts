@@ -49,6 +49,12 @@ export class Data {
   private spellData: SpellData | null = null;
   private classDataCache: Map<string, ClassSpells> = new Map();
 
+  private get assetsBasePath(): string {
+    // Check if we're on GitHub Pages
+    const isGitHubPages = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
+    return isGitHubPages ? '/spell-list/assets' : '/assets';
+  }
+
   constructor(private http: HttpClient) { }
 
   // Get available spell qualities
@@ -94,7 +100,7 @@ export class Data {
       return of(this.classDataCache.get(cacheKey)!);
     }
     
-    return this.http.get<ClassSpells>(`assets/${className.toLowerCase()}.json`).pipe(
+    return this.http.get<ClassSpells>(`${this.assetsBasePath}/${className.toLowerCase()}.json`).pipe(
       tap((classData: ClassSpells) => {
         // Cache the loaded data
         this.classDataCache.set(cacheKey, classData);

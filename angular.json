@@ -23,6 +23,11 @@
                 "glob": "**/*",
                 "input": "public",
                 "output": "/assets"
+              },
+              {
+                "glob": "**/*.json",
+                "input": "public",
+                "output": "/spell-list/assets"
               }
             ],
             "styles": [
@@ -61,8 +66,7 @@
               "buildTarget": "spell-planner:build:production"
             },
             "development": {
-              "buildTarget": "spell-planner:build:development",
-              "publicHost": "http://localhost:4200/"
+              "buildTarget": "spell-planner:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -81,8 +85,13 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "src/assets",
+                "input": "public",
                 "output": "/assets"
+              },
+              {
+                "glob": "**/*.json",
+                "input": "public",
+                "output": "/spell-list/assets"
               }
             ],
             "styles": [
