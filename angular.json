@@ -23,6 +23,11 @@
                 "glob": "**/*",
                 "input": "public",
                 "output": "/assets"
+              },
+              {
+                "glob": "**/*.json",
+                "input": "public",
+                "output": "/"
               }
             ],
             "styles": [
@@ -44,7 +49,8 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/spell-list/"
+              "baseHref": "/spell-list/",
+              "optimization": true
             },
             "development": {
               "optimization": false,
