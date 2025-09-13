@@ -22,12 +22,7 @@
               {
                 "glob": "**/*",
                 "input": "public",
-                "output": "/assets"
-              },
-              {
-                "glob": "**/*.json",
-                "input": "public",
-                "output": "/spell-list/assets"
+                "output": "/"
               }
             ],
             "styles": [

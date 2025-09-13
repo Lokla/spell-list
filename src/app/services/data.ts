@@ -49,10 +49,10 @@ export class Data {
   private spellData: SpellData | null = null;
   private classDataCache: Map<string, ClassSpells> = new Map();
 
-  private get assetsBasePath(): string {
+  private get basePath(): string {
     // Check if we're on GitHub Pages
     const isGitHubPages = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
-    return isGitHubPages ? '/spell-list/assets' : '/assets';
+    return isGitHubPages ? '/spell-list' : '';
   }
 
   constructor(private http: HttpClient) { }
@@ -100,7 +100,7 @@ export class Data {
       return of(this.classDataCache.get(cacheKey)!);
     }
     
-    return this.http.get<ClassSpells>(`${this.assetsBasePath}/${className.toLowerCase()}.json`).pipe(
+    return this.http.get<ClassSpells>(`${this.basePath}/${className.toLowerCase()}.json`).pipe(
       tap((classData: ClassSpells) => {
         // Cache the loaded data
         this.classDataCache.set(cacheKey, classData);
@@ -158,7 +158,7 @@ export class Data {
       return of(this.spellData);
     }
 
-    return this.http.get<SpellData>('assets/spells.json').pipe(
+    return this.http.get<SpellData>(`${this.basePath}/spells.json`).pipe(
       map(data => {
         this.spellData = data;
         return data;
