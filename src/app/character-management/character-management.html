@@ -3,7 +3,7 @@
     <h2>Character Management</h2>
     
     <div class="character-actions">
-      <button class="primary-btn" (click)="showCreateForm = !showCreateForm">
+      <button class="primary-btn" (click)="resetForm()">
         {{ showCreateForm ? 'Cancel' : 'Create New Character' }}
       </button>
       <button class="secondary-btn" (click)="showImportForm = !showImportForm">
@@ -13,7 +13,7 @@
 
     <!-- Create Character Form -->
     <div class="create-form" *ngIf="showCreateForm">
-      <h3>Create New Character</h3>
+      <h3>{{ isEditMode ? 'Edit Character' : 'Create New Character' }}</h3>
       <form (ngSubmit)="createCharacter()" #characterForm="ngForm">
         <div class="form-group">
           <label for="characterName">Character Name:</label>
@@ -74,7 +74,7 @@
         
         <div class="form-actions">
           <button type="submit" class="primary-btn" [disabled]="!characterForm.form.valid">
-            Create Character
+            {{ isEditMode ? 'Save Changes' : 'Create Character' }}
           </button>
         </div>
       </form>
@@ -111,6 +111,12 @@
             <button class="icon-btn edit-icon" (click)="editCharacter(character)" title="Edit Character">
               ✏️
             </button>
+            <button 
+              class="icon-btn level-up-btn" 
+              (click)="levelUpCharacter(character)" 
+              [disabled]="character.level >= 125"
+              title="Level Up Character"
+            >⬆️</button>
             <button class="icon-btn apply-noquality-icon" (click)="applyNoQualitySettings(character)" title="Apply No Quality Settings">
               🔄
             </button>

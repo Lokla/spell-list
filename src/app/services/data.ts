@@ -152,7 +152,7 @@ export class Data {
       return of(this.spellData);
     }
 
-    return this.http.get<SpellData>('/spells.json').pipe(
+    return this.http.get<SpellData>('assets/spells.json').pipe(
       map(data => {
         this.spellData = data;
         return data;

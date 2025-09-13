@@ -478,11 +478,6 @@
             "level": "53"
         },
         {
-            "name": "Mana Cover",
-            "line": "Mana Cloak",
-            "level": "53"
-        },
-        {
             "name": "Seal of Ingenuity",
             "line": "Rune of Thought",
             "level": "54"
@@ -513,7 +508,7 @@
             "level": "56"
         },
         {
-            "name": "Prismatic Chaos",
+            "name": "Prismatic Havoc",
             "line": "Prismatic Chaos",
             "level": "56"
         },
@@ -643,7 +638,7 @@
             "level": "70"
         },
         {
-            "name": "Pristmatic Havoc",
+            "name": "Pristmatic Chaos",
             "line": "Prismatic Chaos",
             "level": "70"
         },
@@ -660,11 +655,6 @@
         {
             "name": "Bedazzlement",
             "line": "Bewilderment",
-            "level": "71"
-        },
-        {
-            "name": "Mana Shroud",
-            "line": "Mana Cloak",
             "level": "71"
         },
         {

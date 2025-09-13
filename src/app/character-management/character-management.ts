@@ -15,6 +15,8 @@ export class CharacterManagement implements OnInit {
   characters: Character[] = [];
   showCreateForm = false;
   showImportForm = false;
+  isEditMode = false;
+  editingCharacterId: string | null = null;
   newCharacter = {
     name: '',
     class: '',
@@ -31,17 +33,49 @@ export class CharacterManagement implements OnInit {
     this.characters = this.dataService.getCharacters();
   }
 
+  editCharacter(character: Character) {
+    this.isEditMode = true;
+    this.editingCharacterId = character.id;
+    this.showCreateForm = true;
+    this.newCharacter = {
+      name: character.name,
+      class: character.class,
+      level: character.level
+    };
+  }
+
   createCharacter() {
     if (this.newCharacter.name && this.newCharacter.class && this.newCharacter.level) {
-      const character: Character = {
-        id: this.dataService.generateId(),
-        name: this.newCharacter.name,
-        class: this.newCharacter.class,
-        level: this.newCharacter.level,
-        spells: [],
-        createdAt: new Date(),
-        updatedAt: new Date()
-      };
+      let character: Character;
+      
+      if (this.isEditMode && this.editingCharacterId) {
+        // Get existing character
+        const existingCharacter = this.dataService.getCharacter(this.editingCharacterId);
+        if (!existingCharacter) {
+          console.error('Character not found for editing');
+          return;
+        }
+        
+        // Update existing character
+        character = {
+          ...existingCharacter,
+          name: this.newCharacter.name,
+          class: this.newCharacter.class,
+          level: this.newCharacter.level,
+          updatedAt: new Date()
+        };
+      } else {
+        // Create new character
+        character = {
+          id: this.dataService.generateId(),
+          name: this.newCharacter.name,
+          class: this.newCharacter.class,
+          level: this.newCharacter.level,
+          spells: [],
+          createdAt: new Date(),
+          updatedAt: new Date()
+        };
+      }
 
       // Save character first
       this.dataService.saveCharacter(character);
@@ -61,11 +95,6 @@ export class CharacterManagement implements OnInit {
         }
       });
     }
-  }
-
-  editCharacter(character: Character) {
-    // For now, show an alert. This can be expanded to open an edit form
-    alert(`Edit functionality for ${character.name} coming soon!`);
   }
 
   deleteCharacter(characterId: string) {
@@ -186,12 +215,38 @@ export class CharacterManagement implements OnInit {
     }
   }
 
-  private resetForm() {
+  levelUpCharacter(character: Character) {
+    if (character.level < 125) { // Maximum level in EQ2
+      const updatedCharacter: Character = {
+        ...character,
+        level: character.level + 1,
+        updatedAt: new Date()
+      };
+      
+      this.dataService.saveCharacter(updatedCharacter);
+      
+      // Update spells for the new level
+      this.dataService.updateCharacterSpells(character.id).subscribe({
+        next: (result) => {
+          console.log('Character leveled up:', result);
+          this.loadCharacters();
+        },
+        error: (error) => {
+          console.error('Error updating spells after level up:', error);
+          this.loadCharacters(); // Still refresh the list to show new level
+        }
+      });
+    }
+  }
+
+  resetForm() {
     this.newCharacter = {
       name: '',
       class: '',
       level: 1
     };
     this.showCreateForm = false;
+    this.isEditMode = false;
+    this.editingCharacterId = null;
   }
 }

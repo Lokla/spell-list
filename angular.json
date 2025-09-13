@@ -21,13 +21,8 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "public/assets",
+                "input": "src/assets",
                 "output": "/assets"
-              },
-              {
-                "glob": "404.html",
-                "input": "src",
-                "output": "/"
               }
             ],
             "styles": [
@@ -66,7 +61,8 @@
               "buildTarget": "spell-planner:build:production"
             },
             "development": {
-              "buildTarget": "spell-planner:build:development"
+              "buildTarget": "spell-planner:build:development",
+              "publicHost": "http://localhost:4200/"
             }
           },
           "defaultConfiguration": "development"
@@ -85,7 +81,8 @@
             "assets": [
               {
                 "glob": "**/*",
-                "input": "public"
+                "input": "src/assets",
+                "output": "/assets"
               }
             ],
             "styles": [
