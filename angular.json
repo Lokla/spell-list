@@ -44,7 +44,8 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/spell-list/"
+              "baseHref": "/spell-list/",
+              "deployUrl": "/spell-list/"
             },
             "development": {
               "optimization": false,
