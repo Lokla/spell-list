@@ -22,7 +22,7 @@
               {
                 "glob": "**/*",
                 "input": "public",
-                "output": "/"
+                "output": "/assets"
               }
             ],
             "styles": [
