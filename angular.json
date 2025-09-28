@@ -50,6 +50,7 @@
               ],
               "outputHashing": "all",
               "baseHref": "/spell-list/",
+              "deployUrl": "/spell-list/",
               "optimization": true
             },
             "development": {

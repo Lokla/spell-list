@@ -50,8 +50,7 @@ export class Data {
   private classDataCache: Map<string, ClassSpells> = new Map();
 
   private get assetsPath(): string {
-    const isGitHubPages = window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1';
-    return isGitHubPages ? '' : 'assets';
+    return 'assets';
   }
 
   constructor(private http: HttpClient) { }
@@ -99,7 +98,7 @@ export class Data {
       return of(this.classDataCache.get(cacheKey)!);
     }
     
-    return this.http.get<ClassSpells>(`${this.assetsPath}/${className.toLowerCase()}.json`, { responseType: 'json' }).pipe(
+  return this.http.get<ClassSpells>(`assets/${className.toLowerCase()}.json`, { responseType: 'json' }).pipe(
       tap((classData: ClassSpells) => {
         // Cache the loaded data
         this.classDataCache.set(cacheKey, classData);
@@ -157,7 +156,7 @@ export class Data {
       return of(this.spellData);
     }
 
-    return this.http.get<SpellData>(`${this.assetsPath}/spells.json`, { responseType: 'json' }).pipe(
+  return this.http.get<SpellData>('assets/spells.json', { responseType: 'json' }).pipe(
       map(data => {
         this.spellData = data;
         return data;
