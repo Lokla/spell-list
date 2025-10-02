@@ -12,6 +12,21 @@ import { Data, Character } from '../services/data';
   styleUrl: './character-management.css'
 })
 export class CharacterManagement implements OnInit {
+  // ...existing code...
+
+  toggleCreateForm() {
+    if (!this.showCreateForm) {
+      // Opening the form for creation, reset fields
+      this.isEditMode = false;
+      this.editingCharacterId = null;
+      this.newCharacter = {
+        name: '',
+        class: '',
+        level: 1
+      };
+    }
+    this.showCreateForm = !this.showCreateForm;
+  }
   characters: Character[] = [];
   showCreateForm = false;
   showImportForm = false;

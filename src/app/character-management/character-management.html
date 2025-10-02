@@ -3,7 +3,7 @@
     <h2>Character Management</h2>
     
     <div class="character-actions">
-      <button class="primary-btn" (click)="resetForm()">
+      <button class="primary-btn" (click)="toggleCreateForm()">
         {{ showCreateForm ? 'Cancel' : 'Create New Character' }}
       </button>
       <button class="secondary-btn" (click)="showImportForm = !showImportForm">
