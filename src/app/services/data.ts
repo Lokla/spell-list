@@ -61,10 +61,10 @@ export class Data {
       { name: 'none', displayName: 'None', color: '#6c757d' },
       { name: 'apprentice', displayName: 'Apprentice', color: '#007bff' },
       { name: 'apprentice4', displayName: 'Apprentice IV', color: '#007bff' },
-      { name: 'adept1', displayName: 'Adept I', color: '#ffc107' },
-      { name: 'expert', displayName: 'Expert', color: '#28a745' },
-      { name: 'master1', displayName: 'Master I', color: '#ffc107' },
-      { name: 'grandmaster', displayName: 'Grandmaster', color: '#fd7e14' }
+      { name: 'adept1', displayName: 'Adept I', color: '#28a745' }, // green
+      { name: 'expert', displayName: 'Expert', color: '#ffd600' }, // yellow
+      { name: 'master1', displayName: 'Master I', color: '#ff9800' }, // orange
+      { name: 'grandmaster', displayName: 'Grandmaster', color: '#b71c1c' } // dark red
     ];
   }
 
